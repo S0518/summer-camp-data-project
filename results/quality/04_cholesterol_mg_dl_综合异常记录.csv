@@ -1,0 +1,2 @@
+﻿patient_id,age,gender,smoking_history,disease,height_cm,weight_kg,bp_systolic,bp_diastolic,cholesterol_mg_dl,blood_sugar_mg_dl,visit_date,bmi
+d622caee-3625-429e-a974-796f82b64b2b,53,Female,Former,Diabetes,160,98,151,72,315,100,2024-08-07,38.28124999999999

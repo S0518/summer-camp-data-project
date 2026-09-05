@@ -1,0 +1,86 @@
+{
+  "created_at": "2026-07-04 09:45:10",
+  "experiment_name": "disease_group_4class",
+  "config_path": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\results\\监督学习\\configs\\effective_disease_group_4class.json",
+  "selected_models": [
+    "LR",
+    "DT",
+    "RF"
+  ],
+  "feature_columns": [
+    "age",
+    "bmi",
+    "bp_risk_score",
+    "cholesterol_mg_dl",
+    "blood_sugar_mg_dl",
+    "smoking_score",
+    "gender"
+  ],
+  "numeric_features": [
+    "age",
+    "bmi",
+    "bp_risk_score",
+    "cholesterol_mg_dl",
+    "blood_sugar_mg_dl",
+    "smoking_score"
+  ],
+  "categorical_features": [
+    "gender"
+  ],
+  "target_column": "disease_group",
+  "all_data_shape": [
+    15943,
+    8
+  ],
+  "train_shape": [
+    12754,
+    7
+  ],
+  "test_shape": [
+    3189,
+    7
+  ],
+  "test_size": 0.2,
+  "random_state": 42,
+  "class_distribution_all": {
+    "Cardio_Cerebrovascular": 4829,
+    "Metabolic_Hypertension_Kidney": 4641,
+    "Respiratory_Pulmonary": 3275,
+    "Cancer_Other": 3198
+  },
+  "class_distribution_train": {
+    "Cardio_Cerebrovascular": 3863,
+    "Metabolic_Hypertension_Kidney": 3713,
+    "Respiratory_Pulmonary": 2620,
+    "Cancer_Other": 2558
+  },
+  "class_distribution_test": {
+    "Cardio_Cerebrovascular": 966,
+    "Metabolic_Hypertension_Kidney": 928,
+    "Respiratory_Pulmonary": 655,
+    "Cancer_Other": 640
+  },
+  "params": {
+    "target": "disease_group",
+    "global_class_weight_override": null,
+    "lr_class_weight": null,
+    "dt_class_weight": null,
+    "rf_class_weight": "balanced",
+    "lr_c": 0.02,
+    "lr_max_iter": 5000,
+    "dt_max_depth": 6,
+    "dt_min_samples_split": 40,
+    "dt_min_samples_leaf": 20,
+    "rf_n_estimators": 800,
+    "rf_max_depth": 8,
+    "rf_min_samples_split": 30,
+    "rf_min_samples_leaf": 15,
+    "rf_max_features": "log2",
+    "save_predictions": true,
+    "permutation_importance": true,
+    "perm_repeats": 10,
+    "dim_visualization": true,
+    "tsne_max_samples": 3000,
+    "tsne_perplexity": 30.0
+  }
+}

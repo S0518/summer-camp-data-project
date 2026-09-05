@@ -1,0 +1,16 @@
+﻿model_key,true_class,predicted_class,count,pair
+RF,"Chronic Respiratory Disease (COPD, Asthma)",Lung Cancer,64,"Chronic Respiratory Disease (COPD, Asthma) -> Lung Cancer"
+RF,Cancer,Lung Cancer,60,Cancer -> Lung Cancer
+RF,Cancer,Breast Cancer,56,Cancer -> Breast Cancer
+RF,Chronic Kidney Disease,Hypertension,53,Chronic Kidney Disease -> Hypertension
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Coronary Heart Disease,52,"Cardiovascular Disease (Heart Attack, Stroke) -> Coronary Heart Disease"
+RF,Chronic Kidney Disease,Diabetes,51,Chronic Kidney Disease -> Diabetes
+RF,Stroke,Hypertension,50,Stroke -> Hypertension
+RF,"Chronic Respiratory Disease (COPD, Asthma)",Breast Cancer,45,"Chronic Respiratory Disease (COPD, Asthma) -> Breast Cancer"
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Stroke,44,"Cardiovascular Disease (Heart Attack, Stroke) -> Stroke"
+RF,Hypertension,Chronic Kidney Disease,43,Hypertension -> Chronic Kidney Disease
+RF,Coronary Heart Disease,"Cardiovascular Disease (Heart Attack, Stroke)",40,"Coronary Heart Disease -> Cardiovascular Disease (Heart Attack, Stroke)"
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Hypertension,39,"Cardiovascular Disease (Heart Attack, Stroke) -> Hypertension"
+RF,Stroke,Coronary Heart Disease,39,Stroke -> Coronary Heart Disease
+RF,Stroke,"Cardiovascular Disease (Heart Attack, Stroke)",38,"Stroke -> Cardiovascular Disease (Heart Attack, Stroke)"
+RF,Coronary Heart Disease,Lung Cancer,38,Coronary Heart Disease -> Lung Cancer

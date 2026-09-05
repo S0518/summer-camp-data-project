@@ -1,0 +1,13 @@
+﻿model_key,true_class,predicted_class,count,pair
+LR,Metabolic_Hypertension_Kidney,Cardio_Cerebrovascular,290,Metabolic_Hypertension_Kidney -> Cardio_Cerebrovascular
+LR,Cardio_Cerebrovascular,Metabolic_Hypertension_Kidney,237,Cardio_Cerebrovascular -> Metabolic_Hypertension_Kidney
+LR,Respiratory_Pulmonary,Cardio_Cerebrovascular,168,Respiratory_Pulmonary -> Cardio_Cerebrovascular
+LR,Respiratory_Pulmonary,Cancer_Other,157,Respiratory_Pulmonary -> Cancer_Other
+LR,Cancer_Other,Metabolic_Hypertension_Kidney,128,Cancer_Other -> Metabolic_Hypertension_Kidney
+LR,Cancer_Other,Cardio_Cerebrovascular,121,Cancer_Other -> Cardio_Cerebrovascular
+LR,Respiratory_Pulmonary,Metabolic_Hypertension_Kidney,115,Respiratory_Pulmonary -> Metabolic_Hypertension_Kidney
+LR,Cancer_Other,Respiratory_Pulmonary,108,Cancer_Other -> Respiratory_Pulmonary
+LR,Metabolic_Hypertension_Kidney,Cancer_Other,92,Metabolic_Hypertension_Kidney -> Cancer_Other
+LR,Metabolic_Hypertension_Kidney,Respiratory_Pulmonary,86,Metabolic_Hypertension_Kidney -> Respiratory_Pulmonary
+LR,Cardio_Cerebrovascular,Cancer_Other,84,Cardio_Cerebrovascular -> Cancer_Other
+LR,Cardio_Cerebrovascular,Respiratory_Pulmonary,80,Cardio_Cerebrovascular -> Respiratory_Pulmonary

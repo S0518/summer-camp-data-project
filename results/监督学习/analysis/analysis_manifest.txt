@@ -1,0 +1,42 @@
+Task 3 supplemental analysis outputs
+====================================
+
+disease_10class/: original disease 10-class task
+disease_group_4class/: disease_group 4-class task
+comparison/: cross-task comparison only
+
+Generated files:
+- comparison/task3_accuracy_comparison.png
+- comparison/task3_all_metrics_overview.png
+- comparison/task3_all_model_comparison.csv
+- comparison/task3_macro_f1_comparison.png
+- disease_10class/coefficients/disease_10class_LR_coefficients_by_class.csv
+- disease_10class/coefficients/disease_10class_LR_coefficients_heatmap.png
+- disease_10class/confusion/disease_10class_all_top_confusion_pairs.csv
+- disease_10class/confusion/DT_top_confusion_pairs.csv
+- disease_10class/confusion/DT_top_confusion_pairs.png
+- disease_10class/confusion/LR_top_confusion_pairs.csv
+- disease_10class/confusion/LR_top_confusion_pairs.png
+- disease_10class/confusion/RF_top_confusion_pairs.csv
+- disease_10class/confusion/RF_top_confusion_pairs.png
+- disease_10class/distributions/disease_distribution.csv
+- disease_10class/distributions/disease_distribution.png
+- disease_10class/metrics/disease_10class_metrics_overview.png
+- disease_10class/metrics/disease_10class_model_comparison.csv
+- disease_10class/metrics/disease_10class_model_metrics.png
+- disease_10class/trees/disease_10class_DT_tree_depth3.png
+- disease_group_4class/coefficients/disease_group_4class_LR_coefficients_by_class.csv
+- disease_group_4class/coefficients/disease_group_4class_LR_coefficients_heatmap.png
+- disease_group_4class/confusion/disease_group_4class_all_top_confusion_pairs.csv
+- disease_group_4class/confusion/DT_top_confusion_pairs.csv
+- disease_group_4class/confusion/DT_top_confusion_pairs.png
+- disease_group_4class/confusion/LR_top_confusion_pairs.csv
+- disease_group_4class/confusion/LR_top_confusion_pairs.png
+- disease_group_4class/confusion/RF_top_confusion_pairs.csv
+- disease_group_4class/confusion/RF_top_confusion_pairs.png
+- disease_group_4class/distributions/disease_group_distribution.csv
+- disease_group_4class/distributions/disease_group_distribution.png
+- disease_group_4class/metrics/disease_group_4class_metrics_overview.png
+- disease_group_4class/metrics/disease_group_4class_model_comparison.csv
+- disease_group_4class/metrics/disease_group_4class_model_metrics.png
+- disease_group_4class/trees/disease_group_4class_DT_tree_depth3.png

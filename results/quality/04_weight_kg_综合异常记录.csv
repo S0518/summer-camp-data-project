@@ -1,0 +1,10 @@
+﻿patient_id,age,gender,smoking_history,disease,height_cm,weight_kg,bp_systolic,bp_diastolic,cholesterol_mg_dl,blood_sugar_mg_dl,visit_date,bmi
+b0d6ed36-114c-4e0f-b2a4-243a5ed0f2cf,69,Male,Former,Coronary Heart Disease,186,134,155,86,252,130,2023-07-23,38.73280147993987
+ff802632-bffb-43b5-a679-6608a85866f4,54,Male,Never,Diabetes,186,138,137,76,237,172,2024-02-16,39.88900450919181
+57dfd92f-bb58-40a9-be15-9bb3f263cae9,80,Male,Current,Stroke,186,136,149,104,254,116,2025-02-04,39.31090299456584
+cae16696-690f-4a48-8abf-e582ddb5c3f9,46,Male,Never,Diabetes,185,143,140,95,238,119,2023-08-16,41.78232286340394
+27919195-a29c-4ca1-b661-8851b0302fbf,52,Male,Never,Diabetes,193,145,151,81,214,151,2024-03-07,38.92721952267175
+3e70850f-77ad-4974-8605-dcfe9c1be560,53,Male,Never,Hypertension,194,132,156,90,199,101,2024-10-01,35.07280263577426
+2d9ca8b9-bb77-41fa-bd1d-e84844ab4f69,74,Male,Never,"Cardiovascular Disease (Heart Attack, Stroke)",188,131,145,73,222,140,2024-09-15,37.064282480760525
+2ffbd0fb-3da5-4e61-b75a-bc5c7a90b71c,76,Male,Never,"Chronic Respiratory Disease (COPD, Asthma)",186,144,117,88,212,134,2024-05-30,41.62330905306971
+d05dd5b3-9544-49ea-8b35-cc08bac19362,59,Male,Never,Hypertension,183,132,137,87,225,119,2023-12-17,39.41592761802382

@@ -1,0 +1,104 @@
+{
+  "created_at": "2026-07-04 09:44:32",
+  "experiment_name": "disease_10class",
+  "config_path": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\results\\监督学习\\configs\\effective_disease_10class.json",
+  "selected_models": [
+    "LR",
+    "DT",
+    "RF"
+  ],
+  "feature_columns": [
+    "age",
+    "bmi",
+    "bp_risk_score",
+    "cholesterol_mg_dl",
+    "blood_sugar_mg_dl",
+    "smoking_score",
+    "gender"
+  ],
+  "numeric_features": [
+    "age",
+    "bmi",
+    "bp_risk_score",
+    "cholesterol_mg_dl",
+    "blood_sugar_mg_dl",
+    "smoking_score"
+  ],
+  "categorical_features": [
+    "gender"
+  ],
+  "target_column": "disease",
+  "all_data_shape": [
+    15943,
+    8
+  ],
+  "train_shape": [
+    12754,
+    7
+  ],
+  "test_shape": [
+    3189,
+    7
+  ],
+  "test_size": 0.2,
+  "random_state": 42,
+  "class_distribution_all": {
+    "Lung Cancer": 1688,
+    "Chronic Kidney Disease": 1666,
+    "Stroke": 1632,
+    "Breast Cancer": 1603,
+    "Cardiovascular Disease (Heart Attack, Stroke)": 1600,
+    "Coronary Heart Disease": 1597,
+    "Cancer": 1595,
+    "Hypertension": 1593,
+    "Chronic Respiratory Disease (COPD, Asthma)": 1587,
+    "Diabetes": 1382
+  },
+  "class_distribution_train": {
+    "Lung Cancer": 1350,
+    "Chronic Kidney Disease": 1333,
+    "Stroke": 1305,
+    "Breast Cancer": 1282,
+    "Cardiovascular Disease (Heart Attack, Stroke)": 1280,
+    "Coronary Heart Disease": 1278,
+    "Cancer": 1276,
+    "Hypertension": 1274,
+    "Chronic Respiratory Disease (COPD, Asthma)": 1270,
+    "Diabetes": 1106
+  },
+  "class_distribution_test": {
+    "Lung Cancer": 338,
+    "Chronic Kidney Disease": 333,
+    "Stroke": 327,
+    "Breast Cancer": 321,
+    "Cardiovascular Disease (Heart Attack, Stroke)": 320,
+    "Coronary Heart Disease": 319,
+    "Hypertension": 319,
+    "Cancer": 319,
+    "Chronic Respiratory Disease (COPD, Asthma)": 317,
+    "Diabetes": 276
+  },
+  "params": {
+    "target": "disease",
+    "global_class_weight_override": null,
+    "lr_class_weight": "balanced",
+    "dt_class_weight": "balanced",
+    "rf_class_weight": null,
+    "lr_c": 0.08,
+    "lr_max_iter": 10000,
+    "dt_max_depth": 8,
+    "dt_min_samples_split": 20,
+    "dt_min_samples_leaf": 10,
+    "rf_n_estimators": 800,
+    "rf_max_depth": 16,
+    "rf_min_samples_split": 8,
+    "rf_min_samples_leaf": 4,
+    "rf_max_features": "sqrt",
+    "save_predictions": true,
+    "permutation_importance": true,
+    "perm_repeats": 10,
+    "dim_visualization": true,
+    "tsne_max_samples": 3000,
+    "tsne_perplexity": 30.0
+  }
+}

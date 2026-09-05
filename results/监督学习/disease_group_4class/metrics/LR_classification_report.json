@@ -1,0 +1,39 @@
+{
+  "Cancer_Other": {
+    "precision": 0.4594155844155844,
+    "recall": 0.4421875,
+    "f1-score": 0.45063694267515925,
+    "support": 640.0
+  },
+  "Cardio_Cerebrovascular": {
+    "precision": 0.4938811188811189,
+    "recall": 0.5848861283643892,
+    "f1-score": 0.5355450236966824,
+    "support": 966.0
+  },
+  "Metabolic_Hypertension_Kidney": {
+    "precision": 0.48936170212765956,
+    "recall": 0.4956896551724138,
+    "f1-score": 0.4925053533190578,
+    "support": 928.0
+  },
+  "Respiratory_Pulmonary": {
+    "precision": 0.4396728016359918,
+    "recall": 0.3282442748091603,
+    "f1-score": 0.3758741258741259,
+    "support": 655.0
+  },
+  "accuracy": 0.4775791784258388,
+  "macro avg": {
+    "precision": 0.47058280176508865,
+    "recall": 0.4627518895864909,
+    "f1-score": 0.4636403613912563,
+    "support": 3189.0
+  },
+  "weighted avg": {
+    "precision": 0.4745150453155151,
+    "recall": 0.4775791784258388,
+    "f1-score": 0.4731849032708483,
+    "support": 3189.0
+  }
+}

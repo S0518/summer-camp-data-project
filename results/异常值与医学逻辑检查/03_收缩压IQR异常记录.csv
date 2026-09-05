@@ -1,0 +1,5 @@
+﻿patient_id,age,gender,smoking_history,disease,height_cm,weight_kg,bp_systolic,bp_diastolic,cholesterol_mg_dl,blood_sugar_mg_dl,visit_date,bmi
+786fa1c4-a743-460a-a49f-79804a7b6100,67,Male,Current,Chronic Kidney Disease,171,104,192,86,196,128,2025-01-10,35.56649909373825
+2a49feef-041d-4f31-9b7a-5cdc0ef7363e,77,Male,Current,Chronic Kidney Disease,174,85,191,67,189,97,2025-04-20,28.075042938300964
+3493a3b3-07fa-4c1f-b0a5-9688f6aa1dea,56,Male,Current,Chronic Kidney Disease,182,119,191,86,213,127,2024-09-21,35.92561284868977
+585c6375-e113-4739-9587-f37bcf6cf4a4,75,Male,Current,Hypertension,170,91,191,90,222,102,2024-01-11,31.487889273356405

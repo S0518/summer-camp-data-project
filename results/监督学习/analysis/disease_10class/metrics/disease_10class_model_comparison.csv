@@ -1,0 +1,4 @@
+﻿experiment,experiment_label,model_key,model_name,accuracy,macro_precision,macro_recall,macro_f1
+disease_10class,Disease 10-class,LR,Logistic Regression,0.2888052681091251,0.2732261674382347,0.291483484330631,0.2625929401751409
+disease_10class,Disease 10-class,DT,Decision Tree,0.2847287550956413,0.2739414611877161,0.2870561561266047,0.2761749146157615
+disease_10class,Disease 10-class,RF,Random Forest,0.3035434305424898,0.2911807863346854,0.3063317438420061,0.2912645614140181

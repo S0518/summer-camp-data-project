@@ -1,0 +1,7 @@
+﻿patient_id,age,gender,smoking_history,disease,height_cm,weight_kg,bp_systolic,bp_diastolic,cholesterol_mg_dl,blood_sugar_mg_dl,visit_date,bmi
+c1c76a2d-ed7d-46a2-93fa-b08a548d2505,80,Male,Current,"Cardiovascular Disease (Heart Attack, Stroke)",166,72,146,106,178,122,2024-03-20,26.1286108288576
+79db3618-ec99-46f8-b750-eeaef5095c5a,85,Female,Current,Coronary Heart Disease,161,75,154,105,193,102,2024-05-30,28.93406890166274
+83da5352-87cc-4379-8539-e3d005fb1f37,77,Male,Current,Coronary Heart Disease,165,51,144,105,231,103,2023-05-11,18.73278236914601
+4c1046a8-b6b5-4d22-992b-88f9901d2735,61,Male,Current,"Cardiovascular Disease (Heart Attack, Stroke)",164,92,149,104,219,88,2023-10-19,34.20582986317669
+dccd38de-5392-4e23-9e99-f8a538eabe3d,82,Female,Former,"Cardiovascular Disease (Heart Attack, Stroke)",165,101,147,106,231,113,2023-05-04,37.09825528007347
+b0d3f60a-88ab-4761-81e7-bd133ced1a72,73,Male,Never,Stroke,174,100,150,105,256,147,2025-02-14,33.029462280354075

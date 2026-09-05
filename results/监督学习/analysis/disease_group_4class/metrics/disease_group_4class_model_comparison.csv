@@ -1,0 +1,4 @@
+﻿experiment,experiment_label,model_key,model_name,accuracy,macro_precision,macro_recall,macro_f1
+disease_group_4class,Disease Group 4-class,LR,Logistic Regression,0.4775791784258388,0.4705828017650886,0.4627518895864909,0.4636403613912563
+disease_group_4class,Disease Group 4-class,DT,Decision Tree,0.4587645029789903,0.4554099241245189,0.4454299910517069,0.4481578476298998
+disease_group_4class,Disease Group 4-class,RF,Random Forest,0.4866729382251489,0.4859402778264052,0.4793461091751698,0.4796081678514047

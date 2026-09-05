@@ -1,0 +1,35 @@
+{
+  "experiment_name": "disease_group_4class",
+  "input_path": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\results\\监督学习\\task3_supervised_group.csv",
+  "output_dir": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\results\\监督学习",
+  "target": "disease_group",
+  "model": "all",
+  "test_size": 0.2,
+  "random_state": 42,
+  "class_weight": null,
+  "LR": {
+    "C": 0.02,
+    "max_iter": 5000,
+    "class_weight": null
+  },
+  "DT": {
+    "max_depth": 6,
+    "min_samples_split": 40,
+    "min_samples_leaf": 20,
+    "class_weight": null
+  },
+  "RF": {
+    "n_estimators": 800,
+    "max_depth": 8,
+    "min_samples_split": 30,
+    "min_samples_leaf": 15,
+    "max_features": "log2",
+    "class_weight": "balanced"
+  },
+  "save_predictions": true,
+  "permutation_importance": true,
+  "perm_repeats": 10,
+  "no_dim_visualization": false,
+  "tsne_max_samples": 3000,
+  "tsne_perplexity": 30.0
+}

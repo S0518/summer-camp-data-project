@@ -1,0 +1,46 @@
+﻿model_key,true_class,predicted_class,count,pair
+LR,Cancer,Breast Cancer,77,Cancer -> Breast Cancer
+LR,"Chronic Respiratory Disease (COPD, Asthma)",Lung Cancer,77,"Chronic Respiratory Disease (COPD, Asthma) -> Lung Cancer"
+LR,Chronic Kidney Disease,Hypertension,61,Chronic Kidney Disease -> Hypertension
+LR,Stroke,Hypertension,60,Stroke -> Hypertension
+LR,"Cardiovascular Disease (Heart Attack, Stroke)",Coronary Heart Disease,58,"Cardiovascular Disease (Heart Attack, Stroke) -> Coronary Heart Disease"
+LR,"Chronic Respiratory Disease (COPD, Asthma)",Breast Cancer,57,"Chronic Respiratory Disease (COPD, Asthma) -> Breast Cancer"
+LR,Coronary Heart Disease,Lung Cancer,55,Coronary Heart Disease -> Lung Cancer
+LR,"Cardiovascular Disease (Heart Attack, Stroke)",Stroke,54,"Cardiovascular Disease (Heart Attack, Stroke) -> Stroke"
+LR,Cancer,Lung Cancer,51,Cancer -> Lung Cancer
+LR,Stroke,Lung Cancer,46,Stroke -> Lung Cancer
+LR,Chronic Kidney Disease,Diabetes,46,Chronic Kidney Disease -> Diabetes
+LR,Chronic Kidney Disease,Breast Cancer,45,Chronic Kidney Disease -> Breast Cancer
+LR,Stroke,Coronary Heart Disease,44,Stroke -> Coronary Heart Disease
+LR,"Cardiovascular Disease (Heart Attack, Stroke)",Breast Cancer,43,"Cardiovascular Disease (Heart Attack, Stroke) -> Breast Cancer"
+LR,"Cardiovascular Disease (Heart Attack, Stroke)",Hypertension,43,"Cardiovascular Disease (Heart Attack, Stroke) -> Hypertension"
+DT,Chronic Kidney Disease,Hypertension,60,Chronic Kidney Disease -> Hypertension
+DT,Cancer,Breast Cancer,55,Cancer -> Breast Cancer
+DT,"Cardiovascular Disease (Heart Attack, Stroke)",Coronary Heart Disease,55,"Cardiovascular Disease (Heart Attack, Stroke) -> Coronary Heart Disease"
+DT,Cancer,Lung Cancer,54,Cancer -> Lung Cancer
+DT,"Chronic Respiratory Disease (COPD, Asthma)",Lung Cancer,54,"Chronic Respiratory Disease (COPD, Asthma) -> Lung Cancer"
+DT,Stroke,"Cardiovascular Disease (Heart Attack, Stroke)",53,"Stroke -> Cardiovascular Disease (Heart Attack, Stroke)"
+DT,Stroke,Hypertension,48,Stroke -> Hypertension
+DT,"Cardiovascular Disease (Heart Attack, Stroke)",Hypertension,44,"Cardiovascular Disease (Heart Attack, Stroke) -> Hypertension"
+DT,Coronary Heart Disease,Lung Cancer,43,Coronary Heart Disease -> Lung Cancer
+DT,Stroke,Chronic Kidney Disease,42,Stroke -> Chronic Kidney Disease
+DT,"Chronic Respiratory Disease (COPD, Asthma)",Cancer,42,"Chronic Respiratory Disease (COPD, Asthma) -> Cancer"
+DT,Coronary Heart Disease,Hypertension,41,Coronary Heart Disease -> Hypertension
+DT,Stroke,Coronary Heart Disease,40,Stroke -> Coronary Heart Disease
+DT,Lung Cancer,Cancer,40,Lung Cancer -> Cancer
+DT,Coronary Heart Disease,"Cardiovascular Disease (Heart Attack, Stroke)",38,"Coronary Heart Disease -> Cardiovascular Disease (Heart Attack, Stroke)"
+RF,"Chronic Respiratory Disease (COPD, Asthma)",Lung Cancer,64,"Chronic Respiratory Disease (COPD, Asthma) -> Lung Cancer"
+RF,Cancer,Lung Cancer,60,Cancer -> Lung Cancer
+RF,Cancer,Breast Cancer,56,Cancer -> Breast Cancer
+RF,Chronic Kidney Disease,Hypertension,53,Chronic Kidney Disease -> Hypertension
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Coronary Heart Disease,52,"Cardiovascular Disease (Heart Attack, Stroke) -> Coronary Heart Disease"
+RF,Chronic Kidney Disease,Diabetes,51,Chronic Kidney Disease -> Diabetes
+RF,Stroke,Hypertension,50,Stroke -> Hypertension
+RF,"Chronic Respiratory Disease (COPD, Asthma)",Breast Cancer,45,"Chronic Respiratory Disease (COPD, Asthma) -> Breast Cancer"
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Stroke,44,"Cardiovascular Disease (Heart Attack, Stroke) -> Stroke"
+RF,Hypertension,Chronic Kidney Disease,43,Hypertension -> Chronic Kidney Disease
+RF,Coronary Heart Disease,"Cardiovascular Disease (Heart Attack, Stroke)",40,"Coronary Heart Disease -> Cardiovascular Disease (Heart Attack, Stroke)"
+RF,"Cardiovascular Disease (Heart Attack, Stroke)",Hypertension,39,"Cardiovascular Disease (Heart Attack, Stroke) -> Hypertension"
+RF,Stroke,Coronary Heart Disease,39,Stroke -> Coronary Heart Disease
+RF,Stroke,"Cardiovascular Disease (Heart Attack, Stroke)",38,"Stroke -> Cardiovascular Disease (Heart Attack, Stroke)"
+RF,Coronary Heart Disease,Lung Cancer,38,Coronary Heart Disease -> Lung Cancer

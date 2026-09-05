@@ -1,0 +1,79 @@
+{
+  "created_at": "2026-07-04 09:44:32",
+  "input_path": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\data\\change.csv",
+  "output_dir": "D:\\Programming\\Data\\Pycharm_data\\数据探索\\results\\监督学习",
+  "raw_shape": [
+    15943,
+    13
+  ],
+  "transformed_shape": [
+    15943,
+    18
+  ],
+  "supervised_shape": [
+    15943,
+    8
+  ],
+  "group_supervised_shape": [
+    15943,
+    9
+  ],
+  "encoded_shape": [
+    15943,
+    10
+  ],
+  "dropped_bp_logic_abnormal_rows": 0,
+  "invalid_numeric_values_converted_to_nan": {
+    "age": 0,
+    "height_cm": 0,
+    "weight_kg": 0,
+    "bp_systolic": 0,
+    "bp_diastolic": 0,
+    "cholesterol_mg_dl": 0,
+    "blood_sugar_mg_dl": 0
+  },
+  "task3_feature_columns": [
+    "age",
+    "gender",
+    "bmi",
+    "bp_risk_score",
+    "cholesterol_mg_dl",
+    "blood_sugar_mg_dl",
+    "smoking_score"
+  ],
+  "target_column": "disease",
+  "group_target_column": "disease_group",
+  "disease_group_map": {
+    "Diabetes": "Metabolic_Hypertension_Kidney",
+    "Hypertension": "Metabolic_Hypertension_Kidney",
+    "Chronic Kidney Disease": "Metabolic_Hypertension_Kidney",
+    "Coronary Heart Disease": "Cardio_Cerebrovascular",
+    "Cardiovascular Disease (Heart Attack, Stroke)": "Cardio_Cerebrovascular",
+    "Cardiovascular Disease(Heart Attack,Stroke)": "Cardio_Cerebrovascular",
+    "Stroke": "Cardio_Cerebrovascular",
+    "Chronic Respiratory Disease (COPD, Asthma)": "Respiratory_Pulmonary",
+    "Chronic Respiratory Disease(COPD,Asthma)": "Respiratory_Pulmonary",
+    "Lung Cancer": "Respiratory_Pulmonary",
+    "Cancer": "Cancer_Other",
+    "Breast Cancer": "Cancer_Other"
+  },
+  "unmapped_disease_values": [],
+  "smoking_score_map": {
+    "Never": 0,
+    "Former": 1,
+    "Current": 2
+  },
+  "bp_risk_score_rule": {
+    "0": "bp_systolic < 120 and bp_diastolic < 80",
+    "1": "bp_systolic 120-139 or bp_diastolic 80-89",
+    "2": "bp_systolic 140-159 or bp_diastolic 90-99",
+    "3": "bp_systolic >= 160 or bp_diastolic >= 100"
+  },
+  "notes": [
+    "patient_id、visit_date、height_cm、weight_kg、bp_systolic、bp_diastolic 不进入任务三主特征矩阵。",
+    "height_cm 与 weight_kg 已转换为 bmi。",
+    "bp_systolic 与 bp_diastolic 已转换为 bp_risk_score。",
+    "disease 仅作为 10 分类监督学习目标变量，不作为输入特征。",
+    "disease_group 为新增四分类预测目标，由 disease 合并得到，用于疾病大类预测扩展实验。"
+  ]
+}

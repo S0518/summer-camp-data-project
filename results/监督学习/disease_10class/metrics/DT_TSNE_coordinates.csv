@@ -1,0 +1,3001 @@
+﻿TSNE_1,TSNE_2,disease,original_index
+-21.437508,15.616964,"Chronic Respiratory Disease (COPD, Asthma)",1086
+78.67671,99.84519,Diabetes,9629
+-12.317448,35.774654,Coronary Heart Disease,9842
+-92.67095,-82.15316,Hypertension,9413
+-6.332512,-71.554016,Breast Cancer,11767
+20.423374,80.10652,Cancer,3745
+58.302338,-6.942905,Breast Cancer,5168
+-106.215195,-39.78399,Lung Cancer,2496
+54.412365,-113.78718,Chronic Kidney Disease,9899
+-118.32334,-2.2428145,Lung Cancer,14211
+-89.03146,76.8532,Chronic Kidney Disease,5675
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",8864
+-92.67095,-82.15316,Lung Cancer,7853
+74.66659,-23.682678,Breast Cancer,7496
+19.334267,-92.0415,Lung Cancer,1126
+-72.64535,-13.2735815,Lung Cancer,2957
+109.40436,67.35407,Diabetes,4581
+-118.32334,-2.2428145,Chronic Kidney Disease,5663
+41.780308,120.17975,Stroke,9877
+34.355515,-48.257954,Hypertension,7121
+113.72739,72.24678,Diabetes,5788
+-5.895239,-33.39974,Breast Cancer,12163
+-99.64906,-58.433273,"Chronic Respiratory Disease (COPD, Asthma)",6416
+74.66659,-23.682678,Hypertension,8301
+33.14478,14.196065,Breast Cancer,12340
+-87.835236,25.912745,"Chronic Respiratory Disease (COPD, Asthma)",11532
+14.161109,-113.67078,Lung Cancer,1518
+109.344086,-77.64459,Hypertension,3437
+-72.64535,-13.2735815,Lung Cancer,11220
+-73.459885,49.087147,Breast Cancer,2020
+58.486847,66.37819,Cancer,145
+-62.253513,-45.19624,Lung Cancer,822
+17.835415,48.61255,"Cardiovascular Disease (Heart Attack, Stroke)",6258
+-54.38138,-113.49778,Chronic Kidney Disease,1412
+87.5209,-104.062515,Coronary Heart Disease,11132
+-5.895239,-33.39974,Breast Cancer,10026
+88.56028,11.915484,Coronary Heart Disease,14069
+-28.684687,-60.729614,"Cardiovascular Disease (Heart Attack, Stroke)",4341
+79.46507,-16.774364,Hypertension,668
+-52.03789,109.75791,Cancer,3517
+54.00245,42.65124,Diabetes,7737
+-28.684687,-60.729614,Stroke,353
+-79.86091,-7.5474114,Stroke,5069
+87.41805,46.65334,"Chronic Respiratory Disease (COPD, Asthma)",12900
+-89.03146,76.8532,"Chronic Respiratory Disease (COPD, Asthma)",9237
+5.2376614,-113.850555,Lung Cancer,10312
+-29.883415,-19.21682,Chronic Kidney Disease,8641
+33.14478,14.196065,Lung Cancer,11877
+-52.03789,109.75791,Breast Cancer,4406
+5.2376614,-113.850555,Chronic Kidney Disease,3180
+-59.57457,113.765594,Breast Cancer,12834
+60.783707,67.66432,"Cardiovascular Disease (Heart Attack, Stroke)",3220
+-104.88912,51.700176,Cancer,1693
+-89.03146,76.8532,"Chronic Respiratory Disease (COPD, Asthma)",14357
+-27.396383,-84.367805,"Cardiovascular Disease (Heart Attack, Stroke)",14605
+78.67671,99.84519,Diabetes,10222
+45.089516,116.61831,"Chronic Respiratory Disease (COPD, Asthma)",11346
+80.19392,53.984585,Diabetes,8313
+-26.21406,-43.006645,Chronic Kidney Disease,14344
+10.5171795,1.1576133,Lung Cancer,1413
+123.26093,-7.2396407,Chronic Kidney Disease,14183
+68.84792,1.4404333,Coronary Heart Disease,174
+123.26093,-7.2396407,Coronary Heart Disease,37
+14.161109,-113.67078,Chronic Kidney Disease,2923
+-21.129555,86.64975,Breast Cancer,392
+70.47821,-21.310095,Hypertension,6692
+-138.52495,-30.278217,Cancer,14024
+127.47171,42.03181,Diabetes,6955
+-138.52495,-30.278217,Lung Cancer,13142
+45.089516,116.61831,"Chronic Respiratory Disease (COPD, Asthma)",11088
+52.690582,-65.71636,"Cardiovascular Disease (Heart Attack, Stroke)",13440
+-72.64535,-13.2735815,Cancer,6916
+33.14478,14.196065,Breast Cancer,12233
+13.384415,-49.5325,Chronic Kidney Disease,5400
+-89.03146,76.8532,Lung Cancer,9122
+-110.72763,22.35235,Cancer,650
+33.832493,75.6782,Chronic Kidney Disease,4799
+49.34994,-6.135537,Coronary Heart Disease,10709
+31.92484,37.42759,Coronary Heart Disease,11172
+109.344086,-77.64459,Hypertension,11445
+-62.253513,-45.19624,Hypertension,9115
+25.505085,59.081825,"Chronic Respiratory Disease (COPD, Asthma)",2790
+31.92484,37.42759,Hypertension,183
+28.12573,11.371533,Lung Cancer,12869
+-21.129555,86.64975,Coronary Heart Disease,14893
+-28.684687,-60.729614,Lung Cancer,8457
+30.39952,63.262806,Chronic Kidney Disease,15459
+-87.835236,25.912745,Cancer,10245
+52.690582,-65.71636,Lung Cancer,1229
+14.161109,-113.67078,Coronary Heart Disease,8811
+24.659678,102.548485,Chronic Kidney Disease,6860
+-57.394638,34.94912,Breast Cancer,9739
+-17.80518,17.56814,Chronic Kidney Disease,7083
+-87.835236,25.912745,Lung Cancer,11890
+57.83084,25.142689,Cancer,11702
+102.66092,38.175816,"Chronic Respiratory Disease (COPD, Asthma)",12241
+13.384415,-49.5325,Breast Cancer,5964
+73.95968,-17.888304,Lung Cancer,2677
+-52.03789,109.75791,Cancer,10217
+119.55171,-46.5714,Coronary Heart Disease,14447
+-23.363995,-74.082405,Diabetes,15745
+-92.67095,-82.15316,Stroke,15602
+17.066107,-55.35632,Hypertension,8535
+14.161109,-113.67078,Hypertension,3136
+88.75209,-57.826878,Hypertension,2872
+-52.03789,109.75791,Chronic Kidney Disease,5366
+-138.52495,-30.278217,Lung Cancer,14655
+123.26093,-7.2396407,Stroke,7935
+88.83603,2.9840896,"Cardiovascular Disease (Heart Attack, Stroke)",8454
+-59.57457,113.765594,Breast Cancer,8578
+31.92484,37.42759,Diabetes,1432
+6.5163417,47.785976,Breast Cancer,12291
+-41.504692,8.820006,Hypertension,11791
+-1.8067946,-34.49667,Breast Cancer,13927
+54.412365,-113.78718,Cancer,14724
+81.67741,-92.266365,Hypertension,7612
+-72.64535,-13.2735815,Chronic Kidney Disease,14188
+38.40638,56.724167,Diabetes,12470
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",669
+-79.86091,-7.5474114,"Chronic Respiratory Disease (COPD, Asthma)",13448
+119.55171,-46.5714,Hypertension,4553
+-81.30412,92.0409,Stroke,3297
+52.690582,-65.71636,Coronary Heart Disease,5108
+-110.4225,30.837551,Cancer,12747
+125.92791,-63.43618,Hypertension,5061
+-47.89354,78.55899,Breast Cancer,2956
+-26.21406,-43.006645,Diabetes,4508
+43.507633,-11.13658,Coronary Heart Disease,8091
+-57.394638,34.94912,Lung Cancer,6907
+-36.4544,4.9507737,Breast Cancer,465
+-84.1453,46.845818,"Cardiovascular Disease (Heart Attack, Stroke)",1964
+45.267513,63.342503,Diabetes,8536
+-87.835236,25.912745,Stroke,4179
+-27.396383,-84.367805,"Chronic Respiratory Disease (COPD, Asthma)",82
+28.12573,11.371533,Cancer,13423
+-36.4544,4.9507737,Cancer,6809
+11.622039,97.79624,"Chronic Respiratory Disease (COPD, Asthma)",8202
+-44.604576,75.40162,Breast Cancer,401
+57.83084,25.142689,Lung Cancer,1947
+-24.10492,64.91211,Diabetes,13442
+-99.64906,-58.433273,Chronic Kidney Disease,10976
+-54.38138,-113.49778,Stroke,6090
+40.785297,-43.411377,Chronic Kidney Disease,1570
+51.76166,84.65764,Diabetes,4824
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",11650
+-87.25408,72.12471,Cancer,3930
+78.67671,99.84519,Diabetes,7132
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",4602
+-59.57457,113.765594,Cancer,6492
+-56.736744,67.5888,Cancer,8869
+17.066107,-55.35632,Stroke,5150
+73.95968,-17.888304,Chronic Kidney Disease,3498
+-10.834416,-9.472038,Lung Cancer,3641
+17.835415,48.61255,Cancer,4024
+84.82465,14.718121,Lung Cancer,5376
+-104.079155,83.25926,Cancer,5935
+78.67671,99.84519,Diabetes,3724
+-36.712315,51.465996,"Cardiovascular Disease (Heart Attack, Stroke)",2404
+-54.38138,-113.49778,Stroke,3975
+5.4721074,-95.82928,Lung Cancer,1494
+110.266624,41.41374,Hypertension,9270
+-87.25408,72.12471,Lung Cancer,10828
+0.79356235,120.59565,Breast Cancer,4281
+45.089516,116.61831,Chronic Kidney Disease,6884
+-60.28868,-75.388115,Hypertension,6874
+-1.8067946,-34.49667,Cancer,6362
+106.98866,-81.03058,Stroke,8770
+-44.65194,-86.94315,Stroke,5940
+-104.079155,83.25926,Cancer,8167
+24.659678,102.548485,Lung Cancer,14968
+131.78671,-60.14879,Hypertension,6425
+64.663246,77.37262,Lung Cancer,4571
+17.066107,-55.35632,Chronic Kidney Disease,8107
+-129.27464,38.40658,Chronic Kidney Disease,11965
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",12548
+-54.38138,-113.49778,Lung Cancer,5209
+-118.32334,-2.2428145,Cancer,1780
+113.72739,72.24678,Stroke,12805
+47.175976,96.68125,Hypertension,9702
+-52.03789,109.75791,Hypertension,15750
+-52.03789,109.75791,Breast Cancer,1034
+-1.4340875,-25.263275,Breast Cancer,14314
+-87.835236,25.912745,Cancer,7807
+-113.109024,49.022655,"Chronic Respiratory Disease (COPD, Asthma)",1867
+-92.67095,-82.15316,Lung Cancer,1169
+128.42851,33.388298,Breast Cancer,14195
+-118.32334,-2.2428145,Lung Cancer,7176
+81.67741,-92.266365,Hypertension,331
+-38.006245,-7.957007,Cancer,5317
+-32.278225,9.754445,Chronic Kidney Disease,175
+-72.64535,-13.2735815,Lung Cancer,3440
+-104.079155,83.25926,"Chronic Respiratory Disease (COPD, Asthma)",15594
+17.066107,-55.35632,Hypertension,1029
+113.72739,72.24678,Diabetes,11913
+123.26093,-7.2396407,Stroke,2117
+6.5163417,47.785976,"Cardiovascular Disease (Heart Attack, Stroke)",15127
+-3.2951808,13.111921,Hypertension,13551
+-138.1888,27.432215,Cancer,6755
+49.731323,9.50522,Lung Cancer,5395
+-27.396383,-84.367805,"Chronic Respiratory Disease (COPD, Asthma)",3936
+-29.097328,-88.4963,Stroke,4234
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",4546
+54.412365,-113.78718,Coronary Heart Disease,9744
+-7.1371975,109.279854,Breast Cancer,8403
+122.35132,28.063473,Diabetes,15497
+55.16736,91.760445,Lung Cancer,4745
+-59.57457,113.765594,Breast Cancer,2725
+49.731323,9.50522,"Chronic Respiratory Disease (COPD, Asthma)",2145
+78.67671,99.84519,Lung Cancer,14907
+-28.684687,-60.729614,"Cardiovascular Disease (Heart Attack, Stroke)",127
+-49.6617,59.360023,Breast Cancer,3138
+-73.459885,49.087147,Hypertension,14858
+26.398457,89.89679,Hypertension,12372
+-57.394638,34.94912,"Chronic Respiratory Disease (COPD, Asthma)",2393
+-56.736744,67.5888,Breast Cancer,15171
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",7360
+106.98866,-81.03058,Hypertension,1486
+-103.93165,-44.649548,Stroke,1404
+122.35132,28.063473,Diabetes,7655
+-28.684687,-60.729614,"Cardiovascular Disease (Heart Attack, Stroke)",5682
+-36.4544,4.9507737,"Cardiovascular Disease (Heart Attack, Stroke)",12407
+52.643436,-26.223866,Lung Cancer,434
+-1.0904313,61.79101,Lung Cancer,13801
+53.85427,-48.80425,Chronic Kidney Disease,988
+-97.96136,85.45565,Cancer,2362
+-52.03789,109.75791,Breast Cancer,14668
+52.643436,-26.223866,Lung Cancer,9892
+49.731323,9.50522,"Cardiovascular Disease (Heart Attack, Stroke)",6746
+50.362934,53.81847,Cancer,11538
+-1.5635326,-71.696266,Coronary Heart Disease,4603
+88.75209,-57.826878,Chronic Kidney Disease,11927
+46.231083,77.18889,Hypertension,5109
+-129.27464,38.40658,Coronary Heart Disease,15254
+14.161109,-113.67078,Stroke,11148
+78.67671,99.84519,Diabetes,10459
+-129.27464,38.40658,"Cardiovascular Disease (Heart Attack, Stroke)",3493
+-99.64906,-58.433273,Stroke,5789
+17.066107,-55.35632,Breast Cancer,9378
+-1.4462966,128.71089,Breast Cancer,10974
+-118.32334,-2.2428145,Lung Cancer,9181
+119.55171,-46.5714,Coronary Heart Disease,5863
+-87.835236,25.912745,Stroke,14700
+31.92484,37.42759,Hypertension,9884
+58.486847,66.37819,Diabetes,7693
+-1.8067946,-34.49667,Stroke,13325
+-72.64535,-13.2735815,Cancer,11929
+-32.465115,-83.34,Diabetes,3191
+28.12573,11.371533,"Cardiovascular Disease (Heart Attack, Stroke)",7261
+8.518203,-13.411821,Diabetes,6042
+-1.8067946,-34.49667,"Chronic Respiratory Disease (COPD, Asthma)",196
+-79.86091,-7.5474114,Lung Cancer,847
+-62.253513,-45.19624,Chronic Kidney Disease,758
+57.83084,25.142689,"Cardiovascular Disease (Heart Attack, Stroke)",6472
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",3934
+-92.67095,-82.15316,Chronic Kidney Disease,2709
+123.26093,-7.2396407,Coronary Heart Disease,7760
+119.55171,-46.5714,Stroke,13084
+-118.32334,-2.2428145,Coronary Heart Disease,5320
+41.167408,-82.675896,Hypertension,3580
+57.221004,73.56591,Chronic Kidney Disease,13500
+33.657043,-34.956684,Coronary Heart Disease,7497
+-12.317448,35.774654,"Cardiovascular Disease (Heart Attack, Stroke)",4935
+-60.28868,-75.388115,Chronic Kidney Disease,10668
+-52.03789,109.75791,Breast Cancer,2831
+78.67671,99.84519,Diabetes,14530
+-1.4462966,128.71089,"Cardiovascular Disease (Heart Attack, Stroke)",219
+-40.992077,130.94957,Breast Cancer,3048
+-72.64535,-13.2735815,Lung Cancer,12156
+-72.64535,-13.2735815,Lung Cancer,8095
+73.95968,-17.888304,Hypertension,6924
+-64.56068,-75.2299,Coronary Heart Disease,9626
+68.84792,1.4404333,Coronary Heart Disease,2680
+-1.4462966,128.71089,"Chronic Respiratory Disease (COPD, Asthma)",2634
+79.46507,-16.774364,Hypertension,12564
+-129.27464,38.40658,Cancer,9423
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",11261
+-57.394638,34.94912,"Cardiovascular Disease (Heart Attack, Stroke)",10299
+68.84792,1.4404333,Hypertension,12477
+95.111664,-91.99123,Stroke,4063
+-26.21406,-43.006645,Lung Cancer,12863
+10.833467,32.853065,Cancer,14310
+-79.86091,-7.5474114,"Chronic Respiratory Disease (COPD, Asthma)",10638
+14.161109,-113.67078,Hypertension,14597
+84.374695,-14.889784,Hypertension,13917
+88.56028,11.915484,Coronary Heart Disease,14315
+17.066107,-55.35632,Hypertension,1527
+45.089516,116.61831,"Chronic Respiratory Disease (COPD, Asthma)",15275
+-44.604576,75.40162,"Chronic Respiratory Disease (COPD, Asthma)",12686
+-36.4544,4.9507737,Stroke,10496
+12.580686,58.61851,Coronary Heart Disease,5627
+-28.922262,-98.75284,"Cardiovascular Disease (Heart Attack, Stroke)",824
+14.10219,74.45424,Hypertension,13535
+-6.332512,-71.554016,"Cardiovascular Disease (Heart Attack, Stroke)",5396
+56.9877,-60.52399,Hypertension,6041
+-53.404125,-53.348442,"Cardiovascular Disease (Heart Attack, Stroke)",223
+-73.459885,49.087147,Lung Cancer,11687
+-54.38138,-113.49778,Chronic Kidney Disease,3198
+52.690582,-65.71636,Coronary Heart Disease,14963
+17.066107,-55.35632,Stroke,2109
+113.72739,72.24678,Diabetes,8318
+-29.883415,-19.21682,Chronic Kidney Disease,1232
+-128.21158,21.146257,Coronary Heart Disease,17
+-73.459885,49.087147,"Chronic Respiratory Disease (COPD, Asthma)",9538
+123.26093,-7.2396407,Hypertension,10875
+14.161109,-113.67078,Hypertension,5776
+14.161109,-113.67078,Stroke,3636
+41.780308,120.17975,Hypertension,1199
+30.39952,63.262806,Stroke,1235
+52.896572,-107.88771,Hypertension,11457
+14.161109,-113.67078,Stroke,4202
+49.34994,-6.135537,Stroke,11769
+123.48349,0.37001252,Coronary Heart Disease,3576
+113.72739,72.24678,Lung Cancer,9680
+41.780308,120.17975,Lung Cancer,15606
+-54.38138,-113.49778,Stroke,7727
+-21.418303,97.86195,Breast Cancer,12925
+0.9145746,23.73567,Stroke,5648
+86.48762,-70.5547,Hypertension,9445
+-54.38138,-113.49778,"Cardiovascular Disease (Heart Attack, Stroke)",7997
+108.45741,33.86086,Hypertension,14187
+123.26093,-7.2396407,Coronary Heart Disease,8448
+52.690582,-65.71636,Chronic Kidney Disease,12452
+52.643436,-26.223866,"Cardiovascular Disease (Heart Attack, Stroke)",3547
+-52.03789,109.75791,Breast Cancer,12954
+11.132676,28.25096,"Chronic Respiratory Disease (COPD, Asthma)",10035
+-5.895239,-33.39974,Diabetes,1722
+-24.10492,64.91211,Breast Cancer,2136
+123.26093,-7.2396407,Coronary Heart Disease,9678
+5.4721074,-95.82928,Hypertension,11765
+-1.4462966,128.71089,"Chronic Respiratory Disease (COPD, Asthma)",5543
+86.231476,-24.243498,Lung Cancer,3204
+-129.27464,38.40658,Lung Cancer,11213
+21.565105,-39.759506,Coronary Heart Disease,2561
+-33.833015,34.09248,Stroke,13458
+-62.565968,-78.996635,Chronic Kidney Disease,4184
+-36.4544,4.9507737,Hypertension,7597
+17.066107,-55.35632,Cancer,1824
+-129.27464,38.40658,Cancer,10086
+119.55171,-46.5714,Hypertension,4192
+14.161109,-113.67078,Hypertension,27
+-72.64535,-13.2735815,Lung Cancer,15656
+17.066107,-55.35632,Stroke,10583
+-18.533215,35.14771,"Chronic Respiratory Disease (COPD, Asthma)",207
+-36.464268,-72.23163,"Cardiovascular Disease (Heart Attack, Stroke)",7070
+52.690582,-65.71636,Coronary Heart Disease,6347
+10.5171795,1.1576133,Cancer,1953
+-129.27464,38.40658,Lung Cancer,14484
+-73.459885,49.087147,"Chronic Respiratory Disease (COPD, Asthma)",13372
+-100.40136,-81.82804,Stroke,4941
+-72.64535,-13.2735815,Cancer,7012
+-100.40136,-81.82804,Coronary Heart Disease,10892
+113.72739,72.24678,Diabetes,3655
+-72.64535,-13.2735815,Cancer,5926
+119.55171,-46.5714,Hypertension,13747
+-24.334005,-95.333984,Cancer,8222
+79.46507,-16.774364,Hypertension,13020
+-138.52495,-30.278217,Lung Cancer,3965
+-129.27464,38.40658,Cancer,12597
+-36.712315,51.465996,Breast Cancer,3379
+49.731323,9.50522,Cancer,4410
+78.67671,99.84519,Lung Cancer,15487
+-5.895239,-33.39974,"Chronic Respiratory Disease (COPD, Asthma)",6365
+128.42851,33.388298,Chronic Kidney Disease,1944
+-20.750399,41.01921,"Cardiovascular Disease (Heart Attack, Stroke)",6787
+52.896572,-107.88771,Hypertension,10335
+68.98177,64.94026,Stroke,13797
+-21.129555,86.64975,Lung Cancer,5887
+88.75209,-57.826878,Hypertension,773
+-17.220955,-57.618855,Lung Cancer,11615
+-30.358229,-47.751057,Diabetes,12336
+-96.81707,-88.67934,Stroke,11105
+38.158356,5.5415845,Stroke,12286
+-65.56309,-51.88348,"Cardiovascular Disease (Heart Attack, Stroke)",4820
+14.161109,-113.67078,Coronary Heart Disease,2381
+14.10219,74.45424,Cancer,11875
+-36.4544,4.9507737,Cancer,2965
+-103.86582,87.37781,Chronic Kidney Disease,7335
+79.46507,-16.774364,Hypertension,11019
+-27.396383,-84.367805,Stroke,9569
+34.385098,8.741859,"Cardiovascular Disease (Heart Attack, Stroke)",10687
+79.50698,49.701378,"Cardiovascular Disease (Heart Attack, Stroke)",15358
+46.231083,77.18889,Coronary Heart Disease,2518
+-72.64535,-13.2735815,Lung Cancer,4479
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",4030
+-54.38138,-113.49778,Coronary Heart Disease,11599
+41.167408,-82.675896,"Chronic Respiratory Disease (COPD, Asthma)",6898
+-57.394638,34.94912,Cancer,1805
+-96.81707,-88.67934,Lung Cancer,11810
+57.83084,25.142689,Lung Cancer,1842
+-90.92143,50.721302,Breast Cancer,2352
+-72.64535,-13.2735815,Lung Cancer,13311
+13.27694,136.9551,Breast Cancer,14808
+24.867218,45.5955,Diabetes,7864
+-60.28868,-75.388115,Coronary Heart Disease,9605
+10.408286,61.08785,Lung Cancer,2314
+127.47171,42.03181,"Chronic Respiratory Disease (COPD, Asthma)",4145
+28.144373,30.364048,"Chronic Respiratory Disease (COPD, Asthma)",7249
+-89.03146,76.8532,Breast Cancer,10553
+78.67671,99.84519,Diabetes,7378
+-118.32334,-2.2428145,Chronic Kidney Disease,13255
+77.445564,34.485184,Chronic Kidney Disease,5858
+-129.27464,38.40658,Lung Cancer,8254
+-38.01055,20.662031,Hypertension,1909
+-33.833015,34.09248,Coronary Heart Disease,4772
+-53.354195,10.990013,Cancer,10584
+-52.03789,109.75791,Cancer,7788
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",7822
+27.756277,-20.203081,Coronary Heart Disease,1509
+-36.4544,4.9507737,Cancer,3531
+34.385098,8.741859,Coronary Heart Disease,10461
+-96.81707,-88.67934,Cancer,7415
+52.690582,-65.71636,"Cardiovascular Disease (Heart Attack, Stroke)",6768
+-118.32334,-2.2428145,Lung Cancer,2285
+-29.883415,-19.21682,"Cardiovascular Disease (Heart Attack, Stroke)",10957
+117.85716,35.333473,Breast Cancer,3038
+-96.81707,-88.67934,Lung Cancer,14616
+45.267513,63.342503,Cancer,7060
+-36.712315,51.465996,Coronary Heart Disease,13170
+84.82465,14.718121,Coronary Heart Disease,8476
+29.495962,59.621887,Chronic Kidney Disease,14844
+122.35132,28.063473,Breast Cancer,12949
+75.01374,20.36746,Coronary Heart Disease,8160
+113.72739,72.24678,Chronic Kidney Disease,12695
+55.16736,91.760445,Coronary Heart Disease,7216
+29.495962,59.621887,Chronic Kidney Disease,8959
+-27.396383,-84.367805,"Cardiovascular Disease (Heart Attack, Stroke)",11508
+-72.64535,-13.2735815,Chronic Kidney Disease,12719
+-110.4225,30.837551,Cancer,10578
+-16.88959,90.57644,Breast Cancer,4814
+-53.354195,10.990013,Chronic Kidney Disease,12628
+88.75209,-57.826878,Chronic Kidney Disease,1688
+123.26093,-7.2396407,Coronary Heart Disease,959
+-52.03789,109.75791,Breast Cancer,15343
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",13882
+-103.93165,-44.649548,Cancer,1375
+84.48917,10.508369,Coronary Heart Disease,11093
+-57.394638,34.94912,Lung Cancer,11470
+-54.38138,-113.49778,Coronary Heart Disease,911
+31.92484,37.42759,"Chronic Respiratory Disease (COPD, Asthma)",8134
+113.72739,72.24678,Diabetes,14828
+10.833467,32.853065,Cancer,10886
+-44.604576,75.40162,Diabetes,4339
+-30.358229,-47.751057,Stroke,14075
+-118.32334,-2.2428145,Lung Cancer,14656
+-2.689668,59.61921,Diabetes,4495
+17.066107,-55.35632,Stroke,12851
+-8.972738,13.568166,"Chronic Respiratory Disease (COPD, Asthma)",10309
+-72.64535,-13.2735815,Lung Cancer,15253
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",13510
+32.56592,72.10937,Cancer,8480
+84.374695,-14.889784,Hypertension,6074
+-65.56309,-51.88348,"Chronic Respiratory Disease (COPD, Asthma)",13076
+-49.6617,59.360023,"Chronic Respiratory Disease (COPD, Asthma)",15392
+-30.358229,-47.751057,Stroke,4240
+100.57841,-18.590542,Hypertension,12204
+-54.38138,-113.49778,Stroke,3960
+84.82465,14.718121,Stroke,6332
+-6.332512,-71.554016,Stroke,3088
+42.780346,48.6949,Cancer,8715
+28.12573,11.371533,Coronary Heart Disease,10154
+123.26093,-7.2396407,Diabetes,7824
+34.385098,8.741859,Coronary Heart Disease,3451
+17.066107,-55.35632,Chronic Kidney Disease,13211
+123.26093,-7.2396407,Stroke,14276
+12.477631,81.6463,"Cardiovascular Disease (Heart Attack, Stroke)",614
+5.2376614,-113.850555,Coronary Heart Disease,1594
+42.780346,48.6949,Diabetes,7799
+-10.7874,-50.670433,Chronic Kidney Disease,3265
+-44.84565,15.143348,Cancer,3298
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",2910
+-138.52495,-30.278217,Lung Cancer,7066
+14.306338,85.38241,Lung Cancer,12308
+-53.354195,10.990013,Cancer,13225
+-72.64535,-13.2735815,Diabetes,8631
+-54.38138,-113.49778,"Cardiovascular Disease (Heart Attack, Stroke)",2019
+-96.81707,-88.67934,Coronary Heart Disease,5972
+-128.21158,21.146257,Cancer,5147
+-54.38138,-113.49778,Stroke,9869
+-57.394638,34.94912,Chronic Kidney Disease,6481
+-36.4544,4.9507737,Cancer,2090
+-73.459885,49.087147,Breast Cancer,15893
+-52.03789,109.75791,Cancer,5702
+-72.64535,-13.2735815,Lung Cancer,11542
+-96.81707,-88.67934,Chronic Kidney Disease,9124
+119.55171,-46.5714,Hypertension,12104
+-56.736744,67.5888,Cancer,6407
+-56.736744,67.5888,Breast Cancer,11191
+-96.81707,-88.67934,Cancer,6820
+-26.21406,-43.006645,"Cardiovascular Disease (Heart Attack, Stroke)",14060
+-129.27464,38.40658,Lung Cancer,360
+-36.4544,4.9507737,Cancer,6603
+-96.81707,-88.67934,Lung Cancer,15892
+-36.4544,4.9507737,Stroke,7919
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",10468
+68.39041,8.540609,Coronary Heart Disease,14052
+19.334267,-92.0415,Breast Cancer,9748
+-65.56309,-51.88348,Chronic Kidney Disease,13584
+-36.464268,-72.23163,"Cardiovascular Disease (Heart Attack, Stroke)",5585
+-36.4544,4.9507737,Chronic Kidney Disease,6228
+122.35132,28.063473,Diabetes,15933
+-96.81707,-88.67934,"Cardiovascular Disease (Heart Attack, Stroke)",13987
+45.632267,98.19585,Lung Cancer,12862
+6.2492247,10.031419,Coronary Heart Disease,12672
+5.2376614,-113.850555,Coronary Heart Disease,11731
+5.2376614,-113.850555,Coronary Heart Disease,1748
+41.780308,120.17975,"Chronic Respiratory Disease (COPD, Asthma)",8376
+-9.894775,74.81204,Chronic Kidney Disease,2022
+79.46507,-16.774364,Stroke,4377
+-89.03146,76.8532,"Chronic Respiratory Disease (COPD, Asthma)",10792
+24.659678,102.548485,Stroke,3280
+-1.5635326,-71.696266,Breast Cancer,15906
+87.41805,46.65334,Diabetes,15264
+-18.061375,13.566636,Diabetes,3501
+-1.4462966,128.71089,Breast Cancer,4067
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",1287
+47.454117,-25.813856,Chronic Kidney Disease,14662
+-21.437508,15.616964,Chronic Kidney Disease,7150
+131.78671,-60.14879,Hypertension,520
+113.72739,72.24678,Diabetes,13175
+52.690582,-65.71636,Hypertension,13767
+17.066107,-55.35632,Hypertension,10887
+42.780346,48.6949,Chronic Kidney Disease,9654
+-109.33173,-44.212944,Lung Cancer,10210
+-10.834416,-9.472038,Coronary Heart Disease,14472
+57.83084,25.142689,Lung Cancer,1717
+42.780346,48.6949,Cancer,9287
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",3185
+-27.396383,-84.367805,Stroke,11098
+-55.112576,-58.152256,Coronary Heart Disease,15419
+41.167408,-82.675896,"Cardiovascular Disease (Heart Attack, Stroke)",9921
+81.67741,-92.266365,Chronic Kidney Disease,15259
+-53.354195,10.990013,"Chronic Respiratory Disease (COPD, Asthma)",2295
+-45.440792,-3.1542468,Chronic Kidney Disease,964
+-65.56309,-51.88348,Coronary Heart Disease,15267
+-96.81707,-88.67934,Coronary Heart Disease,8970
+14.10219,74.45424,Chronic Kidney Disease,7908
+-27.396383,-84.367805,Stroke,12365
+-57.394638,34.94912,"Chronic Respiratory Disease (COPD, Asthma)",14245
+-54.38138,-113.49778,Hypertension,14013
+-30.408752,-39.22368,Lung Cancer,9609
+96.430664,-35.543873,Lung Cancer,11056
+54.412365,-113.78718,Hypertension,14262
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",10798
+-110.4225,30.837551,"Chronic Respiratory Disease (COPD, Asthma)",1686
+47.454117,-25.813856,Hypertension,7428
+-72.48155,-98.33986,"Chronic Respiratory Disease (COPD, Asthma)",15646
+-44.604576,75.40162,Breast Cancer,9090
+-36.464268,-72.23163,"Cardiovascular Disease (Heart Attack, Stroke)",15074
+51.016262,-59.630672,"Chronic Respiratory Disease (COPD, Asthma)",15584
+73.95968,-17.888304,Breast Cancer,3804
+-41.57401,-18.910265,Cancer,13137
+63.047703,-1.0867589,Coronary Heart Disease,10492
+-138.52495,-30.278217,Lung Cancer,9051
+5.2376614,-113.850555,Coronary Heart Disease,364
+11.622039,97.79624,Hypertension,12726
+-118.32334,-2.2428145,Breast Cancer,3814
+-79.86091,-7.5474114,Lung Cancer,15175
+54.412365,-113.78718,Hypertension,7743
+65.56636,49.237804,Chronic Kidney Disease,5656
+30.893328,-63.629505,Chronic Kidney Disease,5141
+-57.394638,34.94912,Breast Cancer,12567
+87.86817,-29.291992,Chronic Kidney Disease,470
+123.26093,-7.2396407,Chronic Kidney Disease,5028
+57.83084,25.142689,Coronary Heart Disease,6441
+-1.8067946,-34.49667,Chronic Kidney Disease,14105
+5.2376614,-113.850555,Coronary Heart Disease,9188
+108.45741,33.86086,Coronary Heart Disease,11675
+11.132676,28.25096,Stroke,2275
+-40.992077,130.94957,Breast Cancer,12468
+84.82465,14.718121,Chronic Kidney Disease,1803
+-57.394638,34.94912,"Cardiovascular Disease (Heart Attack, Stroke)",2939
+43.027023,-24.089903,Diabetes,6984
+49.439922,-72.37112,Chronic Kidney Disease,6752
+34.355515,-48.257954,Stroke,10417
+87.41805,46.65334,Stroke,11040
+-65.56309,-51.88348,Diabetes,10120
+74.9282,6.2032313,Coronary Heart Disease,35
+47.454117,-25.813856,Cancer,4315
+84.374695,-14.889784,Cancer,11284
+-118.32334,-2.2428145,Lung Cancer,4947
+-6.332512,-71.554016,"Cardiovascular Disease (Heart Attack, Stroke)",6851
+-96.81707,-88.67934,Coronary Heart Disease,10843
+-84.1453,46.845818,Cancer,34
+-26.21406,-43.006645,Lung Cancer,12605
+-92.27975,72.95386,Lung Cancer,583
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",12639
+-26.21406,-43.006645,Coronary Heart Disease,3250
+-109.33173,-44.212944,Cancer,6264
+-65.56309,-51.88348,Lung Cancer,5680
+60.42618,-66.32297,Lung Cancer,9636
+119.55171,-46.5714,"Chronic Respiratory Disease (COPD, Asthma)",6841
+124.89973,44.243465,"Chronic Respiratory Disease (COPD, Asthma)",4736
+14.306338,85.38241,Breast Cancer,14068
+-4.1242285,-75.92677,Lung Cancer,15050
+-57.394638,34.94912,"Cardiovascular Disease (Heart Attack, Stroke)",2812
+-19.505495,74.51435,Chronic Kidney Disease,9096
+-87.835236,25.912745,Lung Cancer,2296
+-79.86091,-7.5474114,"Chronic Respiratory Disease (COPD, Asthma)",12917
+113.72739,72.24678,Chronic Kidney Disease,8417
+113.90284,-80.72565,Hypertension,1217
+5.2376614,-113.850555,Stroke,8528
+86.231476,-24.243498,Hypertension,11682
+-79.86091,-7.5474114,Lung Cancer,15818
+-52.03789,109.75791,Breast Cancer,10082
+119.55171,-46.5714,Cancer,3371
+-138.52495,-30.278217,Lung Cancer,4636
+89.151405,16.095358,"Cardiovascular Disease (Heart Attack, Stroke)",7047
+-110.4225,30.837551,Cancer,13764
+14.10219,74.45424,Coronary Heart Disease,7446
+-3.2951808,13.111921,Hypertension,2566
+14.161109,-113.67078,Coronary Heart Disease,14445
+17.066107,-55.35632,Chronic Kidney Disease,3082
+-32.465115,-83.34,Coronary Heart Disease,715
+0.9145746,23.73567,Cancer,12141
+-79.86091,-7.5474114,Lung Cancer,4956
+-96.81707,-88.67934,Coronary Heart Disease,751
+-96.81707,-88.67934,Lung Cancer,5959
+24.659678,102.548485,Diabetes,11575
+-79.86091,-7.5474114,Lung Cancer,11507
+88.75209,-57.826878,"Chronic Respiratory Disease (COPD, Asthma)",6060
+-54.38138,-113.49778,"Cardiovascular Disease (Heart Attack, Stroke)",9490
+108.45741,33.86086,Diabetes,10355
+-28.684687,-60.729614,"Cardiovascular Disease (Heart Attack, Stroke)",2580
+57.959995,47.79892,Diabetes,7403
+-18.061375,13.566636,Cancer,5164
+42.175545,87.08035,Lung Cancer,853
+30.893328,-63.629505,Stroke,15222
+-3.2951808,13.111921,Stroke,4064
+-2.3537912,-29.608599,Coronary Heart Disease,15012
+77.445564,34.485184,Diabetes,5978
+113.90284,-80.72565,"Cardiovascular Disease (Heart Attack, Stroke)",243
+-103.93165,-44.649548,Breast Cancer,9531
+-79.86091,-7.5474114,Chronic Kidney Disease,9913
+28.12573,11.371533,Coronary Heart Disease,13951
+122.35132,28.063473,Diabetes,11059
+119.55171,-46.5714,Chronic Kidney Disease,9537
+87.32961,87.978546,Diabetes,10829
+-113.109024,49.022655,Cancer,12051
+-54.38138,-113.49778,"Cardiovascular Disease (Heart Attack, Stroke)",14000
+-54.38138,-113.49778,"Chronic Respiratory Disease (COPD, Asthma)",1277
+-0.7594354,-5.0830398,Chronic Kidney Disease,11951
+-26.21406,-43.006645,"Chronic Respiratory Disease (COPD, Asthma)",8707
+-57.394638,34.94912,Chronic Kidney Disease,8978
+86.09018,-61.602516,Stroke,3887
+-87.25408,72.12471,Breast Cancer,6338
+-90.92143,50.721302,Breast Cancer,5327
+24.867218,45.5955,Hypertension,13785
+-36.4544,4.9507737,"Cardiovascular Disease (Heart Attack, Stroke)",1164
+75.01374,20.36746,"Chronic Respiratory Disease (COPD, Asthma)",7179
+-12.317448,35.774654,Breast Cancer,13100
+110.5251,-83.66426,Chronic Kidney Disease,10324
+-79.86091,-7.5474114,Lung Cancer,3788
+-89.03146,76.8532,Stroke,6366
+-41.504692,8.820006,Cancer,14367
+-13.695318,54.592003,Hypertension,3670
+14.161109,-113.67078,Coronary Heart Disease,1935
+-8.400799,62.278748,Breast Cancer,572
+64.663246,77.37262,Breast Cancer,5007
+19.46234,75.82322,"Chronic Respiratory Disease (COPD, Asthma)",8027
+19.627039,20.047386,Coronary Heart Disease,13054
+-28.684687,-60.729614,Stroke,10287
+-109.33173,-44.212944,Lung Cancer,2695
+-118.32334,-2.2428145,Breast Cancer,8499
+8.398045,80.549225,Coronary Heart Disease,1150
+-27.396383,-84.367805,Stroke,1372
+114.58872,-84.40889,Hypertension,3798
+-44.604576,75.40162,Stroke,5406
+86.231476,-24.243498,Breast Cancer,6616
+-129.27464,38.40658,Lung Cancer,13587
+-26.21406,-43.006645,"Cardiovascular Disease (Heart Attack, Stroke)",8344
+-12.317448,35.774654,Breast Cancer,14449
+88.56028,11.915484,Coronary Heart Disease,13666
+-21.129555,86.64975,Breast Cancer,3507
+20.423374,80.10652,"Chronic Respiratory Disease (COPD, Asthma)",8019
+-138.1888,27.432215,Cancer,6661
+-4.1242285,-75.92677,Stroke,1246
+-87.835236,25.912745,"Chronic Respiratory Disease (COPD, Asthma)",7715
+97.50564,-40.31266,Lung Cancer,12988
+-4.360848,63.710075,Breast Cancer,5678
+-73.459885,49.087147,Breast Cancer,5253
+-36.4544,4.9507737,Chronic Kidney Disease,12502
+54.00245,42.65124,"Chronic Respiratory Disease (COPD, Asthma)",2301
+-4.360848,63.710075,Cancer,11411
+5.2376614,-113.850555,Stroke,9461
+-0.7594354,-5.0830398,Breast Cancer,5916
+17.066107,-55.35632,Breast Cancer,1264
+107.11478,2.4765177,Stroke,11386
+14.10219,74.45424,Coronary Heart Disease,9653
+-45.622868,-95.64637,"Cardiovascular Disease (Heart Attack, Stroke)",5736
+-96.81707,-88.67934,Chronic Kidney Disease,9267
+-21.129555,86.64975,Coronary Heart Disease,12913
+34.385098,8.741859,Cancer,9155
+119.55171,-46.5714,Chronic Kidney Disease,13331
+34.385098,8.741859,Coronary Heart Disease,7613
+81.67741,-92.266365,Hypertension,9970
+87.5209,-104.062515,Stroke,8675
+-1.4462966,128.71089,Lung Cancer,15502
+-36.712315,51.465996,"Chronic Respiratory Disease (COPD, Asthma)",14283
+-54.38138,-113.49778,Hypertension,13394
+-23.363995,-74.082405,Stroke,7513
+52.690582,-65.71636,"Cardiovascular Disease (Heart Attack, Stroke)",8938
+86.231476,-24.243498,Chronic Kidney Disease,14855
+113.72739,72.24678,Diabetes,4847
+-1.4462966,128.71089,Cancer,11287
+56.856388,59.883934,Diabetes,8460
+54.734024,22.08927,"Chronic Respiratory Disease (COPD, Asthma)",11140
+79.50698,49.701378,Diabetes,1040
+14.161109,-113.67078,"Chronic Respiratory Disease (COPD, Asthma)",13008
+11.622039,97.79624,Breast Cancer,6021
+-96.81707,-88.67934,Lung Cancer,12524
+86.231476,-24.243498,Breast Cancer,1179
+92.39861,-59.82198,Stroke,8820
+52.643436,-26.223866,Breast Cancer,15477
+-79.86091,-7.5474114,Cancer,15026
+-29.883415,-19.21682,Cancer,15771
+-4.1242285,-75.92677,Chronic Kidney Disease,13857
+19.627039,20.047386,Diabetes,9845
+87.86817,-29.291992,Lung Cancer,12501
+8.518203,-13.411821,Diabetes,5414
+47.454117,-25.813856,"Chronic Respiratory Disease (COPD, Asthma)",6068
+107.11478,2.4765177,"Cardiovascular Disease (Heart Attack, Stroke)",7755
+119.55171,-46.5714,Hypertension,6023
+52.690582,-65.71636,Hypertension,1226
+79.50698,49.701378,Coronary Heart Disease,13467
+-30.408752,-39.22368,Stroke,659
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",6497
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",6169
+-32.465115,-83.34,Stroke,2239
+-16.88959,90.57644,Breast Cancer,1332
+-33.903748,-88.85306,"Cardiovascular Disease (Heart Attack, Stroke)",13577
+107.11478,2.4765177,Stroke,2329
+14.161109,-113.67078,Stroke,10907
+-12.317448,35.774654,Hypertension,8930
+-7.1371975,109.279854,Diabetes,9936
+-118.32334,-2.2428145,Lung Cancer,9419
+-10.7874,-50.670433,Diabetes,2232
+-72.48155,-98.33986,"Chronic Respiratory Disease (COPD, Asthma)",1551
+-113.109024,49.022655,Breast Cancer,11422
+-45.440792,-3.1542468,Chronic Kidney Disease,8803
+-59.57457,113.765594,Breast Cancer,1733
+56.9877,-60.52399,Breast Cancer,5172
+-4.360848,63.710075,Breast Cancer,5184
+14.306338,85.38241,Hypertension,11342
+19.334267,-92.0415,Chronic Kidney Disease,15241
+-30.408752,-39.22368,Diabetes,8891
+-87.835236,25.912745,Coronary Heart Disease,14999
+-4.1242285,-75.92677,Hypertension,12591
+-118.32334,-2.2428145,"Chronic Respiratory Disease (COPD, Asthma)",2432
+-59.57457,113.765594,Breast Cancer,2715
+-79.86091,-7.5474114,Cancer,9879
+68.84792,1.4404333,Coronary Heart Disease,570
+28.12573,11.371533,Lung Cancer,15844
+86.231476,-24.243498,Chronic Kidney Disease,8652
+78.67671,99.84519,Diabetes,4509
+-33.903748,-88.85306,Breast Cancer,5676
+-18.533215,35.14771,Hypertension,15942
+113.90284,-80.72565,Hypertension,1812
+34.385098,8.741859,Lung Cancer,13478
+-52.03789,109.75791,Breast Cancer,5996
+-16.88959,90.57644,Breast Cancer,289
+78.67671,99.84519,Diabetes,2246
+-79.86091,-7.5474114,Cancer,7800
+-10.7874,-50.670433,Chronic Kidney Disease,15633
+-21.437508,15.616964,Hypertension,1548
+-10.657524,2.3371062,Diabetes,7845
+-16.88959,90.57644,"Chronic Respiratory Disease (COPD, Asthma)",9346
+-22.85102,92.39562,Breast Cancer,673
+-87.25408,72.12471,Breast Cancer,12199
+-40.992077,130.94957,Diabetes,1095
+-33.903748,-88.85306,Stroke,8960
+47.454117,-25.813856,Stroke,13248
+125.92791,-63.43618,Lung Cancer,4567
+7.4451404,72.997665,Stroke,8677
+11.622039,97.79624,Lung Cancer,5198
+-106.215195,-39.78399,"Cardiovascular Disease (Heart Attack, Stroke)",4793
+-85.07619,95.19746,"Chronic Respiratory Disease (COPD, Asthma)",10993
+-2.3537912,-29.608599,Cancer,11005
+45.089516,116.61831,Breast Cancer,11241
+5.2376614,-113.850555,Stroke,11760
+-16.88959,90.57644,"Chronic Respiratory Disease (COPD, Asthma)",9618
+-109.33173,-44.212944,Lung Cancer,7466
+100.57841,-18.590542,Hypertension,722
+87.41805,46.65334,Diabetes,11471
+-79.86091,-7.5474114,Lung Cancer,2991
+77.445564,34.485184,Cancer,7456
+17.066107,-55.35632,Chronic Kidney Disease,8946
+-7.1371975,109.279854,Stroke,756
+-10.834416,-9.472038,Lung Cancer,2477
+-79.86091,-7.5474114,Lung Cancer,1515
+-1.4462966,128.71089,Cancer,6012
+-96.81707,-88.67934,Chronic Kidney Disease,14062
+-1.4462966,128.71089,Cancer,8546
+-92.67095,-82.15316,Lung Cancer,118
+52.690582,-65.71636,Chronic Kidney Disease,13167
+-4.1242285,-75.92677,Stroke,1804
+17.066107,-55.35632,Chronic Kidney Disease,15635
+-21.418303,97.86195,Breast Cancer,13640
+113.72739,72.24678,Diabetes,12217
+123.48349,0.37001252,Hypertension,9642
+124.89973,44.243465,Lung Cancer,6398
+33.657043,-34.956684,Cancer,4246
+-54.38138,-113.49778,Coronary Heart Disease,4881
+-57.394638,34.94912,Cancer,3608
+-129.27464,38.40658,Hypertension,12239
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",7994
+-92.67095,-82.15316,Coronary Heart Disease,9516
+78.67671,99.84519,Hypertension,11165
+-110.72763,22.35235,Cancer,14065
+-44.604576,75.40162,Chronic Kidney Disease,10192
+-33.32323,-43.062878,Lung Cancer,10274
+51.76166,84.65764,Hypertension,5955
+-79.86091,-7.5474114,Lung Cancer,8436
+-29.752605,50.147724,Breast Cancer,2419
+-87.835236,25.912745,Cancer,6395
+-1.4462966,128.71089,Breast Cancer,5645
+54.412365,-113.78718,Coronary Heart Disease,14977
+14.161109,-113.67078,Coronary Heart Disease,12436
+-16.88959,90.57644,Breast Cancer,13710
+-33.903748,-88.85306,"Cardiovascular Disease (Heart Attack, Stroke)",399
+5.2376614,-113.850555,Diabetes,344
+-30.408752,-39.22368,"Chronic Respiratory Disease (COPD, Asthma)",1795
+-52.03789,109.75791,Breast Cancer,4106
+-2.3537912,-29.608599,Cancer,13538
+-90.92143,50.721302,"Cardiovascular Disease (Heart Attack, Stroke)",7459
+-1.4462966,128.71089,Cancer,7733
+34.355515,-48.257954,Hypertension,4648
+-33.903748,-88.85306,Coronary Heart Disease,12692
+24.659678,102.548485,Stroke,10580
+-4.360848,63.710075,Cancer,9522
+-4.1242285,-75.92677,"Chronic Respiratory Disease (COPD, Asthma)",10973
+56.9877,-60.52399,Stroke,15718
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",8548
+78.67671,99.84519,Diabetes,2921
+125.92791,-63.43618,Hypertension,7476
+-52.03789,109.75791,Breast Cancer,541
+13.628977,61.733128,Breast Cancer,7745
+-48.595737,-119.108925,Coronary Heart Disease,3392
+119.55171,-46.5714,Hypertension,13262
+-40.992077,130.94957,Breast Cancer,3375
+-79.86091,-7.5474114,Lung Cancer,15592
+-36.4544,4.9507737,Coronary Heart Disease,12855
+57.959995,47.79892,Diabetes,603
+-138.52495,-30.278217,Lung Cancer,6629
+-87.835236,25.912745,Breast Cancer,14801
+-1.4462966,128.71089,Lung Cancer,13196
+-4.1242285,-75.92677,Stroke,4116
+113.72739,72.24678,Diabetes,4235
+10.833467,32.853065,"Cardiovascular Disease (Heart Attack, Stroke)",11571
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",5222
+-29.883415,-19.21682,Hypertension,2251
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",10672
+87.41805,46.65334,Coronary Heart Disease,9044
+46.879276,-2.102786,"Chronic Respiratory Disease (COPD, Asthma)",9640
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",1992
+-92.67095,-82.15316,Cancer,10924
+-1.4462966,128.71089,Breast Cancer,2583
+-1.4462966,128.71089,Breast Cancer,5790
+78.67671,99.84519,Diabetes,11770
+-52.03789,109.75791,Breast Cancer,12001
+113.72739,72.24678,Diabetes,12022
+-99.64906,-58.433273,Hypertension,3344
+-24.337555,-48.60235,"Chronic Respiratory Disease (COPD, Asthma)",4326
+87.5209,-104.062515,Coronary Heart Disease,14435
+27.756277,-20.203081,Coronary Heart Disease,11576
+5.2376614,-113.850555,Lung Cancer,544
+87.5209,-104.062515,Stroke,9191
+42.780346,48.6949,Cancer,15097
+-33.01154,49.01566,"Cardiovascular Disease (Heart Attack, Stroke)",8132
+89.396835,-61.654648,Hypertension,8351
+-0.7594354,-5.0830398,"Chronic Respiratory Disease (COPD, Asthma)",15513
+24.867218,45.5955,"Chronic Respiratory Disease (COPD, Asthma)",4673
+24.659678,102.548485,Stroke,13544
+42.780346,48.6949,Chronic Kidney Disease,15347
+-36.4544,4.9507737,Diabetes,4534
+-128.21158,21.146257,Diabetes,5800
+-79.86091,-7.5474114,"Chronic Respiratory Disease (COPD, Asthma)",10602
+-57.394638,34.94912,Stroke,1888
+-29.912933,-93.59589,"Cardiovascular Disease (Heart Attack, Stroke)",11058
+124.89973,44.243465,Diabetes,1025
+-92.67095,-82.15316,Chronic Kidney Disease,1777
+-1.4462966,128.71089,Lung Cancer,14321
+-1.4462966,128.71089,Cancer,2646
+125.92791,-63.43618,Chronic Kidney Disease,3505
+68.84792,1.4404333,Coronary Heart Disease,15454
+41.780308,120.17975,Lung Cancer,1856
+42.61808,25.492521,"Chronic Respiratory Disease (COPD, Asthma)",7272
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",4891
+34.385098,8.741859,Stroke,307
+119.55171,-46.5714,Chronic Kidney Disease,13140
+-99.64906,-58.433273,Lung Cancer,11893
+-92.67095,-82.15316,Lung Cancer,8086
+-48.595737,-119.108925,Hypertension,11600
+-0.7594354,-5.0830398,Lung Cancer,14521
+78.67671,99.84519,Diabetes,3338
+31.760336,-98.42858,Hypertension,7494
+-87.835236,25.912745,"Chronic Respiratory Disease (COPD, Asthma)",15879
+106.98866,-81.03058,Stroke,8919
+-113.990555,52.493244,Cancer,3447
+-36.4544,4.9507737,Coronary Heart Disease,12549
+78.67671,99.84519,"Cardiovascular Disease (Heart Attack, Stroke)",7377
+100.72313,-52.442448,Hypertension,2681
+57.86707,52.918354,Cancer,1097
+87.41805,46.65334,Diabetes,15620
+33.14478,14.196065,Coronary Heart Disease,4661
+8.398045,80.549225,"Cardiovascular Disease (Heart Attack, Stroke)",3858
+78.67671,99.84519,Diabetes,14495
+-21.437508,15.616964,Hypertension,10356
+-56.736744,67.5888,"Chronic Respiratory Disease (COPD, Asthma)",5082
+-18.807878,77.25451,"Cardiovascular Disease (Heart Attack, Stroke)",7190
+-129.27464,38.40658,Cancer,14557
+-29.752605,50.147724,"Chronic Respiratory Disease (COPD, Asthma)",13349
+68.84792,1.4404333,Coronary Heart Disease,6671
+-129.27464,38.40658,Chronic Kidney Disease,10853
+-65.56309,-51.88348,Chronic Kidney Disease,7808
+-52.03789,109.75791,Breast Cancer,11119
+34.385098,8.741859,Cancer,415
+10.833467,32.853065,Hypertension,8979
+60.42618,-66.32297,Diabetes,7018
+79.50698,49.701378,Diabetes,14006
+-60.28868,-75.388115,"Cardiovascular Disease (Heart Attack, Stroke)",9446
+-18.533215,35.14771,Breast Cancer,3506
+-50.152184,-125.81948,Chronic Kidney Disease,6994
+17.066107,-55.35632,Hypertension,11414
+-44.84565,15.143348,Chronic Kidney Disease,6520
+5.2376614,-113.850555,Diabetes,6117
+17.066107,-55.35632,"Chronic Respiratory Disease (COPD, Asthma)",13981
+5.2376614,-113.850555,Lung Cancer,4996
+14.161109,-113.67078,Breast Cancer,15037
+52.690582,-65.71636,Coronary Heart Disease,3093
+113.72739,72.24678,Diabetes,2757
+-47.89354,78.55899,Cancer,5769
+57.959995,47.79892,"Cardiovascular Disease (Heart Attack, Stroke)",10051
+-20.750399,41.01921,"Chronic Respiratory Disease (COPD, Asthma)",9498
+56.9877,-60.52399,"Cardiovascular Disease (Heart Attack, Stroke)",2016
+-1.4462966,128.71089,Cancer,6149
+28.144373,30.364048,Coronary Heart Disease,4099
+-48.595737,-119.108925,"Cardiovascular Disease (Heart Attack, Stroke)",12769
+-38.006245,-7.957007,Cancer,13725
+-36.4544,4.9507737,Hypertension,12974
+17.835415,48.61255,"Chronic Respiratory Disease (COPD, Asthma)",10440
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",7081
+10.833467,32.853065,Coronary Heart Disease,12574
+-52.03789,109.75791,Breast Cancer,231
+14.161109,-113.67078,Cancer,5851
+-87.835236,25.912745,Cancer,15739
+87.5209,-104.062515,Hypertension,1542
+24.659678,102.548485,Hypertension,11428
+12.477631,81.6463,"Chronic Respiratory Disease (COPD, Asthma)",13644
+47.454117,-25.813856,Coronary Heart Disease,7215
+17.066107,-55.35632,Stroke,496
+-14.67028,-26.891493,Diabetes,6331
+28.156061,-15.792449,Chronic Kidney Disease,5526
+59.438522,40.51538,"Cardiovascular Disease (Heart Attack, Stroke)",5285
+-79.86091,-7.5474114,Lung Cancer,11905
+-79.86091,-7.5474114,Lung Cancer,14165
+97.890205,94.11638,Diabetes,922
+-79.86091,-7.5474114,Lung Cancer,6382
+78.67671,99.84519,Chronic Kidney Disease,4729
+80.19392,53.984585,Coronary Heart Disease,3606
+-52.03789,109.75791,Breast Cancer,14223
+88.75209,-57.826878,Hypertension,11046
+14.161109,-113.67078,Cancer,1324
+-110.4225,30.837551,"Chronic Respiratory Disease (COPD, Asthma)",6688
+93.86592,-37.134155,Hypertension,10142
+63.047703,-1.0867589,Stroke,10864
+29.495962,59.621887,Chronic Kidney Disease,5890
+34.385098,8.741859,Chronic Kidney Disease,9398
+-4.1242285,-75.92677,Stroke,9730
+52.690582,-65.71636,Stroke,3305
+-32.38603,53.048016,Breast Cancer,4332
+5.2376614,-113.850555,Hypertension,14172
+-17.70485,132.2033,Cancer,15661
+-33.903748,-88.85306,Stroke,10849
+-129.27464,38.40658,Cancer,832
+96.430664,-35.543873,Lung Cancer,7114
+-65.56309,-51.88348,Cancer,11541
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",12303
+-56.736744,67.5888,Breast Cancer,3042
+-29.883415,-19.21682,Chronic Kidney Disease,2134
+84.374695,-14.889784,Hypertension,14420
+-26.58441,-17.162985,Cancer,6677
+86.48762,-70.5547,Hypertension,12471
+-52.03789,109.75791,Breast Cancer,710
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",8366
+-1.4462966,128.71089,Breast Cancer,2885
+65.858894,74.74356,Diabetes,2553
+117.85716,35.333473,Diabetes,8538
+125.92791,-63.43618,Hypertension,7409
+-79.86091,-7.5474114,Diabetes,14780
+-52.03789,109.75791,Breast Cancer,9737
+-1.4462966,128.71089,Breast Cancer,15396
+-62.253513,-45.19624,"Cardiovascular Disease (Heart Attack, Stroke)",14430
+68.39041,8.540609,Coronary Heart Disease,11018
+24.659678,102.548485,Hypertension,15288
+-103.93165,-44.649548,Lung Cancer,5098
+73.91116,-47.246563,Hypertension,7811
+-36.4544,4.9507737,Cancer,2445
+43.507633,-11.13658,Coronary Heart Disease,4337
+-48.595737,-119.108925,"Cardiovascular Disease (Heart Attack, Stroke)",9501
+0.79356235,120.59565,Chronic Kidney Disease,15357
+14.161109,-113.67078,Stroke,15043
+100.57841,-18.590542,Diabetes,10360
+81.67741,-92.266365,Coronary Heart Disease,9904
+50.362934,53.81847,Cancer,12798
+-64.56068,-75.2299,Chronic Kidney Disease,4686
+-60.28868,-75.388115,Hypertension,737
+-19.76426,68.44101,Chronic Kidney Disease,12978
+47.454117,-25.813856,Chronic Kidney Disease,405
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",6716
+65.858894,74.74356,Diabetes,11274
+-48.595737,-119.108925,Hypertension,4628
+113.72739,72.24678,Diabetes,7096
+14.161109,-113.67078,Coronary Heart Disease,14602
+-65.56309,-51.88348,Coronary Heart Disease,13581
+14.161109,-113.67078,Hypertension,4556
+123.48349,0.37001252,Coronary Heart Disease,8986
+-48.595737,-119.108925,Chronic Kidney Disease,6562
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",2659
+54.412365,-113.78718,Lung Cancer,1654
+79.46507,-16.774364,Hypertension,4582
+-138.52495,-30.278217,Lung Cancer,1310
+105.28889,31.551271,Diabetes,1501
+89.396835,-61.654648,Hypertension,3796
+-92.67095,-82.15316,Cancer,12833
+-65.56309,-51.88348,Hypertension,2988
+113.72739,72.24678,Diabetes,10740
+100.72313,-52.442448,Hypertension,3689
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",2475
+119.55171,-46.5714,Hypertension,6979
+14.161109,-113.67078,Stroke,7998
+-30.358229,-47.751057,Chronic Kidney Disease,1830
+42.175545,87.08035,Lung Cancer,12496
+68.39041,8.540609,"Cardiovascular Disease (Heart Attack, Stroke)",9995
+14.161109,-113.67078,Breast Cancer,4126
+113.72739,72.24678,Lung Cancer,4103
+-62.253513,-45.19624,Hypertension,12327
+79.50698,49.701378,Stroke,2869
+-79.86091,-7.5474114,Lung Cancer,13344
+123.48349,0.37001252,"Cardiovascular Disease (Heart Attack, Stroke)",5329
+-2.3537912,-29.608599,Stroke,5068
+-79.86091,-7.5474114,Chronic Kidney Disease,7414
+-79.86091,-7.5474114,"Chronic Respiratory Disease (COPD, Asthma)",5359
+117.85716,35.333473,Diabetes,6486
+6.5163417,47.785976,Chronic Kidney Disease,15705
+17.066107,-55.35632,Stroke,14220
+123.48349,0.37001252,Hypertension,9264
+78.67671,99.84519,Diabetes,9530
+-65.56309,-51.88348,Stroke,10376
+109.344086,-77.64459,Hypertension,7321
+56.856388,59.883934,Hypertension,4331
+46.072216,39.81,Hypertension,13180
+-21.129555,86.64975,Breast Cancer,12971
+57.83084,25.142689,Coronary Heart Disease,9224
+-85.07619,95.19746,"Chronic Respiratory Disease (COPD, Asthma)",4914
+123.48349,0.37001252,Stroke,13775
+54.734024,22.08927,Diabetes,15092
+-52.03789,109.75791,Breast Cancer,8058
+-33.903748,-88.85306,Stroke,8752
+-43.56143,79.783005,Cancer,11301
+74.80119,37.188477,Diabetes,9196
+8.398045,80.549225,Stroke,4264
+45.089516,116.61831,"Chronic Respiratory Disease (COPD, Asthma)",7506
+-56.736744,67.5888,"Chronic Respiratory Disease (COPD, Asthma)",12298
+-79.86091,-7.5474114,Lung Cancer,1939
+123.48349,0.37001252,Stroke,3784
+-47.89354,78.55899,Coronary Heart Disease,14352
+78.67671,99.84519,"Chronic Respiratory Disease (COPD, Asthma)",7918
+31.92484,37.42759,Breast Cancer,3521
+-60.28868,-75.388115,Lung Cancer,3390
+-38.01055,20.662031,Hypertension,3863
+96.430664,-35.543873,Cancer,332
+-14.67028,-26.891493,Stroke,13574
+-10.657524,2.3371062,"Chronic Respiratory Disease (COPD, Asthma)",9482
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",8810
+78.67671,99.84519,Chronic Kidney Disease,9233
+15.164091,-25.845573,Chronic Kidney Disease,11744
+78.67671,99.84519,Diabetes,1016
+14.306338,85.38241,Stroke,144
+-81.30412,92.0409,Diabetes,12660
+106.98866,-81.03058,Hypertension,4577
+-52.03789,109.75791,Cancer,42
+28.12573,11.371533,Hypertension,14147
+14.161109,-113.67078,Coronary Heart Disease,11759
+82.53618,-28.785063,Hypertension,6866
+107.11478,2.4765177,"Cardiovascular Disease (Heart Attack, Stroke)",4569
+-24.10492,64.91211,Chronic Kidney Disease,14553
+-43.56143,79.783005,Diabetes,2327
+8.858842,97.20298,"Chronic Respiratory Disease (COPD, Asthma)",10104
+-79.86091,-7.5474114,Lung Cancer,12281
+-33.903748,-88.85306,Coronary Heart Disease,3578
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",8766
+-52.03789,109.75791,Cancer,3324
+113.72739,72.24678,Diabetes,6945
+5.2376614,-113.850555,Hypertension,15747
+-56.736744,67.5888,Breast Cancer,3693
+-138.52495,-30.278217,Cancer,9269
+105.28889,31.551271,Breast Cancer,9818
+85.65727,62.41855,"Chronic Respiratory Disease (COPD, Asthma)",2130
+29.495962,59.621887,Hypertension,9063
+5.2376614,-113.850555,Hypertension,624
+-118.32334,-2.2428145,"Chronic Respiratory Disease (COPD, Asthma)",2569
+-4.1242285,-75.92677,Diabetes,9961
+-33.01154,49.01566,Breast Cancer,6024
+-2.3537912,-29.608599,"Cardiovascular Disease (Heart Attack, Stroke)",13521
+-0.7594354,-5.0830398,Stroke,6615
+-29.912933,-93.59589,Stroke,271
+-29.912933,-93.59589,Chronic Kidney Disease,568
+28.12573,11.371533,Stroke,8084
+-103.93165,-44.649548,Lung Cancer,11498
+-52.03789,109.75791,Breast Cancer,7636
+-36.4544,4.9507737,Coronary Heart Disease,2550
+-5.9626765,44.403767,"Cardiovascular Disease (Heart Attack, Stroke)",14448
+-0.7594354,-5.0830398,"Chronic Respiratory Disease (COPD, Asthma)",11501
+0.79356235,120.59565,Breast Cancer,12184
+-43.56143,79.783005,"Chronic Respiratory Disease (COPD, Asthma)",14914
+-16.88959,90.57644,Breast Cancer,8649
+-87.835236,25.912745,"Chronic Respiratory Disease (COPD, Asthma)",13812
+-48.595737,-119.108925,"Cardiovascular Disease (Heart Attack, Stroke)",385
+24.659678,102.548485,Lung Cancer,15552
+13.628977,61.733128,Breast Cancer,2668
+-92.67095,-82.15316,Lung Cancer,3484
+5.2376614,-113.850555,Chronic Kidney Disease,5035
+78.67671,99.84519,Diabetes,11932
+57.83084,25.142689,"Cardiovascular Disease (Heart Attack, Stroke)",2413
+6.393718,-14.5393505,Stroke,14261
+-118.32334,-2.2428145,Breast Cancer,5397
+-29.912933,-93.59589,"Cardiovascular Disease (Heart Attack, Stroke)",12838
+119.55171,-46.5714,"Cardiovascular Disease (Heart Attack, Stroke)",4959
+0.24613272,84.175255,Hypertension,9799
+51.016262,-59.630672,Coronary Heart Disease,11936
+-52.03789,109.75791,Breast Cancer,9086
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",8181
+-65.56309,-51.88348,Coronary Heart Disease,9169
+81.67741,-92.266365,Hypertension,2118
+19.46234,75.82322,Chronic Kidney Disease,3766
+-17.70485,132.2033,Breast Cancer,4299
+-89.03146,76.8532,Chronic Kidney Disease,1247
+-29.883415,-19.21682,Lung Cancer,10213
+-57.394638,34.94912,"Cardiovascular Disease (Heart Attack, Stroke)",12788
+-138.52495,-30.278217,Breast Cancer,12898
+105.28889,31.551271,"Cardiovascular Disease (Heart Attack, Stroke)",4245
+-72.64535,-13.2735815,Lung Cancer,1143
+-103.93165,-44.649548,Cancer,1971
+-17.80518,17.56814,Chronic Kidney Disease,9475
+-53.354195,10.990013,Cancer,2031
+29.495962,59.621887,"Chronic Respiratory Disease (COPD, Asthma)",6122
+16.863382,82.381996,"Chronic Respiratory Disease (COPD, Asthma)",2349
+-43.56143,79.783005,Breast Cancer,4134
+-110.4225,30.837551,Hypertension,10755
+-138.52495,-30.278217,Lung Cancer,8009
+-29.912933,-93.59589,Breast Cancer,6415
+-8.972738,13.568166,Chronic Kidney Disease,3430
+-110.72763,22.35235,Cancer,10278
+70.259926,-25.498898,Hypertension,3891
+-109.33173,-44.212944,"Chronic Respiratory Disease (COPD, Asthma)",5590
+-25.641964,-37.682117,Coronary Heart Disease,14825
+-36.4544,4.9507737,Cancer,420
+68.84792,1.4404333,Coronary Heart Disease,2809
+-44.282955,132.82826,Breast Cancer,4805
+-40.992077,130.94957,Breast Cancer,623
+-57.394638,34.94912,Breast Cancer,11989
+-138.1888,27.432215,Lung Cancer,3813
+54.907127,60.141705,Cancer,2932
+-16.88959,90.57644,Chronic Kidney Disease,7437
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",2163
+5.2376614,-113.850555,Diabetes,2287
+-26.399658,87.9598,Breast Cancer,2551
+56.9877,-60.52399,"Cardiovascular Disease (Heart Attack, Stroke)",2063
+-128.21158,21.146257,Stroke,2746
+3.2110639,28.400671,Lung Cancer,14337
+123.48349,0.37001252,"Cardiovascular Disease (Heart Attack, Stroke)",9771
+113.72739,72.24678,Diabetes,15669
+-38.006245,-7.957007,Stroke,11100
+-29.64021,5.5814896,Chronic Kidney Disease,1474
+52.659252,74.089615,Stroke,5692
+-0.7594354,-5.0830398,"Cardiovascular Disease (Heart Attack, Stroke)",13099
+-28.684687,-60.729614,"Chronic Respiratory Disease (COPD, Asthma)",123
+109.40436,67.35407,Coronary Heart Disease,2722
+104.04301,71.778275,Diabetes,7172
+-29.64021,5.5814896,Hypertension,9623
+108.85733,29.845558,Diabetes,4823
+-92.67095,-82.15316,Lung Cancer,3282
+-129.27464,38.40658,Lung Cancer,10663
+19.757547,-70.268585,Chronic Kidney Disease,3992
+130.04987,-3.451817,"Cardiovascular Disease (Heart Attack, Stroke)",10882
+-138.52495,-30.278217,Lung Cancer,1955
+40.295425,57.810368,Chronic Kidney Disease,1868
+24.659678,102.548485,Breast Cancer,13555
+-33.01154,49.01566,Breast Cancer,6812
+87.5209,-104.062515,Hypertension,12287
+-65.56309,-51.88348,Stroke,7154
+45.089516,116.61831,Breast Cancer,10393
+-62.253513,-45.19624,"Cardiovascular Disease (Heart Attack, Stroke)",865
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",12408
+-64.56068,-75.2299,"Cardiovascular Disease (Heart Attack, Stroke)",11916
+0.79356235,120.59565,Breast Cancer,1031
+47.330204,-62.266407,Chronic Kidney Disease,14434
+-4.8461657,27.944815,Breast Cancer,10707
+-129.27464,38.40658,Cancer,11522
+47.454117,-25.813856,Cancer,13671
+11.132676,28.25096,Coronary Heart Disease,10739
+-16.88959,90.57644,"Chronic Respiratory Disease (COPD, Asthma)",43
+33.14478,14.196065,Stroke,2904
+-30.358229,-47.751057,Coronary Heart Disease,1687
+5.2376614,-113.850555,Diabetes,8775
+77.840996,-32.092842,"Cardiovascular Disease (Heart Attack, Stroke)",12970
+-2.3537912,-29.608599,Hypertension,13439
+-72.64535,-13.2735815,Lung Cancer,2848
+-72.64535,-13.2735815,Lung Cancer,15803
+88.74089,62.633133,Coronary Heart Disease,15511
+-1.4462966,128.71089,Cancer,2276
+17.066107,-55.35632,Lung Cancer,5140
+-118.32334,-2.2428145,Stroke,1983
+130.04987,-3.451817,"Cardiovascular Disease (Heart Attack, Stroke)",5780
+42.780346,48.6949,Lung Cancer,784
+119.55171,-46.5714,Chronic Kidney Disease,7
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",7442
+-65.56309,-51.88348,"Cardiovascular Disease (Heart Attack, Stroke)",13978
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",163
+-4.360848,63.710075,"Chronic Respiratory Disease (COPD, Asthma)",13082
+24.659678,102.548485,Coronary Heart Disease,14388
+119.55171,-46.5714,Chronic Kidney Disease,11208
+-57.394638,34.94912,"Cardiovascular Disease (Heart Attack, Stroke)",3483
+-4.1242285,-75.92677,Chronic Kidney Disease,15181
+-4.1242285,-75.92677,Chronic Kidney Disease,11644
+-1.4462966,128.71089,Cancer,1758
+31.92484,37.42759,Hypertension,12312
+-21.129555,86.64975,Stroke,8341
+-36.712315,51.465996,Lung Cancer,6079
+-113.990555,52.493244,"Chronic Respiratory Disease (COPD, Asthma)",3786
+-29.912933,-93.59589,Hypertension,14058
+-9.527945,45.889515,Stroke,15626
+77.840996,-32.092842,Lung Cancer,5801
+51.76166,84.65764,Lung Cancer,6883
+123.48349,0.37001252,Stroke,6062
+-72.64535,-13.2735815,Lung Cancer,1254
+13.27694,136.9551,Cancer,13532
+-99.64906,-58.433273,Coronary Heart Disease,6524
+-57.394638,34.94912,"Chronic Respiratory Disease (COPD, Asthma)",56
+15.164091,-25.845573,Stroke,11186
+92.83712,-56.51855,Hypertension,6796
+92.83712,-56.51855,Hypertension,7861
+113.53734,79.0886,Diabetes,6051
+130.04987,-3.451817,Stroke,881
+11.132676,28.25096,Diabetes,9575
+-73.459885,49.087147,Stroke,7189
+-103.93165,-44.649548,Coronary Heart Disease,12263
+24.659678,102.548485,Breast Cancer,3508
+0.79356235,120.59565,Cancer,11408
+-72.64535,-13.2735815,Lung Cancer,13078
+-67.52719,-104.27214,"Cardiovascular Disease (Heart Attack, Stroke)",11358
+-52.03789,109.75791,Breast Cancer,12480
+110.266624,41.41374,Diabetes,3953
+71.73542,64.024284,Stroke,15213
+77.445564,34.485184,Chronic Kidney Disease,7827
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",4195
+24.867218,45.5955,Coronary Heart Disease,699
+-47.89354,78.55899,Cancer,63
+51.76166,84.65764,Chronic Kidney Disease,12783
+57.86707,52.918354,Breast Cancer,7914
+-9.527945,45.889515,Hypertension,13786
+-92.67095,-82.15316,Chronic Kidney Disease,15398
+54.00245,42.65124,Diabetes,13739
+19.627039,20.047386,"Cardiovascular Disease (Heart Attack, Stroke)",14727
+-118.32334,-2.2428145,Chronic Kidney Disease,8639
+-138.52495,-30.278217,Lung Cancer,413
+0.79356235,120.59565,"Chronic Respiratory Disease (COPD, Asthma)",2976
+-48.595737,-119.108925,Hypertension,6405
+-81.889336,26.535654,Cancer,431
+68.39041,8.540609,Coronary Heart Disease,2537
+130.04987,-3.451817,Chronic Kidney Disease,3193
+82.53618,-28.785063,"Cardiovascular Disease (Heart Attack, Stroke)",569
+19.334267,-92.0415,"Cardiovascular Disease (Heart Attack, Stroke)",2574
+-65.56309,-51.88348,Chronic Kidney Disease,11315
+82.53618,-28.785063,Breast Cancer,7432
+-65.56309,-51.88348,Chronic Kidney Disease,9338
+-65.56309,-51.88348,Coronary Heart Disease,8529
+-29.883415,-19.21682,Chronic Kidney Disease,13645
+-57.394638,34.94912,Breast Cancer,3657
+5.2376614,-113.850555,Stroke,6381
+19.757547,-70.268585,Breast Cancer,13053
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",11516
+131.78671,-60.14879,Hypertension,10140
+-129.27464,38.40658,Cancer,3279
+-103.93165,-44.649548,Lung Cancer,15484
+119.55171,-46.5714,Hypertension,9747
+124.89973,44.243465,Breast Cancer,14635
+63.047703,-1.0867589,Coronary Heart Disease,8786
+52.690582,-65.71636,Diabetes,7974
+-29.912933,-93.59589,Stroke,5879
+-72.64535,-13.2735815,Cancer,3346
+-0.7594354,-5.0830398,Stroke,12653
+-21.418303,97.86195,"Cardiovascular Disease (Heart Attack, Stroke)",6266
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",11969
+47.454117,-25.813856,"Cardiovascular Disease (Heart Attack, Stroke)",4016
+111.03763,-79.90496,Hypertension,8574
+5.2376614,-113.850555,Hypertension,7570
+96.430664,-35.543873,"Cardiovascular Disease (Heart Attack, Stroke)",3266
+82.53618,-28.785063,Stroke,1158
+-52.03789,109.75791,Diabetes,674
+-52.03789,109.75791,Breast Cancer,5091
+130.04987,-3.451817,"Cardiovascular Disease (Heart Attack, Stroke)",3490
+-81.889336,26.535654,Lung Cancer,3057
+5.2376614,-113.850555,Chronic Kidney Disease,2034
+2.2844746,-31.001871,Stroke,13402
+-30.358229,-47.751057,"Cardiovascular Disease (Heart Attack, Stroke)",929
+-138.52495,-30.278217,Lung Cancer,2913
+-39.01734,-34.66019,Chronic Kidney Disease,955
+-4.8461657,27.944815,Cancer,6206
+-74.61215,60.7736,"Chronic Respiratory Disease (COPD, Asthma)",1904
+-138.52495,-30.278217,Lung Cancer,14628
+-59.57457,113.765594,Breast Cancer,4227
+-22.85102,92.39562,Stroke,4714
+5.2376614,-113.850555,Hypertension,7967
+-48.595737,-119.108925,Cancer,15263
+5.2376614,-113.850555,Coronary Heart Disease,3424
+-9.527945,45.889515,Chronic Kidney Disease,2469
+-110.72763,22.35235,Chronic Kidney Disease,10070
+-43.499634,2.9838722,Cancer,4387
+-39.463737,-2.2522843,Diabetes,7135
+-59.57457,113.765594,Breast Cancer,6836
+82.53618,-28.785063,"Cardiovascular Disease (Heart Attack, Stroke)",14378
+9.9649,45.42651,"Chronic Respiratory Disease (COPD, Asthma)",11393
+-110.72763,22.35235,Cancer,12487
+17.066107,-55.35632,Chronic Kidney Disease,12212
+56.9877,-60.52399,Stroke,1829
+28.12573,11.371533,"Chronic Respiratory Disease (COPD, Asthma)",14522
+-81.889336,26.535654,Cancer,2506
+19.334267,-92.0415,Coronary Heart Disease,1724
+-5.9626765,44.403767,Hypertension,3666
+0.79356235,120.59565,"Chronic Respiratory Disease (COPD, Asthma)",12646
+-7.1371975,109.279854,Stroke,4166
+-65.56309,-51.88348,Chronic Kidney Disease,59
+79.50698,49.701378,"Cardiovascular Disease (Heart Attack, Stroke)",13171
+-72.64535,-13.2735815,Lung Cancer,7472
+-30.358229,-47.751057,Chronic Kidney Disease,12662
+-72.64535,-13.2735815,Lung Cancer,13060
+119.55171,-46.5714,Lung Cancer,14790
+-39.463737,-2.2522843,Stroke,12729
+5.2376614,-113.850555,Hypertension,14020
+-72.64535,-13.2735815,Stroke,5270
+45.089516,116.61831,Stroke,8201
+81.67741,-92.266365,Chronic Kidney Disease,5403
+-29.912933,-93.59589,Stroke,11737
+14.161109,-113.67078,Chronic Kidney Disease,12405
+52.690582,-65.71636,Stroke,3236
+-0.7594354,-5.0830398,Stroke,13025
+78.67671,99.84519,Lung Cancer,8658
+118.94267,75.8545,Chronic Kidney Disease,15503
+-118.32334,-2.2428145,Cancer,1435
+15.164091,-25.845573,Coronary Heart Disease,15820
+89.151405,16.095358,Stroke,1255
+52.690582,-65.71636,Cancer,4858
+-129.27464,38.40658,Cancer,12425
+-90.92143,50.721302,Cancer,2846
+-92.67095,-82.15316,Lung Cancer,10397
+-40.992077,130.94957,Cancer,561
+-40.992077,130.94957,Cancer,147
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",15112
+43.027023,-24.089903,"Chronic Respiratory Disease (COPD, Asthma)",198
+-48.595737,-119.108925,Lung Cancer,9304
+-118.32334,-2.2428145,Chronic Kidney Disease,7865
+130.04987,-3.451817,Chronic Kidney Disease,11535
+131.78671,-60.14879,Hypertension,1064
+56.9877,-60.52399,Stroke,11478
+-57.394638,34.94912,Breast Cancer,3741
+-43.499634,2.9838722,Cancer,6900
+-60.28868,-75.388115,Coronary Heart Disease,8064
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",1631
+82.53618,-28.785063,Hypertension,258
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",15558
+-65.56309,-51.88348,"Chronic Respiratory Disease (COPD, Asthma)",7387
+5.2376614,-113.850555,Hypertension,15756
+-129.27464,38.40658,Lung Cancer,6009
+113.53734,79.0886,Diabetes,15126
+54.412365,-113.78718,Stroke,10917
+-30.358229,-47.751057,Stroke,1320
+-106.215195,-39.78399,Stroke,3308
+123.48349,0.37001252,"Cardiovascular Disease (Heart Attack, Stroke)",10182
+-22.85102,92.39562,Stroke,5896
+42.780346,48.6949,Hypertension,13793
+-56.736744,67.5888,Diabetes,4164
+-56.79754,29.149857,Breast Cancer,3791
+0.79356235,120.59565,Lung Cancer,1406
+-59.57457,113.765594,Breast Cancer,3660
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",11
+-28.684687,-60.729614,Hypertension,2282
+116.07674,47.464764,Diabetes,3915
+50.720398,-29.689253,"Cardiovascular Disease (Heart Attack, Stroke)",2485
+63.047703,-1.0867589,Chronic Kidney Disease,12955
+-36.712315,51.465996,Breast Cancer,1045
+41.167408,-82.675896,Stroke,15243
+-72.64535,-13.2735815,Coronary Heart Disease,6239
+-22.85102,92.39562,Breast Cancer,6774
+45.089516,116.61831,Stroke,12847
+-56.736744,67.5888,Breast Cancer,141
+0.79356235,120.59565,Cancer,11722
+-43.56143,79.783005,Breast Cancer,9614
+-45.622868,-95.64637,Coronary Heart Disease,12064
+26.587568,63.041615,Lung Cancer,4275
+4.2910633,-34.375248,Cancer,5145
+-8.005369,-25.547503,Stroke,7079
+5.2376614,-113.850555,"Cardiovascular Disease (Heart Attack, Stroke)",6088
+5.2376614,-113.850555,"Chronic Respiratory Disease (COPD, Asthma)",9565
+-48.595737,-119.108925,Stroke,7721
+-22.85102,92.39562,"Chronic Respiratory Disease (COPD, Asthma)",3200
+25.505085,59.081825,Coronary Heart Disease,7839
+-39.463737,-2.2522843,Chronic Kidney Disease,13400
+-81.889336,26.535654,"Cardiovascular Disease (Heart Attack, Stroke)",11602
+26.587568,63.041615,"Chronic Respiratory Disease (COPD, Asthma)",4842
+46.231083,77.18889,Lung Cancer,140
+-57.394638,34.94912,Breast Cancer,3789
+-72.64535,-13.2735815,Cancer,2194
+80.19392,53.984585,Diabetes,3278
+5.2376614,-113.850555,Breast Cancer,10237
+-53.404125,-53.348442,Lung Cancer,10620
+80.29491,45.583576,"Chronic Respiratory Disease (COPD, Asthma)",13089
+100.57841,-18.590542,Chronic Kidney Disease,11235
+50.720398,-29.689253,Lung Cancer,5223
+26.587568,63.041615,Lung Cancer,4900
+17.066107,-55.35632,Hypertension,12012
+82.53618,-28.785063,Cancer,333
+56.21229,-72.269905,"Cardiovascular Disease (Heart Attack, Stroke)",6827
+130.04987,-3.451817,Chronic Kidney Disease,14702
+97.890205,94.11638,Diabetes,1539
+113.53734,79.0886,Diabetes,2995
+10.833467,32.853065,"Cardiovascular Disease (Heart Attack, Stroke)",6551
+17.066107,-55.35632,Lung Cancer,6389
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",10858
+-22.85102,92.39562,"Cardiovascular Disease (Heart Attack, Stroke)",11103
+-129.27464,38.40658,Lung Cancer,10088
+14.306338,85.38241,Breast Cancer,1136
+51.76166,84.65764,Coronary Heart Disease,1323
+119.55171,-46.5714,Hypertension,8862
+45.089516,116.61831,Stroke,2994
+88.56028,11.915484,"Cardiovascular Disease (Heart Attack, Stroke)",7006
+-36.712315,51.465996,Diabetes,240
+-72.64535,-13.2735815,"Cardiovascular Disease (Heart Attack, Stroke)",2698
+72.11622,61.034473,Hypertension,5334
+-115.36161,-7.8157315,Lung Cancer,11660
+-33.903748,-88.85306,"Cardiovascular Disease (Heart Attack, Stroke)",9908
+119.55171,-46.5714,Chronic Kidney Disease,9070
+-54.38138,-113.49778,Stroke,8179
+0.79356235,120.59565,Cancer,10207
+-52.03789,109.75791,Breast Cancer,10665
+10.833467,32.853065,Cancer,14520
+0.79356235,120.59565,Breast Cancer,2171
+0.79356235,120.59565,Cancer,7642
+-72.64535,-13.2735815,Coronary Heart Disease,9893
+-81.30412,92.0409,"Cardiovascular Disease (Heart Attack, Stroke)",526
+-113.109024,49.022655,Breast Cancer,6987
+55.0316,-23.046627,"Cardiovascular Disease (Heart Attack, Stroke)",14842
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",9485
+-40.992077,130.94957,Breast Cancer,5740
+-36.712315,51.465996,Breast Cancer,15636
+-65.56309,-51.88348,Coronary Heart Disease,8856
+116.217804,32.01946,"Chronic Respiratory Disease (COPD, Asthma)",13874
+-30.358229,-47.751057,Chronic Kidney Disease,13182
+56.21229,-72.269905,Hypertension,15232
+-1.4462966,128.71089,Breast Cancer,7858
+-52.03789,109.75791,Breast Cancer,15900
+-5.9626765,44.403767,Breast Cancer,611
+-54.38138,-113.49778,"Cardiovascular Disease (Heart Attack, Stroke)",13468
+28.12573,11.371533,Lung Cancer,13540
+85.65727,62.41855,Stroke,12661
+10.833467,32.853065,Diabetes,10692
+119.55171,-46.5714,Hypertension,8800
+-65.56309,-51.88348,Chronic Kidney Disease,6859
+-30.358229,-47.751057,"Chronic Respiratory Disease (COPD, Asthma)",6346
+-33.903748,-88.85306,Lung Cancer,2243
+119.55171,-46.5714,Hypertension,6911
+-60.28868,-75.388115,Chronic Kidney Disease,8674
+45.089516,116.61831,Chronic Kidney Disease,5840
+17.066107,-55.35632,Hypertension,15728
+-33.32323,-43.062878,"Chronic Respiratory Disease (COPD, Asthma)",3034
+-72.64535,-13.2735815,Chronic Kidney Disease,10296
+-110.72763,22.35235,Cancer,14178
+122.35132,28.063473,Diabetes,14678
+6.393718,-14.5393505,"Cardiovascular Disease (Heart Attack, Stroke)",10566
+-92.67095,-82.15316,Cancer,7963
+-104.88912,51.700176,Breast Cancer,14157
+-0.7594354,-5.0830398,Stroke,15521
+54.412365,-113.78718,Coronary Heart Disease,4904
+-33.833015,34.09248,Lung Cancer,12842
+-17.80518,17.56814,"Chronic Respiratory Disease (COPD, Asthma)",4026
+45.089516,116.61831,"Cardiovascular Disease (Heart Attack, Stroke)",6584
+41.167408,-82.675896,"Cardiovascular Disease (Heart Attack, Stroke)",11201
+50.362934,53.81847,Lung Cancer,15554
+22.844841,12.217591,Diabetes,6208
+16.863382,82.381996,Coronary Heart Disease,1475
+87.41805,46.65334,Stroke,15173
+17.50094,18.379963,Breast Cancer,12594
+84.48917,10.508369,Coronary Heart Disease,8191
+45.089516,116.61831,Cancer,264
+1.6459926,-26.534771,Coronary Heart Disease,14116
+81.67741,-92.266365,Hypertension,15187
+-85.07619,95.19746,"Chronic Respiratory Disease (COPD, Asthma)",10690
+40.785297,-43.411377,Stroke,607
+-33.32323,-43.062878,Coronary Heart Disease,2878
+26.587568,63.041615,Lung Cancer,3642
+109.40436,67.35407,Diabetes,9637
+-72.64535,-13.2735815,Lung Cancer,3983
+100.57841,-18.590542,Chronic Kidney Disease,622
+28.156061,-15.792449,Lung Cancer,6909
+-118.32334,-2.2428145,Lung Cancer,1188
+-85.07619,95.19746,"Chronic Respiratory Disease (COPD, Asthma)",12827
+-10.834416,-9.472038,Chronic Kidney Disease,11108
+74.66659,-23.682678,Chronic Kidney Disease,5199
+-56.79754,29.149857,Coronary Heart Disease,12068
+14.161109,-113.67078,"Cardiovascular Disease (Heart Attack, Stroke)",4789
+28.156061,-15.792449,Coronary Heart Disease,33
+-81.889336,26.535654,Lung Cancer,6993
+111.37434,-56.682537,"Cardiovascular Disease (Heart Attack, Stroke)",8338
+-115.36161,-7.8157315,Stroke,12440
+-73.459885,49.087147,Breast Cancer,3464
+28.12573,11.371533,"Cardiovascular Disease (Heart Attack, Stroke)",12391
+85.126945,-58.619972,"Chronic Respiratory Disease (COPD, Asthma)",2447
+113.02413,47.548397,Diabetes,1822
+17.066107,-55.35632,"Cardiovascular Disease (Heart Attack, Stroke)",8882
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",13111
+110.5251,-83.66426,Stroke,10900
+55.0316,-23.046627,Coronary Heart Disease,13643
+80.29491,45.583576,Stroke,7965
+50.15083,-21.58526,Coronary Heart Disease,5846
+68.39041,8.540609,Chronic Kidney Disease,7187
+90.91736,-25.346916,Breast Cancer,276
+-115.36161,-7.8157315,Cancer,5265
+-55.216904,8.262447,Cancer,1835
+52.458515,-38.909523,Coronary Heart Disease,3194
+90.91736,-25.346916,Cancer,7162
+-33.32323,-43.062878,"Chronic Respiratory Disease (COPD, Asthma)",6966
+-57.394638,34.94912,Cancer,171
+100.57841,-18.590542,Breast Cancer,4548
+87.41805,46.65334,Coronary Heart Disease,9534
+57.83084,25.142689,Stroke,11153
+17.066107,-55.35632,Coronary Heart Disease,418
+45.267513,63.342503,Stroke,15598
+30.893328,-63.629505,Coronary Heart Disease,1624
+57.83084,25.142689,Coronary Heart Disease,14902
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",14974
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",13250
+-56.491432,-121.33264,Stroke,13845
+17.066107,-55.35632,Stroke,4600
+78.67671,99.84519,Diabetes,6299
+83.38782,51.846325,"Chronic Respiratory Disease (COPD, Asthma)",11107
+20.423374,80.10652,Cancer,15801
+-52.03789,109.75791,Breast Cancer,5945
+19.334267,-92.0415,Lung Cancer,10725
+-92.67095,-82.15316,Lung Cancer,3218
+72.11622,61.034473,Breast Cancer,13112
+39.573734,93.54667,Lung Cancer,1082
+78.67671,99.84519,Hypertension,1743
+-1.4462966,128.71089,Lung Cancer,4079
+-81.889336,26.535654,Cancer,10001
+60.42618,-66.32297,"Chronic Respiratory Disease (COPD, Asthma)",11886
+-4.8461657,27.944815,"Cardiovascular Disease (Heart Attack, Stroke)",10986
+42.175545,87.08035,Stroke,3779
+25.505085,59.081825,Diabetes,8013
+-52.03789,109.75791,Breast Cancer,5204
+104.04301,71.778275,Diabetes,382
+-73.459885,49.087147,Breast Cancer,4683
+77.445564,34.485184,Chronic Kidney Disease,13010
+107.73681,76.54063,Diabetes,11901
+50.15083,-21.58526,"Chronic Respiratory Disease (COPD, Asthma)",10956
+-65.56309,-51.88348,"Cardiovascular Disease (Heart Attack, Stroke)",9914
+-36.712315,51.465996,Breast Cancer,1720
+-24.10492,64.91211,Breast Cancer,13294
+60.42618,-66.32297,Stroke,11766
+21.565105,-39.759506,Cancer,5958
+-60.65179,-57.171215,Chronic Kidney Disease,11382
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",5546
+-65.56309,-51.88348,"Cardiovascular Disease (Heart Attack, Stroke)",14946
+-5.3040133,32.819294,"Cardiovascular Disease (Heart Attack, Stroke)",12015
+-67.52719,-104.27214,"Cardiovascular Disease (Heart Attack, Stroke)",3541
+17.066107,-55.35632,Hypertension,7970
+17.066107,-55.35632,Hypertension,9933
+-60.65179,-57.171215,Chronic Kidney Disease,5998
+-73.459885,49.087147,"Cardiovascular Disease (Heart Attack, Stroke)",14689
+2.2844746,-31.001871,Stroke,2269
+54.412365,-113.78718,Stroke,1046
+-92.67095,-82.15316,Stroke,3671
+50.15083,-21.58526,Chronic Kidney Disease,13768
+81.67741,-92.266365,Coronary Heart Disease,5002
+-129.27464,38.40658,Cancer,14170
+15.164091,-25.845573,Coronary Heart Disease,3516
+-1.4462966,128.71089,Lung Cancer,14083
+28.156061,-15.792449,Stroke,15758
+28.12573,11.371533,Stroke,7366
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",15314
+-67.52719,-104.27214,Hypertension,10645
+14.161109,-113.67078,Stroke,7318
+23.625277,7.4374905,Hypertension,8170
+24.659678,102.548485,Cancer,11196
+15.164091,-25.845573,Lung Cancer,809
+65.988144,44.76535,"Chronic Respiratory Disease (COPD, Asthma)",3271
+25.505085,59.081825,Chronic Kidney Disease,1583
+-115.36161,-7.8157315,"Chronic Respiratory Disease (COPD, Asthma)",2023
+-43.56143,79.783005,Cancer,5006
+-115.36161,-7.8157315,Lung Cancer,7171
+97.890205,94.11638,Diabetes,8073
+-65.56309,-51.88348,Hypertension,11389
+-103.93165,-44.649548,Stroke,14426
+-129.27464,38.40658,Lung Cancer,8606
+-39.463737,-2.2522843,"Cardiovascular Disease (Heart Attack, Stroke)",2903
+-72.64535,-13.2735815,Lung Cancer,10587
+-10.834416,-9.472038,Chronic Kidney Disease,11008
+-24.337555,-48.60235,Chronic Kidney Disease,8002
+34.29017,2.606319,Coronary Heart Disease,8988
+78.67671,99.84519,Coronary Heart Disease,3925
+43.507633,-11.13658,Lung Cancer,5311
+-10.7874,-50.670433,Stroke,14538
+33.657043,-34.956684,Chronic Kidney Disease,1949
+0.9145746,23.73567,"Cardiovascular Disease (Heart Attack, Stroke)",13779
+-29.912933,-93.59589,Chronic Kidney Disease,7087
+12.477631,81.6463,Diabetes,15919
+54.412365,-113.78718,Stroke,665
+-72.64535,-13.2735815,Cancer,15905
+17.066107,-55.35632,Coronary Heart Disease,12092
+40.295425,57.810368,Cancer,878
+117.85716,35.333473,Chronic Kidney Disease,15683
+68.98177,64.94026,Cancer,3632
+60.42618,-66.32297,Hypertension,10
+-92.67095,-82.15316,Lung Cancer,8855
+57.83084,25.142689,Lung Cancer,13321
+-56.491432,-121.33264,Coronary Heart Disease,13820
+-5.9626765,44.403767,"Cardiovascular Disease (Heart Attack, Stroke)",8602
+28.156061,-15.792449,"Cardiovascular Disease (Heart Attack, Stroke)",2528
+14.161109,-113.67078,Coronary Heart Disease,721
+-4.1242285,-75.92677,"Cardiovascular Disease (Heart Attack, Stroke)",14996
+85.126945,-58.619972,Chronic Kidney Disease,13066
+43.507633,-11.13658,Stroke,46
+83.38782,51.846325,Diabetes,1032
+-129.27464,38.40658,Cancer,10999
+53.90713,-19.046524,Lung Cancer,10988
+9.975519,-80.95081,Stroke,206
+111.37434,-56.682537,Hypertension,8733
+49.439922,-72.37112,"Cardiovascular Disease (Heart Attack, Stroke)",4236
+-60.28868,-75.388115,Chronic Kidney Disease,688
+6.3136644,125.97049,Cancer,10373
+10.5171795,1.1576133,Breast Cancer,4155
+130.04987,-3.451817,Coronary Heart Disease,13436
+84.48917,10.508369,Coronary Heart Disease,12821
+86.49123,-50.810238,Coronary Heart Disease,11033
+77.86277,-27.444492,Chronic Kidney Disease,5449
+87.5209,-104.062515,Chronic Kidney Disease,7957
+17.066107,-55.35632,Chronic Kidney Disease,3112
+-1.4462966,128.71089,Breast Cancer,6318
+130.04987,-3.451817,Diabetes,13332
+-72.64535,-13.2735815,"Cardiovascular Disease (Heart Attack, Stroke)",14407
+-36.464268,-72.23163,Stroke,8122
+-72.64535,-13.2735815,Cancer,5437
+15.164091,-25.845573,Chronic Kidney Disease,12
+125.92791,-63.43618,Hypertension,9774
+-29.912933,-93.59589,"Cardiovascular Disease (Heart Attack, Stroke)",2406
+54.412365,-113.78718,Coronary Heart Disease,5195
+34.355515,-48.257954,Coronary Heart Disease,3933
+42.61808,25.492521,Coronary Heart Disease,8127
+14.161109,-113.67078,Hypertension,7990
+60.42618,-66.32297,Chronic Kidney Disease,851
+-138.52495,-30.278217,Chronic Kidney Disease,11669
+-22.85102,92.39562,Cancer,8594
+109.40436,67.35407,Stroke,14695
+0.24613272,84.175255,Hypertension,5173
+-39.463737,-2.2522843,Chronic Kidney Disease,2426
+14.161109,-113.67078,Hypertension,3954
+-29.912933,-93.59589,Lung Cancer,7003
+107.11478,2.4765177,"Cardiovascular Disease (Heart Attack, Stroke)",12499
+-57.394638,34.94912,"Chronic Respiratory Disease (COPD, Asthma)",3174
+-39.463737,-2.2522843,Stroke,11266
+-92.67095,-82.15316,Stroke,1975
+41.167408,-82.675896,Coronary Heart Disease,2901
+17.066107,-55.35632,Chronic Kidney Disease,12207
+-12.236556,-88.90858,"Chronic Respiratory Disease (COPD, Asthma)",6114
+113.53734,79.0886,Diabetes,2936
+-53.354195,10.990013,Lung Cancer,9019
+-6.9087744,122.55433,Cancer,11779
+17.066107,-55.35632,Chronic Kidney Disease,893
+19.757547,-70.268585,Hypertension,14811
+74.9282,6.2032313,Coronary Heart Disease,1841
+13.628977,61.733128,Diabetes,176
+10.833467,32.853065,Chronic Kidney Disease,13774
+-24.337555,-48.60235,Stroke,15394
+-56.79754,29.149857,Breast Cancer,11064
+-81.889336,26.535654,Lung Cancer,6479
+77.445564,34.485184,Chronic Kidney Disease,6007
+-72.64535,-13.2735815,Lung Cancer,2421
+-115.36161,-7.8157315,"Chronic Respiratory Disease (COPD, Asthma)",6022
+-84.1453,46.845818,Cancer,8115
+-65.56309,-51.88348,Hypertension,396
+-72.64535,-13.2735815,Lung Cancer,12313
+24.659678,102.548485,"Chronic Respiratory Disease (COPD, Asthma)",2943
+-5.711821,59.154762,Stroke,1056
+88.87617,-16.352682,Lung Cancer,5719
+12.023434,78.43715,Stroke,15772
+-62.565968,-78.996635,Coronary Heart Disease,12627
+-109.33173,-44.212944,Lung Cancer,11562
+1.6459926,-26.534771,Stroke,13948
+17.066107,-55.35632,Breast Cancer,7477
+14.161109,-113.67078,Chronic Kidney Disease,8248
+108.45741,33.86086,Diabetes,8468
+130.04987,-3.451817,Hypertension,10386
+28.156061,-15.792449,Stroke,9117
+-56.491432,-121.33264,Cancer,9888
+79.50698,49.701378,"Cardiovascular Disease (Heart Attack, Stroke)",3919
+-29.912933,-93.59589,Stroke,15673
+54.412365,-113.78718,Hypertension,9447
+89.6115,-20.34118,Coronary Heart Disease,13297
+5.636272,77.859436,Coronary Heart Disease,5517
+56.21229,-72.269905,Stroke,3582
+-72.64535,-13.2735815,Lung Cancer,2149
+-90.92143,50.721302,Cancer,8738
+77.86277,-27.444492,Coronary Heart Disease,9097
+-1.4462966,128.71089,Lung Cancer,8577
+127.47171,42.03181,Breast Cancer,11299
+-110.4225,30.837551,Cancer,8576
+-44.65194,-86.94315,Cancer,1135
+73.91116,-47.246563,Hypertension,10298
+-52.03789,109.75791,Breast Cancer,15444
+-4.1242285,-75.92677,Chronic Kidney Disease,11975
+45.632267,98.19585,"Chronic Respiratory Disease (COPD, Asthma)",11971
+87.41805,46.65334,Hypertension,10789
+58.302338,-6.942905,Coronary Heart Disease,5762
+7.5257154,-120.04367,Chronic Kidney Disease,14005
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",13726
+-22.85102,92.39562,Breast Cancer,648
+53.90713,-19.046524,"Chronic Respiratory Disease (COPD, Asthma)",3221
+-90.92143,50.721302,"Chronic Respiratory Disease (COPD, Asthma)",8294
+49.439922,-72.37112,Chronic Kidney Disease,9604
+-1.4462966,128.71089,Cancer,460
+-65.56309,-51.88348,"Chronic Respiratory Disease (COPD, Asthma)",10172
+23.625277,7.4374905,"Cardiovascular Disease (Heart Attack, Stroke)",12914
+65.858894,74.74356,Diabetes,4158
+41.167408,-82.675896,Hypertension,12840
+18.89116,-120.545494,Hypertension,12173
+109.40436,67.35407,Diabetes,3502
+24.867218,45.5955,Hypertension,5961
+-73.459885,49.087147,"Cardiovascular Disease (Heart Attack, Stroke)",1445
+-115.36161,-7.8157315,Cancer,11688
+-87.25408,72.12471,Breast Cancer,8547
+-52.03789,109.75791,Breast Cancer,734
+23.625277,7.4374905,Lung Cancer,13228
+54.734024,22.08927,Coronary Heart Disease,13758
+-1.4462966,128.71089,Breast Cancer,10910
+-81.30412,92.0409,"Cardiovascular Disease (Heart Attack, Stroke)",9278
+-5.9626765,44.403767,Breast Cancer,10059
+-115.36161,-7.8157315,Cancer,4289
+127.47171,42.03181,"Chronic Respiratory Disease (COPD, Asthma)",6607
+-115.36161,-7.8157315,"Cardiovascular Disease (Heart Attack, Stroke)",2288
+-33.903748,-88.85306,Stroke,7836
+81.67741,-92.266365,"Cardiovascular Disease (Heart Attack, Stroke)",12884
+-103.86582,87.37781,Chronic Kidney Disease,5593
+-92.67095,-82.15316,Lung Cancer,6171
+49.34994,-6.135537,Coronary Heart Disease,951
+-39.463737,-2.2522843,Stroke,9750
+18.89116,-120.545494,Stroke,2873
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",8486
+18.89116,-120.545494,Chronic Kidney Disease,15258
+57.86707,52.918354,Diabetes,11787
+60.783707,67.66432,Breast Cancer,8751
+13.826339,-22.560217,Coronary Heart Disease,11450
+-4.1242285,-75.92677,Hypertension,6297
+-52.03789,109.75791,Breast Cancer,8275
+-39.019657,-75.93041,Diabetes,4653
+55.180046,82.887825,"Cardiovascular Disease (Heart Attack, Stroke)",11980
+28.156061,-15.792449,"Cardiovascular Disease (Heart Attack, Stroke)",5551
+23.625277,7.4374905,Coronary Heart Disease,10262
+117.85716,35.333473,Cancer,13445
+17.066107,-55.35632,Chronic Kidney Disease,13143
+6.3136644,125.97049,Cancer,5324
+-39.463737,-2.2522843,Hypertension,11796
+-45.622868,-95.64637,Stroke,11189
+52.659252,74.089615,Hypertension,13603
+117.85716,35.333473,Diabetes,9843
+-92.67095,-82.15316,Stroke,9620
+108.85733,29.845558,Diabetes,11831
+130.04987,-3.451817,"Cardiovascular Disease (Heart Attack, Stroke)",8302
+50.15083,-21.58526,Chronic Kidney Disease,4322
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",8467
+130.04987,-3.451817,Coronary Heart Disease,6483
+10.833467,32.853065,Cancer,14618
+100.57841,-18.590542,"Chronic Respiratory Disease (COPD, Asthma)",9186
+130.04987,-3.451817,Stroke,9105
+56.21229,-72.269905,Coronary Heart Disease,6681
+-74.61215,60.7736,Diabetes,13847
+-99.64906,-58.433273,Stroke,11651
+80.18017,66.21511,Diabetes,9985
+-81.889336,26.535654,Breast Cancer,10904
+111.37434,-56.682537,Lung Cancer,15147
+85.262634,-32.96923,Chronic Kidney Disease,5654
+-1.4462966,128.71089,Cancer,6856
+18.89116,-120.545494,"Cardiovascular Disease (Heart Attack, Stroke)",10598
+-104.88912,51.700176,Cancer,15697
+46.231083,77.18889,Diabetes,5427
+-65.56309,-51.88348,Stroke,4709
+-92.27975,72.95386,Breast Cancer,9853
+56.21229,-72.269905,Coronary Heart Disease,2509
+107.73681,76.54063,Chronic Kidney Disease,2180
+75.01374,20.36746,Coronary Heart Disease,4875
+82.907394,-60.542503,Diabetes,1152
+-8.400799,62.278748,Lung Cancer,4333
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",7907
+77.86277,-27.444492,Hypertension,5144
+-129.27464,38.40658,Cancer,2517
+-10.7874,-50.670433,Chronic Kidney Disease,350
+-4.360848,63.710075,Coronary Heart Disease,15830
+119.55171,-46.5714,Cancer,1650
+54.412365,-113.78718,Coronary Heart Disease,3905
+-33.32323,-43.062878,Chronic Kidney Disease,10068
+8.858842,97.20298,Coronary Heart Disease,3486
+-115.36161,-7.8157315,Coronary Heart Disease,3870
+-81.889336,26.535654,Cancer,3264
+-13.695318,54.592003,Cancer,15807
+6.3136644,125.97049,Breast Cancer,14783
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",9976
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",11369
+50.15083,-21.58526,Coronary Heart Disease,10482
+68.84792,1.4404333,Diabetes,4654
+-24.334005,-95.333984,Stroke,11212
+-104.88912,51.700176,"Chronic Respiratory Disease (COPD, Asthma)",4366
+-47.89354,78.55899,Diabetes,4206
+69.92164,-100.68411,Stroke,12455
+-52.03789,109.75791,Chronic Kidney Disease,12381
+17.066107,-55.35632,Chronic Kidney Disease,15838
+-113.990555,52.493244,"Cardiovascular Disease (Heart Attack, Stroke)",4271
+12.182877,-122.01132,Hypertension,12915
+-115.36161,-7.8157315,Lung Cancer,7707
+113.53734,79.0886,Diabetes,14732
+12.182877,-122.01132,Lung Cancer,5339
+-138.52495,-30.278217,Lung Cancer,8464
+-22.85102,92.39562,Breast Cancer,7226
+129.6096,-10.817516,Stroke,6327
+-39.463737,-2.2522843,"Chronic Respiratory Disease (COPD, Asthma)",11302
+-109.33173,-44.212944,Coronary Heart Disease,8029
+-24.334005,-95.333984,Hypertension,9467
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",7592
+78.67671,99.84519,Cancer,1787
+-115.36161,-7.8157315,Cancer,11880
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",14630
+-56.736744,67.5888,Chronic Kidney Disease,10596
+54.412365,-113.78718,Chronic Kidney Disease,15407
+-56.491432,-121.33264,Cancer,2560
+11.039926,71.77079,Breast Cancer,3441
+-87.25408,72.12471,"Chronic Respiratory Disease (COPD, Asthma)",14827
+85.53512,-54.53356,Diabetes,8760
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",8861
+131.78671,-60.14879,Hypertension,12922
+-4.5191584,-25.355011,Stroke,9453
+-12.236556,-88.90858,Hypertension,6526
+-109.33173,-44.212944,Cancer,5104
+-17.70485,132.2033,Breast Cancer,6932
+82.5994,105.49935,Diabetes,880
+-115.36161,-7.8157315,Lung Cancer,13930
+49.881332,-17.082296,Diabetes,8210
+125.92791,-63.43618,Chronic Kidney Disease,9664
+-129.27464,38.40658,Cancer,7115
+-52.03789,109.75791,Breast Cancer,12065
+12.182877,-122.01132,Chronic Kidney Disease,9969
+-138.52495,-30.278217,Breast Cancer,8040
+56.21229,-72.269905,Coronary Heart Disease,7388
+-72.64535,-13.2735815,Lung Cancer,10388
+105.28889,31.551271,Diabetes,11555
+-5.9626765,44.403767,Coronary Heart Disease,12237
+116.217804,32.01946,Diabetes,12168
+73.91116,-47.246563,Breast Cancer,13197
+-1.4462966,128.71089,"Chronic Respiratory Disease (COPD, Asthma)",8665
+56.21229,-72.269905,Stroke,5404
+12.182877,-122.01132,Stroke,1903
+19.334267,-92.0415,Hypertension,15781
+50.15083,-21.58526,"Chronic Respiratory Disease (COPD, Asthma)",8187
+12.182877,-122.01132,Hypertension,7149
+-84.1453,46.845818,Coronary Heart Disease,5903
+89.6115,-20.34118,Hypertension,11896
+23.625277,7.4374905,Diabetes,12907
+-62.140263,70.81647,Breast Cancer,10267
+-92.67095,-82.15316,Stroke,1616
+12.023434,78.43715,Cancer,11853
+113.02413,47.548397,Diabetes,10796
+-60.65179,-57.171215,Diabetes,13220
+6.3136644,125.97049,Cancer,6173
+-8.400799,62.278748,"Cardiovascular Disease (Heart Attack, Stroke)",9546
+6.3136644,125.97049,Breast Cancer,4213
+13.628977,61.733128,Lung Cancer,4926
+56.21229,-72.269905,Stroke,6958
+-24.337555,-48.60235,"Cardiovascular Disease (Heart Attack, Stroke)",9441
+-43.499634,2.9838722,Chronic Kidney Disease,2881
+-72.64535,-13.2735815,Lung Cancer,10953
+81.67741,-92.266365,Hypertension,1541
+34.29017,2.606319,Cancer,7681
+125.92791,-63.43618,Hypertension,8286
+-109.33173,-44.212944,"Chronic Respiratory Disease (COPD, Asthma)",6910
+-129.27464,38.40658,"Chronic Respiratory Disease (COPD, Asthma)",10965
+-22.85102,92.39562,Breast Cancer,5008
+-6.8274856,-29.074038,Coronary Heart Disease,4010
+-20.750399,41.01921,Diabetes,15320
+24.659678,102.548485,"Cardiovascular Disease (Heart Attack, Stroke)",2089
+-115.36161,-7.8157315,Cancer,7346
+68.39041,8.540609,"Cardiovascular Disease (Heart Attack, Stroke)",14258
+-81.889336,26.535654,"Chronic Respiratory Disease (COPD, Asthma)",8375
+81.67741,-92.266365,Hypertension,510
+85.07226,-19.391026,"Cardiovascular Disease (Heart Attack, Stroke)",6639
+-92.67095,-82.15316,Stroke,6516
+33.657043,-34.956684,"Chronic Respiratory Disease (COPD, Asthma)",7661
+118.94267,75.8545,Diabetes,15865
+-56.491432,-121.33264,Coronary Heart Disease,10937
+-89.03146,76.8532,"Chronic Respiratory Disease (COPD, Asthma)",13745
+28.156061,-15.792449,Breast Cancer,12479
+12.182877,-122.01132,"Cardiovascular Disease (Heart Attack, Stroke)",15351
+85.07226,-19.391026,Hypertension,10911
+-115.36161,-7.8157315,"Cardiovascular Disease (Heart Attack, Stroke)",15551
+-85.02058,90.38082,"Chronic Respiratory Disease (COPD, Asthma)",3809
+-4.1242285,-75.92677,Hypertension,349
+-14.67028,-26.891493,Cancer,13656
+-37.68965,46.44151,"Cardiovascular Disease (Heart Attack, Stroke)",11320
+12.182877,-122.01132,Stroke,12052
+81.67741,-92.266365,Stroke,14694
+-1.4462966,128.71089,Breast Cancer,15422
+-4.8461657,27.944815,"Cardiovascular Disease (Heart Attack, Stroke)",12619
+54.412365,-113.78718,Coronary Heart Disease,2890
+0.9145746,23.73567,"Chronic Respiratory Disease (COPD, Asthma)",8109
+-38.01055,20.662031,Diabetes,14334
+29.41569,5.303605,Lung Cancer,6225
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",11789
+56.21229,-72.269905,Coronary Heart Disease,11491
+-109.33173,-44.212944,Stroke,7298
+117.85716,35.333473,"Cardiovascular Disease (Heart Attack, Stroke)",9854
+54.734024,22.08927,Chronic Kidney Disease,3607
+6.393718,-14.5393505,"Chronic Respiratory Disease (COPD, Asthma)",2395
+-57.394638,34.94912,Lung Cancer,11698
+10.5171795,1.1576133,Stroke,13218
+31.92484,37.42759,Diabetes,2893
+41.167408,-82.675896,Chronic Kidney Disease,7007
+12.182877,-122.01132,Chronic Kidney Disease,7419
+9.975519,-80.95081,Coronary Heart Disease,8018
+74.66659,-23.682678,Diabetes,10822
+-109.33173,-44.212944,Cancer,4094
+-57.394638,34.94912,Cancer,12716
+5.4721074,-95.82928,Stroke,3824
+81.67741,-92.266365,Hypertension,9318
+-138.52495,-30.278217,"Chronic Respiratory Disease (COPD, Asthma)",12756
+-59.57457,113.765594,Breast Cancer,12041
+60.42618,-66.32297,Chronic Kidney Disease,13900
+12.182877,-122.01132,"Chronic Respiratory Disease (COPD, Asthma)",13751
+52.458515,-38.909523,Coronary Heart Disease,9651
+9.458501,76.14796,Coronary Heart Disease,7620
+-33.833015,34.09248,Coronary Heart Disease,5439
+26.587568,63.041615,"Chronic Respiratory Disease (COPD, Asthma)",11946
+-20.750399,41.01921,Coronary Heart Disease,10590
+17.066107,-55.35632,Stroke,6350
+-52.03789,109.75791,"Chronic Respiratory Disease (COPD, Asthma)",6213
+-3.2951808,13.111921,Hypertension,14703
+26.398457,89.89679,Chronic Kidney Disease,3514
+-8.322875,15.779973,"Chronic Respiratory Disease (COPD, Asthma)",994
+85.53512,-54.53356,"Cardiovascular Disease (Heart Attack, Stroke)",3003
+84.82465,14.718121,Stroke,8496
+-57.394638,34.94912,Breast Cancer,1756
+-52.03789,109.75791,Breast Cancer,10102
+-5.711821,59.154762,Breast Cancer,1771
+-72.64535,-13.2735815,Lung Cancer,3961
+-56.491432,-121.33264,Chronic Kidney Disease,1982
+-87.25408,72.12471,Hypertension,10930
+122.35132,28.063473,Diabetes,5361
+81.67741,-92.266365,"Cardiovascular Disease (Heart Attack, Stroke)",716
+17.066107,-55.35632,"Cardiovascular Disease (Heart Attack, Stroke)",11156
+85.53512,-54.53356,Hypertension,3452
+1.6520779,-35.181526,Stroke,11149
+89.87853,-53.497784,"Chronic Respiratory Disease (COPD, Asthma)",9360
+130.04987,-3.451817,"Cardiovascular Disease (Heart Attack, Stroke)",13878
+29.41569,5.303605,"Cardiovascular Disease (Heart Attack, Stroke)",1641
+82.5994,105.49935,Diabetes,9757
+-72.64535,-13.2735815,Lung Cancer,12260
+50.15083,-21.58526,Chronic Kidney Disease,6515
+-40.992077,130.94957,Cancer,11014
+-129.27464,38.40658,"Chronic Respiratory Disease (COPD, Asthma)",15323
+-129.27464,38.40658,Chronic Kidney Disease,2057
+-8.400799,62.278748,"Chronic Respiratory Disease (COPD, Asthma)",5133
+82.5994,105.49935,Diabetes,2740
+74.66659,-23.682678,Diabetes,6110
+-56.79754,29.149857,Chronic Kidney Disease,13537
+24.659678,102.548485,Breast Cancer,8249
+21.565105,-39.759506,Breast Cancer,4671
+-23.363995,-74.082405,"Cardiovascular Disease (Heart Attack, Stroke)",3315
+41.167408,-82.675896,Chronic Kidney Disease,602
+-56.736744,67.5888,Diabetes,11434
+56.21229,-72.269905,"Cardiovascular Disease (Heart Attack, Stroke)",7277
+0.6343096,-75.61933,Stroke,1708
+-92.67095,-82.15316,Stroke,5898
+130.04987,-3.451817,Coronary Heart Disease,15834
+-72.64535,-13.2735815,Lung Cancer,13273
+-72.64535,-13.2735815,Lung Cancer,3618
+-52.03789,109.75791,Cancer,5836
+-138.52495,-30.278217,Lung Cancer,12326
+130.04987,-3.451817,Coronary Heart Disease,5315
+56.21229,-72.269905,Hypertension,10095
+-24.337555,-48.60235,"Cardiovascular Disease (Heart Attack, Stroke)",6304
+-129.27464,38.40658,Lung Cancer,215
+-9.894775,74.81204,Breast Cancer,15348
+-4.5191584,-25.355011,Cancer,1147
+-72.64535,-13.2735815,Lung Cancer,10520
+29.41569,5.303605,Breast Cancer,4533
+-56.736744,67.5888,Chronic Kidney Disease,12854
+59.99035,42.36924,Diabetes,14986
+-43.499634,2.9838722,Cancer,2586
+-8.400799,62.278748,Hypertension,1125
+82.5994,105.49935,"Cardiovascular Disease (Heart Attack, Stroke)",7500
+12.182877,-122.01132,Coronary Heart Disease,12353
+119.55171,-46.5714,Hypertension,6361
+-0.7594354,-5.0830398,Cancer,14292
+29.41569,5.303605,"Chronic Respiratory Disease (COPD, Asthma)",7173
+-5.711821,59.154762,Hypertension,916
+-1.4462966,128.71089,Hypertension,1941
+-52.03789,109.75791,Breast Cancer,10960
+-1.4462966,128.71089,Breast Cancer,6257
+49.731323,9.50522,Lung Cancer,15540
+15.164091,-25.845573,Diabetes,4221
+-1.4462966,128.71089,"Cardiovascular Disease (Heart Attack, Stroke)",5927
+29.41569,5.303605,Coronary Heart Disease,3426
+53.85427,-48.80425,Stroke,5886
+4.0630846,42.951263,Breast Cancer,4606
+122.35132,28.063473,Diabetes,2876
+-24.337555,-48.60235,Lung Cancer,2984
+-103.93165,-44.649548,"Cardiovascular Disease (Heart Attack, Stroke)",4622
+-26.58441,-17.162985,Cancer,1967
+-10.834416,-9.472038,Stroke,3252
+-115.36161,-7.8157315,Cancer,14691
+50.15083,-21.58526,Hypertension,8911
+-129.27464,38.40658,Lung Cancer,12348
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",6018
+-4.360848,63.710075,Cancer,14456
+88.83603,2.9840896,Stroke,838
+-32.918434,44.92697,Breast Cancer,450
+50.15083,-21.58526,Chronic Kidney Disease,12400
+68.84792,1.4404333,Coronary Heart Disease,11013
+9.458501,76.14796,Diabetes,9357
+13.27694,136.9551,Breast Cancer,2845
+-4.360848,63.710075,Chronic Kidney Disease,2599
+87.41805,46.65334,"Cardiovascular Disease (Heart Attack, Stroke)",3717
+82.29574,-56.609226,Stroke,2572
+81.67741,-92.266365,Hypertension,14687
+46.65956,-18.15994,Chronic Kidney Disease,4573
+34.29017,2.606319,"Cardiovascular Disease (Heart Attack, Stroke)",5189
+64.663246,77.37262,Diabetes,4516
+-0.7594354,-5.0830398,"Chronic Respiratory Disease (COPD, Asthma)",4518
+68.84792,1.4404333,Stroke,5987
+118.94267,75.8545,Diabetes,4220
+9.458501,76.14796,Lung Cancer,704
+82.5994,105.49935,Diabetes,13236
+-60.65179,-57.171215,Lung Cancer,14119
+-32.38603,53.048016,Diabetes,9219
+-24.334005,-95.333984,Stroke,11707
+100.57841,-18.590542,Chronic Kidney Disease,15545
+-60.65179,-57.171215,Stroke,13701
+-56.736744,67.5888,Breast Cancer,1275
+-59.57457,113.765594,Breast Cancer,8739
+-62.565968,-78.996635,Stroke,3287
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",5246
+129.6096,-10.817516,Coronary Heart Disease,1457
+-10.657524,2.3371062,"Chronic Respiratory Disease (COPD, Asthma)",469
+-89.03146,76.8532,"Chronic Respiratory Disease (COPD, Asthma)",1253
+81.67741,-92.266365,Coronary Heart Disease,4241
+-56.491432,-121.33264,Coronary Heart Disease,12629
+-37.68965,46.44151,Stroke,192
+-32.918434,44.92697,Breast Cancer,7930
+0.24613272,84.175255,Stroke,11313
+56.21229,-72.269905,Chronic Kidney Disease,2334
+12.182877,-122.01132,Hypertension,9326
+19.334267,-92.0415,"Cardiovascular Disease (Heart Attack, Stroke)",13449
+-30.358229,-47.751057,Lung Cancer,15093
+107.73681,76.54063,Diabetes,1091
+-8.400799,62.278748,"Cardiovascular Disease (Heart Attack, Stroke)",11255
+69.04645,61.631546,Diabetes,9324
+-45.622868,-95.64637,Breast Cancer,10619
+-56.491432,-121.33264,Stroke,312
+-18.807878,77.25451,Coronary Heart Disease,12433
+15.164091,-25.845573,Chronic Kidney Disease,8894
+-2.3537912,-29.608599,Chronic Kidney Disease,10310
+73.91116,-47.246563,Coronary Heart Disease,5232
+24.867218,45.5955,Stroke,2388
+-110.4225,30.837551,Cancer,13804
+-87.25408,72.12471,"Chronic Respiratory Disease (COPD, Asthma)",1333
+-30.358229,-47.751057,Stroke,14710
+-14.67028,-26.891493,Chronic Kidney Disease,2237
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",3527
+-8.400799,62.278748,"Cardiovascular Disease (Heart Attack, Stroke)",12533
+69.92164,-100.68411,Hypertension,5604
+2.2844746,-31.001871,"Cardiovascular Disease (Heart Attack, Stroke)",1057
+130.04987,-3.451817,Stroke,9752
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",11748
+117.85716,35.333473,Coronary Heart Disease,2427
+19.388407,84.72234,Breast Cancer,14406
+69.55152,58.572495,"Chronic Respiratory Disease (COPD, Asthma)",15504
+-92.67095,-82.15316,"Chronic Respiratory Disease (COPD, Asthma)",2829
+-56.79754,29.149857,"Chronic Respiratory Disease (COPD, Asthma)",9404
+82.5994,105.49935,Diabetes,15580
+-59.57457,113.765594,Cancer,8319
+130.04987,-3.451817,"Chronic Respiratory Disease (COPD, Asthma)",11983
+80.621864,-22.755722,Chronic Kidney Disease,14871
+-9.345586,-31.824888,"Cardiovascular Disease (Heart Attack, Stroke)",6880
+79.50698,49.701378,"Cardiovascular Disease (Heart Attack, Stroke)",12377
+-60.65179,-57.171215,Hypertension,1516
+34.29017,2.606319,Coronary Heart Disease,15658
+-81.889336,26.535654,Cancer,2281
+110.5251,-83.66426,"Chronic Respiratory Disease (COPD, Asthma)",1163
+-43.499634,2.9838722,Lung Cancer,7283
+-43.56143,79.783005,Breast Cancer,8873
+88.83603,2.9840896,"Cardiovascular Disease (Heart Attack, Stroke)",8021
+-72.64535,-13.2735815,Stroke,3669
+87.5209,-104.062515,Hypertension,8162
+30.893328,-63.629505,Diabetes,3102
+-0.7594354,-5.0830398,Breast Cancer,6184
+9.482517,84.6338,"Chronic Respiratory Disease (COPD, Asthma)",7046
+54.734024,22.08927,Stroke,5115
+45.089516,116.61831,Breast Cancer,7803
+-59.57457,113.765594,Breast Cancer,8149
+-81.889336,26.535654,Breast Cancer,10688
+80.18017,66.21511,Stroke,12513
+31.92484,37.42759,Coronary Heart Disease,3673
+85.07226,-19.391026,Chronic Kidney Disease,9667
+131.78671,-60.14879,Hypertension,13007
+-129.27464,38.40658,Lung Cancer,10777
+9.482517,84.6338,"Chronic Respiratory Disease (COPD, Asthma)",7233
+8.82403,49.112316,Breast Cancer,15755
+-60.28868,-75.388115,"Cardiovascular Disease (Heart Attack, Stroke)",10233
+82.5994,105.49935,Stroke,15039
+-29.883415,-19.21682,Chronic Kidney Disease,14935
+-73.459885,49.087147,"Chronic Respiratory Disease (COPD, Asthma)",5779
+-22.0963,-85.09635,"Cardiovascular Disease (Heart Attack, Stroke)",1446
+-138.52495,-30.278217,Cancer,6931
+56.21229,-72.269905,"Cardiovascular Disease (Heart Attack, Stroke)",9828
+82.5994,105.49935,Diabetes,3993
+-72.64535,-13.2735815,Stroke,6305
+52.659252,74.089615,Coronary Heart Disease,6507
+24.659678,102.548485,Lung Cancer,4625
+-109.33173,-44.212944,Coronary Heart Disease,1839
+9.987979,-106.19673,Stroke,5639
+-72.64535,-13.2735815,Lung Cancer,6279
+54.734024,22.08927,"Chronic Respiratory Disease (COPD, Asthma)",10624
+-110.4225,30.837551,"Chronic Respiratory Disease (COPD, Asthma)",13952
+-56.491432,-121.33264,Coronary Heart Disease,4125
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",14301
+-56.736744,67.5888,Lung Cancer,3339
+-99.64906,-58.433273,Cancer,5464
+82.5994,105.49935,Diabetes,11598
+-1.4462966,128.71089,"Cardiovascular Disease (Heart Attack, Stroke)",10955
+60.42618,-66.32297,Chronic Kidney Disease,6695
+86.17308,18.481638,Coronary Heart Disease,12696
+2.3828096,-125.87394,Chronic Kidney Disease,2794
+28.156061,-15.792449,Diabetes,11370
+-113.990555,52.493244,Coronary Heart Disease,5379
+-72.64535,-13.2735815,Coronary Heart Disease,11851
+28.156061,-15.792449,"Cardiovascular Disease (Heart Attack, Stroke)",825
+-72.64535,-13.2735815,Lung Cancer,280
+-43.499634,2.9838722,Cancer,8920
+17.79914,72.59863,Diabetes,9950
+21.565105,-39.759506,Chronic Kidney Disease,10201
+-72.64535,-13.2735815,Cancer,6552
+-8.400799,62.278748,Hypertension,14126
+-56.491432,-121.33264,Chronic Kidney Disease,6311
+33.657043,-34.956684,Chronic Kidney Disease,7654
+-56.79754,29.149857,Breast Cancer,4751
+-138.52495,-30.278217,"Chronic Respiratory Disease (COPD, Asthma)",10007
+82.5994,105.49935,"Chronic Respiratory Disease (COPD, Asthma)",3360
+113.02413,47.548397,Diabetes,2331
+108.4518,81.98901,Diabetes,15395
+31.92484,37.42759,"Chronic Respiratory Disease (COPD, Asthma)",5369
+68.39041,8.540609,Coronary Heart Disease,314
+77.445564,34.485184,Diabetes,4925
+-72.64535,-13.2735815,"Chronic Respiratory Disease (COPD, Asthma)",7013
+-59.57457,113.765594,Breast Cancer,5505
+108.85733,29.845558,Hypertension,13864
+31.92484,37.42759,Chronic Kidney Disease,12292
+10.5171795,1.1576133,"Chronic Respiratory Disease (COPD, Asthma)",7195
+-41.57401,-18.910265,Lung Cancer,9341
+45.089516,116.61831,Lung Cancer,14149
+113.53734,79.0886,Diabetes,14947
+-29.883415,-19.21682,Chronic Kidney Disease,8845
+-60.65179,-57.171215,"Chronic Respiratory Disease (COPD, Asthma)",13304
+117.85716,35.333473,Cancer,3450
+-113.990555,52.493244,Lung Cancer,13308
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",9143
+0.9145746,23.73567,"Cardiovascular Disease (Heart Attack, Stroke)",2516
+-43.499634,2.9838722,Breast Cancer,12070
+-81.889336,26.535654,Breast Cancer,776
+45.626778,-21.316193,Coronary Heart Disease,13918
+54.00245,42.65124,Diabetes,1738
+87.41805,46.65334,Diabetes,15270
+-81.889336,26.535654,Cancer,571
+-72.64535,-13.2735815,Chronic Kidney Disease,2319
+130.04987,-3.451817,Chronic Kidney Disease,9113
+-0.7594354,-5.0830398,Diabetes,13546
+80.621864,-22.755722,Chronic Kidney Disease,3396
+-5.9626765,44.403767,Cancer,11804
+-32.09617,-1.2066358,Hypertension,4276
+122.35132,28.063473,Diabetes,9071
+-74.61215,60.7736,Chronic Kidney Disease,11202
+-60.65179,-57.171215,"Cardiovascular Disease (Heart Attack, Stroke)",9126
+-71.184494,-4.0833774,Lung Cancer,11297
+-83.73684,-19.89079,Cancer,12272
+-56.491432,-121.33264,"Chronic Respiratory Disease (COPD, Asthma)",697
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",13361
+40.785297,-43.411377,Stroke,987
+-138.1888,27.432215,Stroke,1691
+34.355515,-48.257954,Diabetes,11211
+87.41805,46.65334,Hypertension,3790
+-33.833015,34.09248,Coronary Heart Disease,3595
+49.439922,-72.37112,Coronary Heart Disease,11601
+-92.27975,72.95386,Chronic Kidney Disease,282
+-28.004316,67.720184,Breast Cancer,2137
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",12485
+-56.491432,-121.33264,Chronic Kidney Disease,448
+-85.07619,95.19746,"Chronic Respiratory Disease (COPD, Asthma)",297
+30.893328,-63.629505,Chronic Kidney Disease,5679
+-24.43168,-89.774536,Chronic Kidney Disease,2056
+-1.4462966,128.71089,Breast Cancer,7023
+-57.394638,34.94912,"Chronic Respiratory Disease (COPD, Asthma)",3283
+55.16736,91.760445,Chronic Kidney Disease,4324
+81.67741,-92.266365,"Cardiovascular Disease (Heart Attack, Stroke)",3186
+-49.6617,59.360023,Diabetes,516
+-56.491432,-121.33264,Coronary Heart Disease,11839
+31.760336,-98.42858,Stroke,12714
+41.167408,-82.675896,Chronic Kidney Disease,1781
+69.92164,-100.68411,Stroke,14415
+-129.27464,38.40658,Coronary Heart Disease,1069
+-60.28868,-75.388115,Chronic Kidney Disease,6240
+42.780346,48.6949,"Chronic Respiratory Disease (COPD, Asthma)",13161
+-109.33173,-44.212944,Diabetes,8305
+-81.889336,26.535654,Breast Cancer,4020
+59.438522,40.51538,Diabetes,8309
+89.87853,-53.497784,Diabetes,3226
+81.67741,-92.266365,Diabetes,12759
+29.41569,5.303605,Diabetes,2153
+27.756277,-20.203081,Coronary Heart Disease,5778
+-104.88912,51.700176,Lung Cancer,14264
+82.5994,105.49935,Diabetes,3873
+-97.96136,85.45565,"Chronic Respiratory Disease (COPD, Asthma)",7299
+89.87853,-53.497784,Hypertension,6999
+82.5994,105.49935,Diabetes,3254
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",15897
+27.756277,-20.203081,Diabetes,13589
+87.5209,-104.062515,Hypertension,767
+-58.433563,-51.147568,Hypertension,6944
+-47.89354,78.55899,Cancer,8415
+110.5251,-83.66426,Chronic Kidney Disease,12522
+46.231083,77.18889,Chronic Kidney Disease,625
+45.632267,98.19585,"Cardiovascular Disease (Heart Attack, Stroke)",3847
+2.3828096,-125.87394,"Cardiovascular Disease (Heart Attack, Stroke)",9550
+104.04301,71.778275,Coronary Heart Disease,9173
+-37.68965,46.44151,"Chronic Respiratory Disease (COPD, Asthma)",1130
+-22.85102,92.39562,Diabetes,4187
+24.997765,2.0945761,Lung Cancer,12930
+41.780308,120.17975,"Chronic Respiratory Disease (COPD, Asthma)",9491
+102.66092,38.175816,"Chronic Respiratory Disease (COPD, Asthma)",3351
+105.28889,31.551271,Chronic Kidney Disease,13173
+-32.918434,44.92697,Stroke,1604
+-18.061375,13.566636,"Chronic Respiratory Disease (COPD, Asthma)",15436
+107.73681,76.54063,Hypertension,6400
+-115.36161,-7.8157315,Breast Cancer,11294
+-56.491432,-121.33264,Coronary Heart Disease,12397
+-81.889336,26.535654,"Chronic Respiratory Disease (COPD, Asthma)",12837
+-4.1242285,-75.92677,Stroke,2488
+-6.9087744,122.55433,Breast Cancer,11366
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",3848
+-1.4462966,128.71089,Cancer,15836
+-32.09617,-1.2066358,Cancer,2589
+-109.33173,-44.212944,Cancer,14311
+17.066107,-55.35632,Breast Cancer,4680
+-56.491432,-121.33264,Coronary Heart Disease,14248
+-2.3537912,-29.608599,Stroke,7520
+11.665766,-79.24644,Stroke,8689
+-58.433563,-51.147568,Coronary Heart Disease,9900
+-58.433563,-51.147568,"Cardiovascular Disease (Heart Attack, Stroke)",5453
+-115.36161,-7.8157315,Cancer,3634
+52.458515,-38.909523,Chronic Kidney Disease,15177
+-92.67095,-82.15316,Cancer,13174
+-32.09617,-1.2066358,Lung Cancer,2463
+10.833467,32.853065,Stroke,6881
+-37.68965,46.44151,Breast Cancer,5158
+-33.833015,34.09248,Breast Cancer,11295
+10.5171795,1.1576133,"Chronic Respiratory Disease (COPD, Asthma)",54
+10.5171795,1.1576133,Stroke,11665
+2.3828096,-125.87394,Coronary Heart Disease,5477
+82.5994,105.49935,Diabetes,6037
+2.2844746,-31.001871,Breast Cancer,15640
+-138.52495,-30.278217,Lung Cancer,13286
+52.896572,-107.88771,Stroke,28
+-83.73684,-19.89079,Chronic Kidney Disease,13732
+3.2110639,28.400671,Breast Cancer,8510
+-33.193027,-7.387537,Chronic Kidney Disease,4388
+109.40436,67.35407,Diabetes,4101
+81.67741,-92.266365,Hypertension,10463
+54.734024,22.08927,Lung Cancer,13328
+-59.57457,113.765594,"Cardiovascular Disease (Heart Attack, Stroke)",13353
+-58.433563,-51.147568,Breast Cancer,10805
+108.016846,71.67246,Diabetes,13652
+-19.76426,68.44101,Breast Cancer,3944
+2.3828096,-125.87394,Cancer,3710
+-10.7874,-50.670433,Coronary Heart Disease,8365
+-103.86582,87.37781,Cancer,1471
+17.066107,-55.35632,Breast Cancer,6488
+-56.736744,67.5888,"Chronic Respiratory Disease (COPD, Asthma)",2838
+-58.433563,-51.147568,Lung Cancer,3619
+82.5994,105.49935,Diabetes,1532
+130.04987,-3.451817,Coronary Heart Disease,7241
+42.61808,25.492521,Lung Cancer,14286
+-36.464268,-72.23163,Cancer,4679
+-59.57457,113.765594,Cancer,14544
+2.3828096,-125.87394,Hypertension,4559
+2.3828096,-125.87394,Stroke,4703
+82.5994,105.49935,Diabetes,10276
+-5.9626765,44.403767,Chronic Kidney Disease,1383
+9.975519,-80.95081,Stroke,10269
+-92.67095,-82.15316,"Chronic Respiratory Disease (COPD, Asthma)",8958
+-33.833015,34.09248,Coronary Heart Disease,9735
+80.621864,-22.755722,Hypertension,14478
+49.731323,9.50522,Coronary Heart Disease,12785
+-97.96136,85.45565,"Chronic Respiratory Disease (COPD, Asthma)",3479
+-53.35982,-44.885193,Hypertension,13559
+-37.68965,46.44151,Chronic Kidney Disease,12325
+-24.43168,-89.774536,Hypertension,12784
+-37.68965,46.44151,"Chronic Respiratory Disease (COPD, Asthma)",4323
+-129.27464,38.40658,Cancer,973
+130.04987,-3.451817,Lung Cancer,1358
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",9633
+113.53734,79.0886,Diabetes,5044
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",904
+51.76166,84.65764,Lung Cancer,14624
+52.896572,-107.88771,Hypertension,9765
+-59.57457,113.765594,Breast Cancer,11992
+-24.43168,-89.774536,"Cardiovascular Disease (Heart Attack, Stroke)",14717
+-32.09617,-1.2066358,Breast Cancer,2038
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",15490
+-22.85102,92.39562,"Cardiovascular Disease (Heart Attack, Stroke)",1670
+17.066107,-55.35632,"Cardiovascular Disease (Heart Attack, Stroke)",2667
+-64.56068,-75.2299,Breast Cancer,9433
+88.83603,2.9840896,Coronary Heart Disease,11515
+-81.889336,26.535654,Lung Cancer,8587
+-56.501114,-46.893192,Cancer,2397
+130.04987,-3.451817,Lung Cancer,10902
+-59.57457,113.765594,"Chronic Respiratory Disease (COPD, Asthma)",13217
+19.388407,84.72234,Breast Cancer,2830
+82.5994,105.49935,Diabetes,6527
+106.98866,-81.03058,Cancer,12213
+-22.85102,92.39562,"Chronic Respiratory Disease (COPD, Asthma)",512
+-56.736744,67.5888,"Chronic Respiratory Disease (COPD, Asthma)",9450
+24.159012,-17.57147,Coronary Heart Disease,2928
+-56.491432,-121.33264,Coronary Heart Disease,7009
+-81.889336,26.535654,"Chronic Respiratory Disease (COPD, Asthma)",8851
+87.5209,-104.062515,Stroke,15550
+57.86707,52.918354,Coronary Heart Disease,15637
+-4.1242285,-75.92677,"Cardiovascular Disease (Heart Attack, Stroke)",12656
+-92.67095,-82.15316,Lung Cancer,10614
+5.4721074,-95.82928,Coronary Heart Disease,4966
+-1.4462966,128.71089,Chronic Kidney Disease,591
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",14482
+56.21229,-72.269905,"Cardiovascular Disease (Heart Attack, Stroke)",4087
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",12728
+-83.73684,-19.89079,Lung Cancer,15797
+100.72313,-52.442448,Diabetes,5833
+-10.657524,2.3371062,Breast Cancer,2638
+-92.67095,-82.15316,Chronic Kidney Disease,10133
+85.65727,62.41855,Coronary Heart Disease,10703
+-138.52495,-30.278217,Lung Cancer,5332
+6.5163417,47.785976,Breast Cancer,8895
+-37.68965,46.44151,Chronic Kidney Disease,15415
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",285
+10.833467,32.853065,Diabetes,10404
+-22.85102,92.39562,Cancer,11610
+-115.36161,-7.8157315,Lung Cancer,13776
+46.643013,-67.47045,"Cardiovascular Disease (Heart Attack, Stroke)",5969
+54.412365,-113.78718,"Cardiovascular Disease (Heart Attack, Stroke)",12762
+-30.358229,-47.751057,Coronary Heart Disease,6852
+-83.73684,-19.89079,Stroke,13687
+130.04987,-3.451817,Hypertension,10097
+-56.491432,-121.33264,Stroke,2515
+82.5994,105.49935,Diabetes,13259
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",4610
+84.82465,14.718121,Coronary Heart Disease,15465
+119.55171,-46.5714,Stroke,6320
+80.621864,-22.755722,Stroke,7686
+-22.85102,92.39562,"Cardiovascular Disease (Heart Attack, Stroke)",6967
+13.628977,61.733128,Cancer,12300
+-138.52495,-30.278217,"Cardiovascular Disease (Heart Attack, Stroke)",755
+-83.73684,-19.89079,Cancer,15260
+29.41569,5.303605,Lung Cancer,8394
+2.3828096,-125.87394,Stroke,15724
+65.56636,49.237804,Diabetes,14294
+-90.92143,50.721302,Diabetes,12952
+-129.27464,38.40658,Cancer,4728
+82.5994,105.49935,Diabetes,14317
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",11866
+-22.85102,92.39562,Chronic Kidney Disease,1174
+-1.4462966,128.71089,Cancer,2384
+-1.2746173,-0.8588323,Diabetes,12867
+-113.990555,52.493244,Lung Cancer,13830
+2.3828096,-125.87394,Stroke,6539
+-1.2746173,-0.8588323,Coronary Heart Disease,788
+-37.68965,46.44151,"Chronic Respiratory Disease (COPD, Asthma)",9000
+85.53512,-54.53356,Hypertension,3047
+-24.10492,64.91211,Breast Cancer,9767
+-83.73684,-19.89079,Lung Cancer,5563
+-32.09617,-1.2066358,"Chronic Respiratory Disease (COPD, Asthma)",10006
+2.3828096,-125.87394,Hypertension,14802
+-36.79809,-84.49559,"Chronic Respiratory Disease (COPD, Asthma)",6611
+-24.10492,64.91211,Coronary Heart Disease,11055
+17.066107,-55.35632,"Cardiovascular Disease (Heart Attack, Stroke)",8176
+-92.67095,-82.15316,Lung Cancer,10947
+-56.87808,-42.16013,Cancer,14983
+-60.28868,-75.388115,Stroke,2289
+-17.80518,17.56814,"Chronic Respiratory Disease (COPD, Asthma)",2775
+-92.67095,-82.15316,"Chronic Respiratory Disease (COPD, Asthma)",14402
+-41.57401,-18.910265,Chronic Kidney Disease,2262
+-113.109024,49.022655,"Cardiovascular Disease (Heart Attack, Stroke)",5596
+2.3828096,-125.87394,"Cardiovascular Disease (Heart Attack, Stroke)",2777
+80.621864,-22.755722,Diabetes,5365
+5.194431,-56.05294,Breast Cancer,3260
+-37.68965,46.44151,Stroke,9988
+81.67741,-92.266365,Hypertension,8057
+19.334267,-92.0415,Hypertension,5688
+95.111664,-91.99123,Stroke,15146
+52.896572,-107.88771,"Cardiovascular Disease (Heart Attack, Stroke)",10476
+82.5994,105.49935,Diabetes,1595
+130.04987,-3.451817,Coronary Heart Disease,197
+-99.64906,-58.433273,Diabetes,4061
+-129.27464,38.40658,Chronic Kidney Disease,12101
+-32.09617,-1.2066358,Coronary Heart Disease,12933
+-22.85102,92.39562,Cancer,4373
+-56.87808,-42.16013,"Chronic Respiratory Disease (COPD, Asthma)",429
+-129.27464,38.40658,Lung Cancer,7370
+-59.57457,113.765594,Breast Cancer,6518
+2.3828096,-125.87394,Hypertension,13938
+19.757547,-70.268585,Lung Cancer,7615
+46.231083,77.18889,Diabetes,4906
+89.151405,16.095358,Hypertension,13098
+-138.1888,27.432215,Cancer,4098
+-110.72763,22.35235,Cancer,3109
+41.46856,93.453186,Hypertension,1671
+-37.68965,46.44151,Coronary Heart Disease,8763
+52.659252,74.089615,Lung Cancer,13548
+46.879276,-2.102786,"Chronic Respiratory Disease (COPD, Asthma)",7869
+2.3828096,-125.87394,Diabetes,1658
+24.997765,2.0945761,Stroke,10728
+107.11478,2.4765177,Hypertension,10616
+10.833467,32.853065,Cancer,5572
+125.92791,-63.43618,Hypertension,9012
+-6.9087744,122.55433,Breast Cancer,13195
+-37.09484,36.818546,Hypertension,3629
+46.618645,-30.259499,Lung Cancer,4044
+-6.8274856,-29.074038,Stroke,15295
+-8.322875,15.779973,"Cardiovascular Disease (Heart Attack, Stroke)",1215
+-56.491432,-121.33264,Coronary Heart Disease,14511
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",279
+119.55171,-46.5714,Hypertension,9197
+2.3828096,-125.87394,Coronary Heart Disease,12309
+10.833467,32.853065,Diabetes,13056
+-24.43168,-89.774536,Chronic Kidney Disease,641
+13.628977,61.733128,"Chronic Respiratory Disease (COPD, Asthma)",3812
+119.55171,-46.5714,Hypertension,2858
+75.31138,-0.69111216,Hypertension,12185
+29.95083,-0.18065278,Cancer,11469
+119.55171,-46.5714,Hypertension,5054
+-17.80518,17.56814,Chronic Kidney Disease,7810
+-37.68965,46.44151,Stroke,791
+-83.73684,-19.89079,Cancer,9300
+113.53734,79.0886,Diabetes,2747
+113.02413,47.548397,Cancer,12816
+-90.92143,50.721302,Cancer,9228
+19.627039,20.047386,Chronic Kidney Disease,168
+46.072216,39.81,Cancer,1635
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",15632
+89.151405,16.095358,Hypertension,11115
+-110.4225,30.837551,Hypertension,378
+42.780346,48.6949,Diabetes,13803
+2.3828096,-125.87394,"Chronic Respiratory Disease (COPD, Asthma)",7082
+-87.25408,72.12471,"Chronic Respiratory Disease (COPD, Asthma)",6414
+-22.85102,92.39562,Breast Cancer,1899
+131.78671,-60.14879,Chronic Kidney Disease,3245
+-59.57457,113.765594,Breast Cancer,13849
+52.896572,-107.88771,Stroke,3617
+130.04987,-3.451817,Coronary Heart Disease,4937
+-1.4462966,128.71089,Cancer,15316
+-36.464268,-72.23163,Lung Cancer,8442
+-138.52495,-30.278217,Chronic Kidney Disease,9719
+2.3828096,-125.87394,Coronary Heart Disease,2864
+10.5171795,1.1576133,Cancer,8373
+-56.501114,-46.893192,"Cardiovascular Disease (Heart Attack, Stroke)",7771
+-32.09617,-1.2066358,Coronary Heart Disease,13601
+87.5209,-104.062515,Hypertension,8328
+-59.57457,113.765594,Hypertension,2053
+80.621864,-22.755722,Hypertension,7955
+-26.58441,-17.162985,Cancer,11116
+-115.36161,-7.8157315,Breast Cancer,8830
+17.066107,-55.35632,Chronic Kidney Disease,10644
+28.144373,30.364048,Hypertension,11941
+2.3828096,-125.87394,Coronary Heart Disease,5791
+-18.061375,13.566636,"Cardiovascular Disease (Heart Attack, Stroke)",12593
+1.6459926,-26.534771,Stroke,723
+-56.441914,-54.979584,Hypertension,13107
+-92.67095,-82.15316,"Chronic Respiratory Disease (COPD, Asthma)",6324
+107.11478,2.4765177,Coronary Heart Disease,11550
+86.48762,-70.5547,Coronary Heart Disease,1809
+29.41569,5.303605,Lung Cancer,1389
+-83.73684,-19.89079,"Cardiovascular Disease (Heart Attack, Stroke)",11534
+81.67741,-92.266365,Coronary Heart Disease,8085
+24.997765,2.0945761,Coronary Heart Disease,13397
+2.3828096,-125.87394,Lung Cancer,12458
+-32.918434,44.92697,"Chronic Respiratory Disease (COPD, Asthma)",12659
+2.3828096,-125.87394,"Cardiovascular Disease (Heart Attack, Stroke)",2247
+69.04645,61.631546,Hypertension,12620
+40.73944,70.66529,Chronic Kidney Disease,8708
+87.32961,87.978546,Diabetes,11394
+86.48762,-70.5547,Coronary Heart Disease,1612
+12.580686,58.61851,"Cardiovascular Disease (Heart Attack, Stroke)",11455
+2.3828096,-125.87394,"Cardiovascular Disease (Heart Attack, Stroke)",10656
+-32.09617,-1.2066358,Chronic Kidney Disease,7819
+32.56592,72.10937,Diabetes,15696
+-92.67095,-82.15316,Lung Cancer,6553
+-24.43168,-89.774536,Stroke,10601
+-103.86582,87.37781,Chronic Kidney Disease,2755
+82.5994,105.49935,Diabetes,6076
+-129.27464,38.40658,Cancer,3734
+-103.93165,-44.649548,Breast Cancer,1470
+10.5171795,1.1576133,"Chronic Respiratory Disease (COPD, Asthma)",1727
+80.621864,-22.755722,Breast Cancer,3103
+42.61808,25.492521,"Cardiovascular Disease (Heart Attack, Stroke)",12203
+-81.889336,26.535654,Lung Cancer,341
+45.089516,116.61831,Chronic Kidney Disease,7435
+-32.09617,-1.2066358,Cancer,727
+-52.03789,109.75791,Breast Cancer,5350
+26.587568,63.041615,Stroke,5777
+24.659678,102.548485,Chronic Kidney Disease,10759
+-51.67712,-48.54418,Coronary Heart Disease,12791
+2.3828096,-125.87394,Stroke,14089
+-84.1453,46.845818,Cancer,1396
+-54.4572,-49.809532,Stroke,6480
+65.56636,49.237804,Diabetes,13115
+79.50698,49.701378,Coronary Heart Disease,1284
+77.445564,34.485184,Diabetes,1746
+2.3828096,-125.87394,Hypertension,8839
+8.858842,97.20298,Lung Cancer,1776
+-138.52495,-30.278217,Lung Cancer,11446
+-6.9087744,122.55433,Cancer,449
+56.21229,-72.269905,Lung Cancer,11390
+74.80119,37.188477,Diabetes,10412
+117.85716,35.333473,Breast Cancer,7093
+58.486847,66.37819,Lung Cancer,14896
+15.164091,-25.845573,Diabetes,2974
+57.959995,47.79892,Breast Cancer,1110
+-26.684923,2.2040348,Cancer,13868
+-32.09617,-1.2066358,Stroke,12940
+34.355515,-48.257954,Coronary Heart Disease,7831
+17.066107,-55.35632,Hypertension,5290
+-30.358229,-47.751057,Diabetes,11062
+52.896572,-107.88771,Coronary Heart Disease,8987
+60.42618,-66.32297,"Cardiovascular Disease (Heart Attack, Stroke)",4118
+46.643013,-67.47045,Coronary Heart Disease,5055
+130.04987,-3.451817,Hypertension,11292
+-14.67028,-26.891493,"Cardiovascular Disease (Heart Attack, Stroke)",4575
+127.47171,42.03181,"Chronic Respiratory Disease (COPD, Asthma)",8288
+24.159012,-17.57147,Lung Cancer,10429
+110.5251,-83.66426,Hypertension,10964
+110.5251,-83.66426,Stroke,2411
+-26.21406,-43.006645,Lung Cancer,9825
+-129.27464,38.40658,"Chronic Respiratory Disease (COPD, Asthma)",10439
+-138.52495,-30.278217,Lung Cancer,4869
+-62.253513,-45.19624,Stroke,14791
+125.92791,-63.43618,"Cardiovascular Disease (Heart Attack, Stroke)",5207
+88.83603,2.9840896,Coronary Heart Disease,10428
+-17.220955,-57.618855,Hypertension,6528
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",5540
+34.355515,-48.257954,Coronary Heart Disease,5826
+-1.4462966,128.71089,Stroke,14401
+46.643013,-67.47045,"Chronic Respiratory Disease (COPD, Asthma)",4769
+-56.491432,-121.33264,Coronary Heart Disease,1408
+-83.73684,-19.89079,Lung Cancer,12357
+117.85716,35.333473,Diabetes,1478
+75.31138,-0.69111216,Coronary Heart Disease,7239
+42.175545,87.08035,Lung Cancer,2507
+-20.750399,41.01921,"Chronic Respiratory Disease (COPD, Asthma)",8702
+5.4721074,-95.82928,"Cardiovascular Disease (Heart Attack, Stroke)",8059
+32.56592,72.10937,Lung Cancer,4660
+-1.2631378,-22.590988,Breast Cancer,2504
+-4.5191584,-25.355011,Diabetes,4515
+-99.64906,-58.433273,Chronic Kidney Disease,3352
+-1.5635326,-71.696266,Stroke,6077
+-113.990555,52.493244,Cancer,15156
+-62.253513,-45.19624,Cancer,9410
+-26.21406,-43.006645,Chronic Kidney Disease,7052
+9.482517,84.6338,Lung Cancer,13418
+-19.76426,68.44101,Breast Cancer,9434
+31.92484,37.42759,Coronary Heart Disease,11990
+-118.32334,-2.2428145,Cancer,2342
+-56.491432,-121.33264,Coronary Heart Disease,11430
+15.957914,78.678986,"Chronic Respiratory Disease (COPD, Asthma)",7666
+25.505085,59.081825,Lung Cancer,45
+-138.52495,-30.278217,Lung Cancer,3676
+-92.27975,72.95386,Cancer,4175
+25.505085,59.081825,Cancer,8
+-129.27464,38.40658,Hypertension,6496
+-56.491432,-121.33264,Coronary Heart Disease,8522
+-44.282955,132.82826,Cancer,1327
+88.56028,11.915484,Coronary Heart Disease,14615
+54.734024,22.08927,Diabetes,4396
+-24.10492,64.91211,Breast Cancer,2781
+-90.92143,50.721302,"Chronic Respiratory Disease (COPD, Asthma)",12943
+107.73681,76.54063,Diabetes,8274
+116.07674,47.464764,Diabetes,10945
+-1.4462966,128.71089,Cancer,1850
+112.84805,-77.43528,Hypertension,4922
+-32.09617,-1.2066358,"Chronic Respiratory Disease (COPD, Asthma)",13809
+80.621864,-22.755722,Hypertension,2585
+-24.43168,-89.774536,Stroke,5957
+80.621864,-22.755722,Hypertension,2636
+110.5251,-83.66426,Stroke,6583
+-115.36161,-7.8157315,Lung Cancer,10073
+42.175545,87.08035,Breast Cancer,15198
+86.48762,-70.5547,Stroke,6412
+-138.52495,-30.278217,Lung Cancer,744
+-26.58441,-17.162985,Lung Cancer,414
+49.34994,-6.135537,"Chronic Respiratory Disease (COPD, Asthma)",2081
+-22.85102,92.39562,"Chronic Respiratory Disease (COPD, Asthma)",10826
+73.72019,-29.197598,Chronic Kidney Disease,12131
+82.5994,105.49935,Diabetes,7148
+80.621864,-22.755722,Chronic Kidney Disease,5017
+-115.36161,-7.8157315,Stroke,7331
+-10.834416,-9.472038,Coronary Heart Disease,15231
+89.87853,-53.497784,Breast Cancer,5728
+-62.253513,-45.19624,Coronary Heart Disease,2941
+73.72019,-29.197598,Breast Cancer,6618
+81.67741,-92.266365,Chronic Kidney Disease,13287
+6.5163417,47.785976,Stroke,14916
+88.56028,11.915484,Diabetes,8567
+41.780308,120.17975,"Chronic Respiratory Disease (COPD, Asthma)",2602
+73.72019,-29.197598,"Cardiovascular Disease (Heart Attack, Stroke)",2345
+73.72019,-29.197598,Breast Cancer,11214
+10.833467,32.853065,"Cardiovascular Disease (Heart Attack, Stroke)",2396
+79.50698,49.701378,Coronary Heart Disease,12811
+6.2492247,10.031419,"Cardiovascular Disease (Heart Attack, Stroke)",7929
+79.50698,49.701378,Breast Cancer,2522
+-109.33173,-44.212944,Coronary Heart Disease,15435
+-83.73684,-19.89079,Breast Cancer,1414
+-1.4462966,128.71089,Breast Cancer,3972
+84.82465,14.718121,Chronic Kidney Disease,3481
+-26.21406,-43.006645,"Chronic Respiratory Disease (COPD, Asthma)",10652
+-109.33173,-44.212944,Stroke,14291
+2.3828096,-125.87394,Chronic Kidney Disease,7650
+13.27694,136.9551,Cancer,12489
+-56.79754,29.149857,"Chronic Respiratory Disease (COPD, Asthma)",13975
+-81.889336,26.535654,Hypertension,4684
+-59.57457,113.765594,Chronic Kidney Disease,1890
+-22.85102,92.39562,Cancer,7987
+2.3828096,-125.87394,Chronic Kidney Disease,12640
+-110.63485,-51.224064,Stroke,7379
+42.780346,48.6949,Diabetes,15047
+130.04987,-3.451817,Stroke,5083
+75.31138,-0.69111216,Coronary Heart Disease,2317
+87.5209,-104.062515,"Cardiovascular Disease (Heart Attack, Stroke)",5897
+15.957914,78.678986,"Cardiovascular Disease (Heart Attack, Stroke)",9208
+-32.09617,-1.2066358,"Chronic Respiratory Disease (COPD, Asthma)",9288
+-56.79754,29.149857,Stroke,12317
+-104.88912,51.700176,Cancer,9910
+-32.09617,-1.2066358,Cancer,8727
+-90.92143,50.721302,"Chronic Respiratory Disease (COPD, Asthma)",11685
+-32.09617,-1.2066358,Stroke,7276
+-40.992077,130.94957,Breast Cancer,2096
+87.5209,-104.062515,Hypertension,14198
+-62.253513,-45.19624,Cancer,873
+42.61808,25.492521,Coronary Heart Disease,4072
+1.6459926,-26.534771,"Chronic Respiratory Disease (COPD, Asthma)",3033
+-57.394638,34.94912,Lung Cancer,12797
+-55.216904,8.262447,Chronic Kidney Disease,2111
+19.334267,-92.0415,Stroke,1798
+-28.684687,-60.729614,Lung Cancer,3518
+-62.253513,-45.19624,Stroke,5610
+17.066107,-55.35632,Hypertension,3056
+-43.56143,79.783005,"Chronic Respiratory Disease (COPD, Asthma)",14576
+-56.491432,-121.33264,Hypertension,4109
+45.626778,-21.316193,Chronic Kidney Disease,4068
+130.04987,-3.451817,Chronic Kidney Disease,14061
+-17.80518,17.56814,Hypertension,11215
+82.5994,105.49935,Hypertension,14082
+122.35132,28.063473,Diabetes,14369
+26.398457,89.89679,Coronary Heart Disease,15
+-5.9626765,44.403767,Chronic Kidney Disease,820
+65.56636,49.237804,Diabetes,6245
+-57.394638,34.94912,Coronary Heart Disease,2542
+-59.57457,113.765594,"Chronic Respiratory Disease (COPD, Asthma)",15362
+56.21229,-72.269905,Hypertension,8220
+-1.4462966,128.71089,Breast Cancer,3631
+96.430664,-35.543873,Stroke,2611
+45.089516,116.61831,"Chronic Respiratory Disease (COPD, Asthma)",11854
+41.167408,-82.675896,Coronary Heart Disease,7001
+-109.33173,-44.212944,Chronic Kidney Disease,4141
+106.98866,-81.03058,Stroke,4594
+66.18053,63.012573,Coronary Heart Disease,1745
+79.50698,49.701378,"Chronic Respiratory Disease (COPD, Asthma)",13586
+12.580686,58.61851,Lung Cancer,1694
+-43.56143,79.783005,Breast Cancer,12494
+2.3828096,-125.87394,Chronic Kidney Disease,153
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",11800
+15.164091,-25.845573,Cancer,2967
+52.896572,-107.88771,Stroke,12150
+9.975519,-80.95081,Chronic Kidney Disease,11460
+45.089516,116.61831,Breast Cancer,12375
+95.111664,-91.99123,Breast Cancer,10971
+-17.365963,95.67008,Lung Cancer,12307
+-59.57457,113.765594,Breast Cancer,781
+2.3828096,-125.87394,"Chronic Respiratory Disease (COPD, Asthma)",7044
+104.04301,71.778275,Diabetes,1999
+-62.253513,-45.19624,"Chronic Respiratory Disease (COPD, Asthma)",957
+66.18053,63.012573,"Cardiovascular Disease (Heart Attack, Stroke)",13245
+-129.27464,38.40658,Cancer,15581
+6.2492247,10.031419,Breast Cancer,11282
+19.334267,-92.0415,Stroke,10243
+-129.27464,38.40658,Chronic Kidney Disease,13027
+49.439922,-72.37112,"Cardiovascular Disease (Heart Attack, Stroke)",14032
+2.3828096,-125.87394,Hypertension,6493
+28.144373,30.364048,"Chronic Respiratory Disease (COPD, Asthma)",11155
+9.458501,76.14796,Lung Cancer,11175
+129.6096,-10.817516,Stroke,9671
+52.659252,74.089615,Diabetes,7844
+-21.21234,19.18356,Cancer,1712
+42.772152,-20.200724,"Cardiovascular Disease (Heart Attack, Stroke)",15938
+108.016846,71.67246,Diabetes,538
+-83.73684,-19.89079,Breast Cancer,4421
+-73.459885,49.087147,"Chronic Respiratory Disease (COPD, Asthma)",6532
+-81.889336,26.535654,Cancer,8008
+53.85427,-48.80425,Chronic Kidney Disease,14525
+24.159012,-17.57147,Coronary Heart Disease,10221
+42.780346,48.6949,Cancer,2833
+107.73681,76.54063,Breast Cancer,13990
+52.896572,-107.88771,Hypertension,12839
+-19.76426,68.44101,Breast Cancer,15308
+-17.365963,95.67008,Chronic Kidney Disease,9151
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",15008
+54.00245,42.65124,Coronary Heart Disease,14029
+40.73944,70.66529,Cancer,11275
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",3551
+95.111664,-91.99123,Hypertension,13755
+85.53512,-54.53356,Breast Cancer,14056
+17.066107,-55.35632,Stroke,9727
+46.643013,-67.47045,"Cardiovascular Disease (Heart Attack, Stroke)",12330
+-92.67095,-82.15316,"Chronic Respiratory Disease (COPD, Asthma)",2960
+29.41569,5.303605,Lung Cancer,13899
+-129.27464,38.40658,Lung Cancer,4295
+80.621864,-22.755722,"Cardiovascular Disease (Heart Attack, Stroke)",3007
+-32.09617,-1.2066358,Chronic Kidney Disease,5660
+-81.30412,92.0409,Cancer,14948
+-6.9087744,122.55433,"Chronic Respiratory Disease (COPD, Asthma)",1977
+107.73681,76.54063,Diabetes,1782
+51.76166,84.65764,Lung Cancer,14090
+-56.491432,-121.33264,Stroke,738
+108.85733,29.845558,"Cardiovascular Disease (Heart Attack, Stroke)",11695
+-1.5635326,-71.696266,Chronic Kidney Disease,6020
+2.3828096,-125.87394,Lung Cancer,6935
+107.73681,76.54063,Chronic Kidney Disease,14001
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",3519
+-56.491432,-121.33264,Coronary Heart Disease,12046
+41.46856,93.453186,Lung Cancer,11173
+10.833467,32.853065,Cancer,10009
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",9275
+-62.253513,-45.19624,Hypertension,14392
+95.111664,-91.99123,Hypertension,6374
+-39.01734,-34.66019,Diabetes,12939
+5.194431,-56.05294,"Cardiovascular Disease (Heart Attack, Stroke)",12098
+-0.7594354,-5.0830398,Diabetes,3468
+42.780346,48.6949,Diabetes,7762
+-83.73684,-19.89079,Lung Cancer,13335
+19.334267,-92.0415,Stroke,15433
+-92.67095,-82.15316,Lung Cancer,10816
+31.92484,37.42759,Hypertension,11048
+-81.30412,92.0409,"Chronic Respiratory Disease (COPD, Asthma)",11249
+113.53734,79.0886,Diabetes,3435
+-57.394638,34.94912,Cancer,9665
+87.41805,46.65334,Stroke,11582
+110.5251,-83.66426,"Chronic Respiratory Disease (COPD, Asthma)",6124
+-36.464268,-72.23163,Hypertension,1597
+56.21229,-72.269905,"Cardiovascular Disease (Heart Attack, Stroke)",12082
+-129.27464,38.40658,"Chronic Respiratory Disease (COPD, Asthma)",10718
+29.41569,5.303605,Coronary Heart Disease,9174
+-6.9087744,122.55433,"Chronic Respiratory Disease (COPD, Asthma)",8048
+68.84792,1.4404333,Stroke,13052
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",6687
+99.7879,25.780968,Breast Cancer,7879
+51.76166,84.65764,Lung Cancer,2699
+-59.57457,113.765594,Breast Cancer,7983
+17.066107,-55.35632,Cancer,4519
+-24.43168,-89.774536,"Cardiovascular Disease (Heart Attack, Stroke)",14219
+33.832493,75.6782,Stroke,9397
+10.833467,32.853065,"Cardiovascular Disease (Heart Attack, Stroke)",12527
+100.57841,-18.590542,Chronic Kidney Disease,5510
+96.430664,-35.543873,Breast Cancer,295
+2.3828096,-125.87394,Lung Cancer,14861
+-24.43168,-89.774536,Breast Cancer,11525
+45.089516,116.61831,Stroke,12335
+-26.21406,-43.006645,Chronic Kidney Disease,3389
+82.5994,105.49935,Hypertension,2987
+10.833467,32.853065,Diabetes,11558
+-65.56309,-51.88348,Hypertension,4615
+-81.889336,26.535654,Diabetes,13380
+-59.25545,105.21246,Breast Cancer,9986
+65.56636,49.237804,Cancer,2422
+-47.89354,78.55899,"Chronic Respiratory Disease (COPD, Asthma)",14256
+-84.1453,46.845818,"Chronic Respiratory Disease (COPD, Asthma)",6754
+-18.533215,35.14771,"Cardiovascular Disease (Heart Attack, Stroke)",4933
+-1.4462966,128.71089,Breast Cancer,15864
+-128.21158,21.146257,Chronic Kidney Disease,11117
+-32.09617,-1.2066358,Hypertension,3270
+2.3828096,-125.87394,Hypertension,15164
+29.41569,5.303605,Diabetes,4208
+108.85733,29.845558,Stroke,4496
+-1.4462966,128.71089,Breast Cancer,4432
+15.164091,-25.845573,Lung Cancer,9073
+-59.57457,113.765594,Chronic Kidney Disease,12202
+107.11478,2.4765177,"Cardiovascular Disease (Heart Attack, Stroke)",1881
+34.355515,-48.257954,"Cardiovascular Disease (Heart Attack, Stroke)",13296
+52.896572,-107.88771,Hypertension,10159
+123.26093,-7.2396407,Coronary Heart Disease,1449
+96.430664,-35.543873,Hypertension,4741
+-6.9087744,122.55433,Breast Cancer,4707
+-56.736744,67.5888,Breast Cancer,9388
+-92.67095,-82.15316,Diabetes,11476
+-83.73684,-19.89079,Coronary Heart Disease,1886
+-83.73684,-19.89079,Lung Cancer,10166
+-81.889336,26.535654,Breast Cancer,13564
+56.21229,-72.269905,Stroke,12732
+24.997765,2.0945761,Coronary Heart Disease,14714
+-83.73684,-19.89079,Lung Cancer,327
+-37.09484,36.818546,Coronary Heart Disease,3128
+-53.354195,10.990013,Diabetes,1849
+42.780346,48.6949,Diabetes,9276
+81.24033,-33.940205,Hypertension,10708
+-83.73684,-19.89079,Cancer,1279
+38.40638,56.724167,Cancer,4963
+34.355515,-48.257954,"Cardiovascular Disease (Heart Attack, Stroke)",6828
+-56.491432,-121.33264,Coronary Heart Disease,2392
+1.3942927,-39.650227,Cancer,12579
+88.56028,11.915484,Coronary Heart Disease,6904
+69.04645,61.631546,Chronic Kidney Disease,833
+113.02413,47.548397,Diabetes,7697
+46.231083,77.18889,Chronic Kidney Disease,6824
+43.223408,-27.820799,Coronary Heart Disease,1701
+43.507633,-11.13658,"Chronic Respiratory Disease (COPD, Asthma)",11421
+64.663246,77.37262,"Chronic Respiratory Disease (COPD, Asthma)",7146
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",12399
+89.87853,-53.497784,Hypertension,7085
+-26.21406,-43.006645,"Cardiovascular Disease (Heart Attack, Stroke)",6885
+66.53687,59.708035,Chronic Kidney Disease,3577
+-109.33173,-44.212944,Stroke,4485
+-26.21406,-43.006645,Chronic Kidney Disease,4808
+-32.09617,-1.2066358,Cancer,9596
+-1.4462966,128.71089,Cancer,11488
+-40.992077,130.94957,Breast Cancer,10325
+-83.73684,-19.89079,Cancer,6727
+-103.86582,87.37781,Diabetes,4112
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",10030
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",4887
+-81.889336,26.535654,Breast Cancer,3168
+-9.527945,45.889515,Chronic Kidney Disease,6888
+-65.56309,-51.88348,"Chronic Respiratory Disease (COPD, Asthma)",8130
+-24.43168,-89.774536,Lung Cancer,9536
+-62.253513,-45.19624,Lung Cancer,6593
+17.066107,-55.35632,Stroke,7607
+-1.4462966,128.71089,"Cardiovascular Disease (Heart Attack, Stroke)",7835
+17.066107,-55.35632,"Cardiovascular Disease (Heart Attack, Stroke)",10679
+2.3828096,-125.87394,Hypertension,14729
+-32.09617,-1.2066358,Cancer,14140
+29.41569,5.303605,Lung Cancer,5262
+123.26093,-7.2396407,Hypertension,9661
+107.11478,2.4765177,Hypertension,15898
+-35.431454,-94.52666,Lung Cancer,2861
+-92.67095,-82.15316,Lung Cancer,4626
+-129.27464,38.40658,Chronic Kidney Disease,11934
+58.486847,66.37819,Lung Cancer,6686
+-138.52495,-30.278217,Cancer,7640
+27.756277,-20.203081,Stroke,4022
+119.55171,-46.5714,Hypertension,3072
+113.53734,79.0886,Coronary Heart Disease,4999
+-129.27464,38.40658,"Chronic Respiratory Disease (COPD, Asthma)",8470
+-110.4225,30.837551,"Chronic Respiratory Disease (COPD, Asthma)",14113
+68.84792,1.4404333,"Chronic Respiratory Disease (COPD, Asthma)",3563
+-1.2746173,-0.8588323,Lung Cancer,11084
+-17.365963,95.67008,Coronary Heart Disease,9864
+82.5994,105.49935,Diabetes,4180
+10.833467,32.853065,"Cardiovascular Disease (Heart Attack, Stroke)",13596
+56.21229,-72.269905,Coronary Heart Disease,1934
+-56.491432,-121.33264,Hypertension,9246
+-56.736744,67.5888,Breast Cancer,6555
+127.47171,42.03181,Cancer,402
+-103.86582,87.37781,Diabetes,6510
+-59.57457,113.765594,Breast Cancer,3077
+24.867218,45.5955,Chronic Kidney Disease,2536
+15.957914,78.678986,Hypertension,1189
+-129.27464,38.40658,Lung Cancer,11557
+107.73681,76.54063,Coronary Heart Disease,11248
+81.67741,-92.266365,"Cardiovascular Disease (Heart Attack, Stroke)",5915
+-29.30133,46.722286,Coronary Heart Disease,11267
+-83.73684,-19.89079,Lung Cancer,4696
+-1.4462966,128.71089,Breast Cancer,1859
+79.50698,49.701378,Stroke,5570
+-73.459885,49.087147,Breast Cancer,8193
+-39.01734,-34.66019,Chronic Kidney Disease,7434
+-110.4225,30.837551,Cancer,6588
+15.957914,78.678986,Stroke,15928
+-92.67095,-82.15316,Cancer,490
+2.3828096,-125.87394,Stroke,8807
+-1.2746173,-0.8588323,Cancer,2442
+69.04645,61.631546,Breast Cancer,11277
+-26.21406,-43.006645,"Chronic Respiratory Disease (COPD, Asthma)",6846
+105.28889,31.551271,"Chronic Respiratory Disease (COPD, Asthma)",5105
+87.32961,87.978546,Chronic Kidney Disease,11363
+76.77636,-20.25527,Hypertension,2944
+10.5171795,1.1576133,Stroke,12434
+109.40436,67.35407,Hypertension,2073
+-12.236556,-88.90858,Stroke,1749
+2.2844746,-31.001871,Cancer,3081
+-29.097328,-88.4963,Lung Cancer,11339
+68.39041,8.540609,Coronary Heart Disease,4209
+89.87853,-53.497784,Lung Cancer,5787
+42.175545,87.08035,Chronic Kidney Disease,9873
+119.55171,-46.5714,Chronic Kidney Disease,3406
+46.618645,-30.259499,Hypertension,3621
+-1.5635326,-71.696266,"Cardiovascular Disease (Heart Attack, Stroke)",10019
+81.67741,-92.266365,Coronary Heart Disease,1726
+-81.889336,26.535654,Cancer,4351
+119.55171,-46.5714,Hypertension,10078
+123.26093,-7.2396407,"Cardiovascular Disease (Heart Attack, Stroke)",1223
+-83.73684,-19.89079,Lung Cancer,7989
+15.957914,78.678986,Lung Cancer,10617
+27.756277,-20.203081,Stroke,14358
+-84.1453,46.845818,Stroke,10252
+15.957914,78.678986,Stroke,5822
+113.02413,47.548397,"Chronic Respiratory Disease (COPD, Asthma)",15000
+107.73681,76.54063,Cancer,5928
+-92.67095,-82.15316,Chronic Kidney Disease,14575
+84.82465,14.718121,Cancer,11944
+-53.354195,10.990013,Cancer,14067
+-40.992077,130.94957,Breast Cancer,6914
+69.92164,-100.68411,Hypertension,2076
+-85.02058,90.38082,"Chronic Respiratory Disease (COPD, Asthma)",14884
+110.5251,-83.66426,Hypertension,13040
+123.48349,0.37001252,Chronic Kidney Disease,6630
+27.756277,-20.203081,Coronary Heart Disease,9170
+-28.684687,-60.729614,Stroke,7252
+-9.527945,45.889515,Breast Cancer,7581
+-83.73684,-19.89079,Lung Cancer,5418
+54.734024,22.08927,Diabetes,2600
+-17.80518,17.56814,"Chronic Respiratory Disease (COPD, Asthma)",10289
+-56.491432,-121.33264,Breast Cancer,13597
+-109.33173,-44.212944,Chronic Kidney Disease,11752
+-45.622868,-95.64637,"Cardiovascular Disease (Heart Attack, Stroke)",8797
+17.066107,-55.35632,Lung Cancer,13550
+123.48349,0.37001252,"Chronic Respiratory Disease (COPD, Asthma)",15339
+-24.10492,64.91211,Breast Cancer,14076
+-41.57401,-18.910265,Chronic Kidney Disease,4218
+34.355515,-48.257954,Chronic Kidney Disease,9943
+58.302338,-6.942905,Diabetes,4572
+-5.8150253,36.10609,Hypertension,5299
+6.3136644,125.97049,"Chronic Respiratory Disease (COPD, Asthma)",7576
+-41.57401,-18.910265,Stroke,166
+-62.253513,-45.19624,"Chronic Respiratory Disease (COPD, Asthma)",4992
+-32.09617,-1.2066358,Cancer,15257
+53.85427,-48.80425,Chronic Kidney Disease,11795
+-83.73684,-19.89079,Lung Cancer,10666
+-56.491432,-121.33264,Coronary Heart Disease,6340
+-81.889336,26.535654,Cancer,9136
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",12075
+-1.4462966,128.71089,Breast Cancer,8453
+52.896572,-107.88771,Stroke,14121
+-29.097328,-88.4963,Coronary Heart Disease,1000
+-92.67095,-82.15316,"Cardiovascular Disease (Heart Attack, Stroke)",7017
+-59.57457,113.765594,"Chronic Respiratory Disease (COPD, Asthma)",4102
+-6.8274856,-29.074038,Hypertension,789
+-29.883415,-19.21682,Cancer,2060
+52.896572,-107.88771,Chronic Kidney Disease,8369
+17.835415,48.61255,Cancer,6216
+2.3828096,-125.87394,Chronic Kidney Disease,4766
+107.11478,2.4765177,"Cardiovascular Disease (Heart Attack, Stroke)",9839
+27.756277,-20.203081,Diabetes,4816
+-33.193027,-7.387537,"Cardiovascular Disease (Heart Attack, Stroke)",3630
+-32.918434,44.92697,Chronic Kidney Disease,12582
+75.31138,-0.69111216,Hypertension,2894
+-56.491432,-121.33264,Hypertension,5060
+-32.918434,44.92697,"Cardiovascular Disease (Heart Attack, Stroke)",12007
+-92.27975,72.95386,"Chronic Respiratory Disease (COPD, Asthma)",10286
+-110.4225,30.837551,Cancer,12612
+31.92484,37.42759,Chronic Kidney Disease,2850
+17.50094,18.379963,"Cardiovascular Disease (Heart Attack, Stroke)",513
+82.29574,-56.609226,Hypertension,8400
+56.21229,-72.269905,Coronary Heart Disease,3388
+-103.86582,87.37781,"Chronic Respiratory Disease (COPD, Asthma)",14257
+2.3828096,-125.87394,Stroke,15409
+-90.92143,50.721302,Lung Cancer,2769
+-62.253513,-45.19624,Cancer,13635
+122.35132,28.063473,Chronic Kidney Disease,11272
+-9.894775,74.81204,Breast Cancer,8185
+-56.491432,-121.33264,"Cardiovascular Disease (Heart Attack, Stroke)",6702
+-83.73684,-19.89079,"Chronic Respiratory Disease (COPD, Asthma)",14108
+-26.21406,-43.006645,Stroke,15753
+-9.527945,45.889515,Stroke,1252
+-6.9087744,122.55433,"Chronic Respiratory Disease (COPD, Asthma)",1216
+-18.061375,13.566636,"Cardiovascular Disease (Heart Attack, Stroke)",1769

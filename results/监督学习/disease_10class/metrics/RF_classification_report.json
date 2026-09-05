@@ -1,0 +1,75 @@
+{
+  "Breast Cancer": {
+    "precision": 0.4357142857142857,
+    "recall": 0.5700934579439252,
+    "f1-score": 0.4939271255060729,
+    "support": 321.0
+  },
+  "Cancer": {
+    "precision": 0.32057416267942584,
+    "recall": 0.21003134796238246,
+    "f1-score": 0.2537878787878788,
+    "support": 319.0
+  },
+  "Cardiovascular Disease (Heart Attack, Stroke)": {
+    "precision": 0.2149122807017544,
+    "recall": 0.153125,
+    "f1-score": 0.17883211678832117,
+    "support": 320.0
+  },
+  "Chronic Kidney Disease": {
+    "precision": 0.21223021582733814,
+    "recall": 0.17717717717717718,
+    "f1-score": 0.19312602291325695,
+    "support": 333.0
+  },
+  "Chronic Respiratory Disease (COPD, Asthma)": {
+    "precision": 0.2711864406779661,
+    "recall": 0.15141955835962145,
+    "f1-score": 0.19433198380566802,
+    "support": 317.0
+  },
+  "Coronary Heart Disease": {
+    "precision": 0.2310126582278481,
+    "recall": 0.22884012539184953,
+    "f1-score": 0.22992125984251968,
+    "support": 319.0
+  },
+  "Diabetes": {
+    "precision": 0.3404255319148936,
+    "recall": 0.5217391304347826,
+    "f1-score": 0.41201716738197425,
+    "support": 276.0
+  },
+  "Hypertension": {
+    "precision": 0.3316831683168317,
+    "recall": 0.4200626959247649,
+    "f1-score": 0.3706777316735823,
+    "support": 319.0
+  },
+  "Lung Cancer": {
+    "precision": 0.3333333333333333,
+    "recall": 0.4289940828402367,
+    "f1-score": 0.37516170763260026,
+    "support": 338.0
+  },
+  "Stroke": {
+    "precision": 0.22073578595317725,
+    "recall": 0.2018348623853211,
+    "f1-score": 0.2108626198083067,
+    "support": 327.0
+  },
+  "accuracy": 0.30354343054248983,
+  "macro avg": {
+    "precision": 0.2911807863346854,
+    "recall": 0.3063317438420061,
+    "f1-score": 0.29126456141401813,
+    "support": 3189.0
+  },
+  "weighted avg": {
+    "precision": 0.290323869911766,
+    "recall": 0.30354343054248983,
+    "f1-score": 0.28965631007769,
+    "support": 3189.0
+  }
+}

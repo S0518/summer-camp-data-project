@@ -1,0 +1,10 @@
+                               precision    recall  f1-score   support
+
+                 Cancer_Other       0.48      0.45      0.46       640
+       Cardio_Cerebrovascular       0.55      0.45      0.50       966
+Metabolic_Hypertension_Kidney       0.47      0.59      0.52       928
+        Respiratory_Pulmonary       0.45      0.42      0.43       655
+
+                     accuracy                           0.49      3189
+                    macro avg       0.49      0.48      0.48      3189
+                 weighted avg       0.49      0.49      0.49      3189
